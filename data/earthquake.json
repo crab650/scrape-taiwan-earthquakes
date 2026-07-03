@@ -1,0 +1,2213 @@
+[
+  {
+    "id": "S20260702224430",
+    "type": "小區域",
+    "report_content": "07/02-22:44臺灣東部海域發生規模5.3有感地震，最大震度宜蘭縣宜蘭市、花蓮縣和平、桃園市三光、新竹縣關西、臺中市德基、臺東縣成功2級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026070222443053_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026070222443053",
+    "origin_time": "2026-07-02T22:44:30+08:00",
+    "depth": 113.8,
+    "magnitude": 5.3,
+    "epicenter": {
+      "location": "宜蘭縣政府東方  80.9  公里 (位於臺灣東部海域)",
+      "latitude": 24.65,
+      "longitude": 122.56
+    },
+    "shaking_areas": [
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "2級",
+        "area_desc": "宜蘭縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "桃園市",
+        "intensity": "2級",
+        "area_desc": "桃園市地區"
+      },
+      {
+        "area_name": "新竹縣",
+        "intensity": "2級",
+        "area_desc": "新竹縣地區"
+      },
+      {
+        "area_name": "臺中市",
+        "intensity": "2級",
+        "area_desc": "臺中市地區"
+      },
+      {
+        "area_name": "臺東縣",
+        "intensity": "2級",
+        "area_desc": "臺東縣地區"
+      },
+      {
+        "area_name": "宜蘭縣、花蓮縣、桃園市、新竹縣、臺中市、臺東縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "新北市",
+        "intensity": "1級",
+        "area_desc": "新北市地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "1級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "新竹市",
+        "intensity": "1級",
+        "area_desc": "新竹市地區"
+      },
+      {
+        "area_name": "苗栗縣",
+        "intensity": "1級",
+        "area_desc": "苗栗縣地區"
+      },
+      {
+        "area_name": "彰化縣",
+        "intensity": "1級",
+        "area_desc": "彰化縣地區"
+      },
+      {
+        "area_name": "雲林縣",
+        "intensity": "1級",
+        "area_desc": "雲林縣地區"
+      },
+      {
+        "area_name": "臺北市",
+        "intensity": "1級",
+        "area_desc": "臺北市地區"
+      },
+      {
+        "area_name": "嘉義縣",
+        "intensity": "1級",
+        "area_desc": "嘉義縣地區"
+      },
+      {
+        "area_name": "新北市、南投縣、新竹市、苗栗縣、彰化縣、雲林縣、臺北市、嘉義縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "2級"
+  },
+  {
+    "id": "S20260702114525",
+    "type": "小區域",
+    "report_content": "07/02-11:45花蓮縣秀林鄉發生規模3.5有感地震，最大震度花蓮縣西林2級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026070211452535_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026070211452535",
+    "origin_time": "2026-07-02T11:45:25+08:00",
+    "depth": 14.1,
+    "magnitude": 3.5,
+    "epicenter": {
+      "location": "花蓮縣政府西南方  19.3  公里 (位於花蓮縣秀林鄉)",
+      "latitude": 23.88,
+      "longitude": 121.48
+    },
+    "shaking_areas": [
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "1級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "2級"
+  },
+  {
+    "id": "S20260702090144",
+    "type": "小區域",
+    "report_content": "07/02-09:01臺灣南部海域發生規模4.0有感地震，最大震度屏東縣南灣2級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026070209014440_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026070209014440",
+    "origin_time": "2026-07-02T09:01:44+08:00",
+    "depth": 22.1,
+    "magnitude": 4.0,
+    "epicenter": {
+      "location": "屏東縣政府南南東方  101.7  公里 (位於臺灣南部海域)",
+      "latitude": 21.81,
+      "longitude": 120.78
+    },
+    "shaking_areas": [
+      {
+        "area_name": "屏東縣",
+        "intensity": "2級",
+        "area_desc": "屏東縣地區"
+      },
+      {
+        "area_name": "屏東縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      }
+    ],
+    "max_intensity": "2級"
+  },
+  {
+    "id": "115048",
+    "type": "顯著有感",
+    "report_content": "07/02-07:06花蓮縣豐濱鄉發生規模4.0有感地震，最大震度花蓮縣東富4級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026070207060640048_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026048",
+    "origin_time": "2026-07-02T07:06:06+08:00",
+    "depth": 5.0,
+    "magnitude": 4.0,
+    "epicenter": {
+      "location": "花蓮縣政府南南西方  41.0  公里 (位於花蓮縣豐濱鄉)",
+      "latitude": 23.64,
+      "longitude": 121.48
+    },
+    "shaking_areas": [
+      {
+        "area_name": "花蓮縣",
+        "intensity": "4級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "4級",
+        "area_desc": "最大震度4級地區"
+      }
+    ],
+    "max_intensity": "4級"
+  },
+  {
+    "id": "S20260702003154",
+    "type": "小區域",
+    "report_content": "07/02-00:31臺灣東部海域發生規模4.3有感地震，最大震度宜蘭縣頭城、新北市汐止、臺北市信義區2級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026070200315443_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026070200315443",
+    "origin_time": "2026-07-02T00:31:54+08:00",
+    "depth": 56.0,
+    "magnitude": 4.3,
+    "epicenter": {
+      "location": "宜蘭縣政府東南東方  30.8  公里 (位於臺灣東部海域)",
+      "latitude": 24.63,
+      "longitude": 122.05
+    },
+    "shaking_areas": [
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "2級",
+        "area_desc": "宜蘭縣地區"
+      },
+      {
+        "area_name": "新北市",
+        "intensity": "2級",
+        "area_desc": "新北市地區"
+      },
+      {
+        "area_name": "臺北市",
+        "intensity": "2級",
+        "area_desc": "臺北市地區"
+      },
+      {
+        "area_name": "宜蘭縣、新北市、臺北市",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "1級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "桃園市",
+        "intensity": "1級",
+        "area_desc": "桃園市地區"
+      },
+      {
+        "area_name": "新竹縣",
+        "intensity": "1級",
+        "area_desc": "新竹縣地區"
+      },
+      {
+        "area_name": "花蓮縣、桃園市、新竹縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "2級"
+  },
+  {
+    "id": "S20260630051502",
+    "type": "小區域",
+    "report_content": "06/30-05:15臺灣東部海域發生規模5.0有感地震，最大震度宜蘭縣南澳、花蓮縣和平、彰化縣彰化市2級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202606/2026063005150250_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026063005150250",
+    "origin_time": "2026-06-30T05:15:02+08:00",
+    "depth": 94.1,
+    "magnitude": 5.0,
+    "epicenter": {
+      "location": "宜蘭縣政府東北東方  36.4  公里 (位於臺灣東部海域)",
+      "latitude": 24.8,
+      "longitude": 122.11
+    },
+    "shaking_areas": [
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "2級",
+        "area_desc": "宜蘭縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "彰化縣",
+        "intensity": "2級",
+        "area_desc": "彰化縣地區"
+      },
+      {
+        "area_name": "宜蘭縣、花蓮縣、彰化縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "新北市",
+        "intensity": "1級",
+        "area_desc": "新北市地區"
+      },
+      {
+        "area_name": "臺北市",
+        "intensity": "1級",
+        "area_desc": "臺北市地區"
+      },
+      {
+        "area_name": "桃園市",
+        "intensity": "1級",
+        "area_desc": "桃園市地區"
+      },
+      {
+        "area_name": "新竹縣",
+        "intensity": "1級",
+        "area_desc": "新竹縣地區"
+      },
+      {
+        "area_name": "臺中市",
+        "intensity": "1級",
+        "area_desc": "臺中市地區"
+      },
+      {
+        "area_name": "新竹市",
+        "intensity": "1級",
+        "area_desc": "新竹市地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "1級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "苗栗縣",
+        "intensity": "1級",
+        "area_desc": "苗栗縣地區"
+      },
+      {
+        "area_name": "雲林縣",
+        "intensity": "1級",
+        "area_desc": "雲林縣地區"
+      },
+      {
+        "area_name": "新北市、臺北市、桃園市、新竹縣、臺中市、新竹市、南投縣、苗栗縣、雲林縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "2級"
+  },
+  {
+    "id": "S20260629092057",
+    "type": "小區域",
+    "report_content": "06/29-09:20花蓮縣秀林鄉發生規模3.6有感地震，最大震度花蓮縣西寶2級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202606/2026062909205736_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026062909205736",
+    "origin_time": "2026-06-29T09:20:57+08:00",
+    "depth": 22.4,
+    "magnitude": 3.6,
+    "epicenter": {
+      "location": "花蓮縣政府西北方  18.1  公里 (位於花蓮縣秀林鄉)",
+      "latitude": 24.13,
+      "longitude": 121.53
+    },
+    "shaking_areas": [
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "1級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "臺中市",
+        "intensity": "1級",
+        "area_desc": "臺中市地區"
+      },
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "1級",
+        "area_desc": "宜蘭縣地區"
+      },
+      {
+        "area_name": "南投縣、臺中市、宜蘭縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "2級"
+  },
+  {
+    "id": "S20260625053042",
+    "type": "小區域",
+    "report_content": "06/25-05:30嘉義縣中埔鄉發生規模3.1有感地震，最大震度嘉義市、臺南市白河2級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202606/2026062505304231_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026062505304231",
+    "origin_time": "2026-06-25T05:30:42+08:00",
+    "depth": 7.0,
+    "magnitude": 3.1,
+    "epicenter": {
+      "location": "嘉義縣政府東南東方  15.2  公里 (位於嘉義縣中埔鄉)",
+      "latitude": 23.43,
+      "longitude": 120.44
+    },
+    "shaking_areas": [
+      {
+        "area_name": "嘉義市",
+        "intensity": "2級",
+        "area_desc": "嘉義市地區"
+      },
+      {
+        "area_name": "臺南市",
+        "intensity": "2級",
+        "area_desc": "臺南市地區"
+      },
+      {
+        "area_name": "嘉義市、臺南市",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "嘉義縣",
+        "intensity": "1級",
+        "area_desc": "嘉義縣地區"
+      },
+      {
+        "area_name": "雲林縣",
+        "intensity": "1級",
+        "area_desc": "雲林縣地區"
+      },
+      {
+        "area_name": "嘉義縣、雲林縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "2級"
+  },
+  {
+    "id": "S20260621103730",
+    "type": "小區域",
+    "report_content": "06/21-10:37嘉義市西區發生規模3.5有感地震，最大震度臺南市白河、嘉義縣太保市3級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202606/2026062110373035_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026062110373035",
+    "origin_time": "2026-06-21T10:37:30+08:00",
+    "depth": 11.5,
+    "magnitude": 3.5,
+    "epicenter": {
+      "location": "嘉義市政府西方  2.0  公里 (位於嘉義市西區)",
+      "latitude": 23.48,
+      "longitude": 120.43
+    },
+    "shaking_areas": [
+      {
+        "area_name": "臺南市",
+        "intensity": "3級",
+        "area_desc": "臺南市地區"
+      },
+      {
+        "area_name": "嘉義縣",
+        "intensity": "3級",
+        "area_desc": "嘉義縣地區"
+      },
+      {
+        "area_name": "臺南市、嘉義縣",
+        "intensity": "3級",
+        "area_desc": "最大震度3級地區"
+      },
+      {
+        "area_name": "嘉義市",
+        "intensity": "2級",
+        "area_desc": "嘉義市地區"
+      },
+      {
+        "area_name": "嘉義市",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "雲林縣",
+        "intensity": "1級",
+        "area_desc": "雲林縣地區"
+      },
+      {
+        "area_name": "彰化縣",
+        "intensity": "1級",
+        "area_desc": "彰化縣地區"
+      },
+      {
+        "area_name": "雲林縣、彰化縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "3級"
+  },
+  {
+    "id": "S20260619193311",
+    "type": "小區域",
+    "report_content": "06/19-19:33宜蘭縣近海發生規模3.5有感地震，最大震度宜蘭縣南澳3級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202606/2026061919331135_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026061919331135",
+    "origin_time": "2026-06-19T19:33:11+08:00",
+    "depth": 9.9,
+    "magnitude": 3.5,
+    "epicenter": {
+      "location": "宜蘭縣政府南南東方  37.4  公里 (位於宜蘭縣近海)",
+      "latitude": 24.4,
+      "longitude": 121.84
+    },
+    "shaking_areas": [
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "3級",
+        "area_desc": "宜蘭縣地區"
+      },
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "3級",
+        "area_desc": "最大震度3級地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      }
+    ],
+    "max_intensity": "3級"
+  },
+  {
+    "id": "S20260619190044",
+    "type": "小區域",
+    "report_content": "06/19-19:00彰化縣田中鎮發生規模3.0有感地震，最大震度雲林縣西螺、彰化縣彰化市2級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202606/2026061919004430_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026061919004430",
+    "origin_time": "2026-06-19T19:00:44+08:00",
+    "depth": 21.3,
+    "magnitude": 3.0,
+    "epicenter": {
+      "location": "彰化縣政府南方  22.6  公里 (位於彰化縣田中鎮)",
+      "latitude": 23.87,
+      "longitude": 120.57
+    },
+    "shaking_areas": [
+      {
+        "area_name": "雲林縣",
+        "intensity": "2級",
+        "area_desc": "雲林縣地區"
+      },
+      {
+        "area_name": "彰化縣",
+        "intensity": "2級",
+        "area_desc": "彰化縣地區"
+      },
+      {
+        "area_name": "雲林縣、彰化縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "臺中市",
+        "intensity": "1級",
+        "area_desc": "臺中市地區"
+      },
+      {
+        "area_name": "臺中市",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "2級"
+  },
+  {
+    "id": "S20260618062803",
+    "type": "小區域",
+    "report_content": "06/18-06:28南投縣中寮鄉發生規模3.1有感地震，最大震度南投縣魚池、彰化縣彰化市、南投縣南投市1級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202606/2026061806280331_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026061806280331",
+    "origin_time": "2026-06-18T06:28:03+08:00",
+    "depth": 7.4,
+    "magnitude": 3.1,
+    "epicenter": {
+      "location": "南投縣政府東南東方  14.7  公里 (位於南投縣中寮鄉)",
+      "latitude": 23.86,
+      "longitude": 120.83
+    },
+    "shaking_areas": [
+      {
+        "area_name": "南投縣",
+        "intensity": "1級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "彰化縣",
+        "intensity": "1級",
+        "area_desc": "彰化縣地區"
+      },
+      {
+        "area_name": "南投縣、彰化縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "1級"
+  },
+  {
+    "id": "S20260614111504",
+    "type": "小區域",
+    "report_content": "06/14-11:15宜蘭縣南澳鄉發生規模4.5有感地震，最大震度宜蘭縣牛鬥、花蓮縣西寶2級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202606/2026061411150445_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026061411150445",
+    "origin_time": "2026-06-14T11:15:04+08:00",
+    "depth": 45.2,
+    "magnitude": 4.5,
+    "epicenter": {
+      "location": "宜蘭縣政府南南西方  25.5  公里 (位於宜蘭縣南澳鄉)",
+      "latitude": 24.53,
+      "longitude": 121.64
+    },
+    "shaking_areas": [
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "2級",
+        "area_desc": "宜蘭縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "宜蘭縣、花蓮縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "桃園市",
+        "intensity": "1級",
+        "area_desc": "桃園市地區"
+      },
+      {
+        "area_name": "新北市",
+        "intensity": "1級",
+        "area_desc": "新北市地區"
+      },
+      {
+        "area_name": "臺中市",
+        "intensity": "1級",
+        "area_desc": "臺中市地區"
+      },
+      {
+        "area_name": "新竹縣",
+        "intensity": "1級",
+        "area_desc": "新竹縣地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "1級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "臺北市",
+        "intensity": "1級",
+        "area_desc": "臺北市地區"
+      },
+      {
+        "area_name": "桃園市、新北市、臺中市、新竹縣、南投縣、臺北市",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "2級"
+  },
+  {
+    "id": "S20260611235740",
+    "type": "小區域",
+    "report_content": "06/11-23:57花蓮縣近海發生規模3.9有感地震，最大震度花蓮縣鹽寮、花蓮縣花蓮市2級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202606/2026061123574039_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026061123574039",
+    "origin_time": "2026-06-11T23:57:40+08:00",
+    "depth": 22.7,
+    "magnitude": 3.9,
+    "epicenter": {
+      "location": "花蓮縣政府南方  6.9  公里 (位於花蓮縣近海)",
+      "latitude": 23.93,
+      "longitude": 121.61
+    },
+    "shaking_areas": [
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "1級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "臺中市",
+        "intensity": "1級",
+        "area_desc": "臺中市地區"
+      },
+      {
+        "area_name": "南投縣、臺中市",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "2級"
+  },
+  {
+    "id": "S20260608230452",
+    "type": "小區域",
+    "report_content": "06/08-23:04花蓮縣秀林鄉發生規模3.6有感地震，最大震度花蓮縣銅門3級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202606/2026060823045236_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026060823045236",
+    "origin_time": "2026-06-08T23:04:52+08:00",
+    "depth": 17.1,
+    "magnitude": 3.6,
+    "epicenter": {
+      "location": "花蓮縣政府西南西方  17.2  公里 (位於花蓮縣秀林鄉)",
+      "latitude": 23.92,
+      "longitude": 121.47
+    },
+    "shaking_areas": [
+      {
+        "area_name": "花蓮縣",
+        "intensity": "3級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "3級",
+        "area_desc": "最大震度3級地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "1級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "1級",
+        "area_desc": "宜蘭縣地區"
+      },
+      {
+        "area_name": "南投縣、宜蘭縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "3級"
+  },
+  {
+    "id": "S20260608162241",
+    "type": "小區域",
+    "report_content": "06/08-16:22宜蘭縣近海發生規模3.6有感地震，最大震度宜蘭縣南澳3級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202606/2026060816224136_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026060816224136",
+    "origin_time": "2026-06-08T16:22:41+08:00",
+    "depth": 14.3,
+    "magnitude": 3.6,
+    "epicenter": {
+      "location": "宜蘭縣政府南方  35.9  公里 (位於宜蘭縣近海)",
+      "latitude": 24.41,
+      "longitude": 121.81
+    },
+    "shaking_areas": [
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "3級",
+        "area_desc": "宜蘭縣地區"
+      },
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "3級",
+        "area_desc": "最大震度3級地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      }
+    ],
+    "max_intensity": "3級"
+  },
+  {
+    "id": "S20260608011344",
+    "type": "小區域",
+    "report_content": "06/08-01:13臺灣東部海域發生規模4.2有感地震，最大震度花蓮縣鹽寮3級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202606/2026060801134442_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026060801134442",
+    "origin_time": "2026-06-08T01:13:44+08:00",
+    "depth": 24.2,
+    "magnitude": 4.2,
+    "epicenter": {
+      "location": "花蓮縣政府東南東方  16.8  公里 (位於臺灣東部海域)",
+      "latitude": 23.94,
+      "longitude": 121.78
+    },
+    "shaking_areas": [
+      {
+        "area_name": "花蓮縣",
+        "intensity": "3級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "3級",
+        "area_desc": "最大震度3級地區"
+      },
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "1級",
+        "area_desc": "宜蘭縣地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "1級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "臺中市",
+        "intensity": "1級",
+        "area_desc": "臺中市地區"
+      },
+      {
+        "area_name": "宜蘭縣、南投縣、臺中市",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "3級"
+  },
+  {
+    "id": "115047",
+    "type": "顯著有感",
+    "report_content": "05/20-20:25臺東縣近海發生規模4.8有感地震，最大震度臺東縣長濱4級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026052020253548047_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026047",
+    "origin_time": "2026-05-20T20:25:35+08:00",
+    "depth": 27.3,
+    "magnitude": 4.8,
+    "epicenter": {
+      "location": "臺東縣政府北北東方  63.9  公里 (位於臺東縣近海)",
+      "latitude": 23.27,
+      "longitude": 121.44
+    },
+    "shaking_areas": [
+      {
+        "area_name": "臺東縣",
+        "intensity": "4級",
+        "area_desc": "臺東縣地區"
+      },
+      {
+        "area_name": "臺東縣",
+        "intensity": "4級",
+        "area_desc": "最大震度4級地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "3級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "3級",
+        "area_desc": "最大震度3級地區"
+      },
+      {
+        "area_name": "雲林縣",
+        "intensity": "2級",
+        "area_desc": "雲林縣地區"
+      },
+      {
+        "area_name": "雲林縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "嘉義縣",
+        "intensity": "1級",
+        "area_desc": "嘉義縣地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "1級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "臺南市",
+        "intensity": "1級",
+        "area_desc": "臺南市地區"
+      },
+      {
+        "area_name": "高雄市",
+        "intensity": "1級",
+        "area_desc": "高雄市地區"
+      },
+      {
+        "area_name": "嘉義市",
+        "intensity": "1級",
+        "area_desc": "嘉義市地區"
+      },
+      {
+        "area_name": "屏東縣",
+        "intensity": "1級",
+        "area_desc": "屏東縣地區"
+      },
+      {
+        "area_name": "臺中市",
+        "intensity": "1級",
+        "area_desc": "臺中市地區"
+      },
+      {
+        "area_name": "彰化縣",
+        "intensity": "1級",
+        "area_desc": "彰化縣地區"
+      },
+      {
+        "area_name": "嘉義縣、南投縣、臺南市、高雄市、嘉義市、屏東縣、臺中市、彰化縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "4級"
+  },
+  {
+    "id": "115046",
+    "type": "顯著有感",
+    "report_content": "05/20-09:11臺東縣近海發生規模4.8有感地震，最大震度臺東縣長濱4級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026052009115848046_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026046",
+    "origin_time": "2026-05-20T09:11:58+08:00",
+    "depth": 27.8,
+    "magnitude": 4.8,
+    "epicenter": {
+      "location": "臺東縣政府北北東方  65.3  公里 (位於臺東縣近海)",
+      "latitude": 23.28,
+      "longitude": 121.45
+    },
+    "shaking_areas": [
+      {
+        "area_name": "臺東縣",
+        "intensity": "4級",
+        "area_desc": "臺東縣地區"
+      },
+      {
+        "area_name": "臺東縣",
+        "intensity": "4級",
+        "area_desc": "最大震度4級地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "3級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "3級",
+        "area_desc": "最大震度3級地區"
+      },
+      {
+        "area_name": "雲林縣",
+        "intensity": "2級",
+        "area_desc": "雲林縣地區"
+      },
+      {
+        "area_name": "嘉義縣",
+        "intensity": "2級",
+        "area_desc": "嘉義縣地區"
+      },
+      {
+        "area_name": "彰化縣",
+        "intensity": "2級",
+        "area_desc": "彰化縣地區"
+      },
+      {
+        "area_name": "雲林縣、嘉義縣、彰化縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "高雄市",
+        "intensity": "1級",
+        "area_desc": "高雄市地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "1級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "臺南市",
+        "intensity": "1級",
+        "area_desc": "臺南市地區"
+      },
+      {
+        "area_name": "嘉義市",
+        "intensity": "1級",
+        "area_desc": "嘉義市地區"
+      },
+      {
+        "area_name": "臺中市",
+        "intensity": "1級",
+        "area_desc": "臺中市地區"
+      },
+      {
+        "area_name": "高雄市、南投縣、臺南市、嘉義市、臺中市",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "4級"
+  },
+  {
+    "id": "115045",
+    "type": "顯著有感",
+    "report_content": "05/17-08:46南投縣埔里鎮發生規模5.1有感地震，最大震度南投縣國姓4級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026051708461451045_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026045",
+    "origin_time": "2026-05-17T08:46:14+08:00",
+    "depth": 15.5,
+    "magnitude": 5.1,
+    "epicenter": {
+      "location": "南投縣政府東北東方  33.5  公里 (位於南投縣埔里鎮)",
+      "latitude": 24.0,
+      "longitude": 121.0
+    },
+    "shaking_areas": [
+      {
+        "area_name": "南投縣",
+        "intensity": "4級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "4級",
+        "area_desc": "最大震度4級地區"
+      },
+      {
+        "area_name": "臺中市",
+        "intensity": "3級",
+        "area_desc": "臺中市地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "3級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "苗栗縣",
+        "intensity": "3級",
+        "area_desc": "苗栗縣地區"
+      },
+      {
+        "area_name": "臺中市、花蓮縣、苗栗縣",
+        "intensity": "3級",
+        "area_desc": "最大震度3級地區"
+      },
+      {
+        "area_name": "彰化縣",
+        "intensity": "2級",
+        "area_desc": "彰化縣地區"
+      },
+      {
+        "area_name": "雲林縣",
+        "intensity": "2級",
+        "area_desc": "雲林縣地區"
+      },
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "2級",
+        "area_desc": "宜蘭縣地區"
+      },
+      {
+        "area_name": "新竹縣",
+        "intensity": "2級",
+        "area_desc": "新竹縣地區"
+      },
+      {
+        "area_name": "嘉義縣",
+        "intensity": "2級",
+        "area_desc": "嘉義縣地區"
+      },
+      {
+        "area_name": "新竹市",
+        "intensity": "2級",
+        "area_desc": "新竹市地區"
+      },
+      {
+        "area_name": "桃園市",
+        "intensity": "2級",
+        "area_desc": "桃園市地區"
+      },
+      {
+        "area_name": "新北市",
+        "intensity": "2級",
+        "area_desc": "新北市地區"
+      },
+      {
+        "area_name": "彰化縣、雲林縣、宜蘭縣、新竹縣、嘉義縣、新竹市、桃園市、新北市",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "嘉義市",
+        "intensity": "1級",
+        "area_desc": "嘉義市地區"
+      },
+      {
+        "area_name": "臺南市",
+        "intensity": "1級",
+        "area_desc": "臺南市地區"
+      },
+      {
+        "area_name": "臺北市",
+        "intensity": "1級",
+        "area_desc": "臺北市地區"
+      },
+      {
+        "area_name": "澎湖縣",
+        "intensity": "1級",
+        "area_desc": "澎湖縣地區"
+      },
+      {
+        "area_name": "嘉義市、臺南市、臺北市、澎湖縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "4級"
+  },
+  {
+    "id": "115044",
+    "type": "顯著有感",
+    "report_content": "05/13-18:43花蓮縣花蓮市發生規模5.0有感地震，最大震度花蓮縣花蓮市4級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026051318433050044_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026044",
+    "origin_time": "2026-05-13T18:43:30+08:00",
+    "depth": 15.8,
+    "magnitude": 5.0,
+    "epicenter": {
+      "location": "花蓮縣政府北方  3.6  公里 (位於花蓮縣花蓮市)",
+      "latitude": 24.02,
+      "longitude": 121.62
+    },
+    "shaking_areas": [
+      {
+        "area_name": "花蓮縣",
+        "intensity": "4級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "4級",
+        "area_desc": "最大震度4級地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "3級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "3級",
+        "area_desc": "最大震度3級地區"
+      },
+      {
+        "area_name": "臺中市",
+        "intensity": "2級",
+        "area_desc": "臺中市地區"
+      },
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "2級",
+        "area_desc": "宜蘭縣地區"
+      },
+      {
+        "area_name": "臺中市、宜蘭縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "桃園市",
+        "intensity": "1級",
+        "area_desc": "桃園市地區"
+      },
+      {
+        "area_name": "臺東縣",
+        "intensity": "1級",
+        "area_desc": "臺東縣地區"
+      },
+      {
+        "area_name": "苗栗縣",
+        "intensity": "1級",
+        "area_desc": "苗栗縣地區"
+      },
+      {
+        "area_name": "新竹縣",
+        "intensity": "1級",
+        "area_desc": "新竹縣地區"
+      },
+      {
+        "area_name": "新北市",
+        "intensity": "1級",
+        "area_desc": "新北市地區"
+      },
+      {
+        "area_name": "彰化縣",
+        "intensity": "1級",
+        "area_desc": "彰化縣地區"
+      },
+      {
+        "area_name": "雲林縣",
+        "intensity": "1級",
+        "area_desc": "雲林縣地區"
+      },
+      {
+        "area_name": "嘉義縣",
+        "intensity": "1級",
+        "area_desc": "嘉義縣地區"
+      },
+      {
+        "area_name": "桃園市、臺東縣、苗栗縣、新竹縣、新北市、彰化縣、雲林縣、嘉義縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "4級"
+  },
+  {
+    "id": "115043",
+    "type": "顯著有感",
+    "report_content": "05/12-14:53臺灣東部海域發生規模5.6有感地震，最大震度臺東縣長濱、花蓮縣富里4級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026051214533256043_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026043",
+    "origin_time": "2026-05-12T14:53:32+08:00",
+    "depth": 22.9,
+    "magnitude": 5.6,
+    "epicenter": {
+      "location": "臺東縣政府東北方  66.8  公里 (位於臺灣東部海域)",
+      "latitude": 23.24,
+      "longitude": 121.54
+    },
+    "shaking_areas": [
+      {
+        "area_name": "臺東縣",
+        "intensity": "4級",
+        "area_desc": "臺東縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "4級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "臺東縣、花蓮縣",
+        "intensity": "4級",
+        "area_desc": "最大震度4級地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "3級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "雲林縣",
+        "intensity": "3級",
+        "area_desc": "雲林縣地區"
+      },
+      {
+        "area_name": "彰化縣",
+        "intensity": "3級",
+        "area_desc": "彰化縣地區"
+      },
+      {
+        "area_name": "南投縣、雲林縣、彰化縣",
+        "intensity": "3級",
+        "area_desc": "最大震度3級地區"
+      },
+      {
+        "area_name": "高雄市",
+        "intensity": "2級",
+        "area_desc": "高雄市地區"
+      },
+      {
+        "area_name": "嘉義縣",
+        "intensity": "2級",
+        "area_desc": "嘉義縣地區"
+      },
+      {
+        "area_name": "臺南市",
+        "intensity": "2級",
+        "area_desc": "臺南市地區"
+      },
+      {
+        "area_name": "臺中市",
+        "intensity": "2級",
+        "area_desc": "臺中市地區"
+      },
+      {
+        "area_name": "嘉義市",
+        "intensity": "2級",
+        "area_desc": "嘉義市地區"
+      },
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "2級",
+        "area_desc": "宜蘭縣地區"
+      },
+      {
+        "area_name": "苗栗縣",
+        "intensity": "2級",
+        "area_desc": "苗栗縣地區"
+      },
+      {
+        "area_name": "高雄市、嘉義縣、臺南市、臺中市、嘉義市、宜蘭縣、苗栗縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "屏東縣",
+        "intensity": "1級",
+        "area_desc": "屏東縣地區"
+      },
+      {
+        "area_name": "桃園市",
+        "intensity": "1級",
+        "area_desc": "桃園市地區"
+      },
+      {
+        "area_name": "新竹縣",
+        "intensity": "1級",
+        "area_desc": "新竹縣地區"
+      },
+      {
+        "area_name": "新竹市",
+        "intensity": "1級",
+        "area_desc": "新竹市地區"
+      },
+      {
+        "area_name": "新北市",
+        "intensity": "1級",
+        "area_desc": "新北市地區"
+      },
+      {
+        "area_name": "臺北市",
+        "intensity": "1級",
+        "area_desc": "臺北市地區"
+      },
+      {
+        "area_name": "屏東縣、桃園市、新竹縣、新竹市、新北市、臺北市",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "4級"
+  },
+  {
+    "id": "115042",
+    "type": "顯著有感",
+    "report_content": "05/11-00:59花蓮縣萬榮鄉發生規模4.2有感地震，最大震度花蓮縣光復4級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026051100592442042_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026042",
+    "origin_time": "2026-05-11T00:59:24+08:00",
+    "depth": 19.3,
+    "magnitude": 4.2,
+    "epicenter": {
+      "location": "花蓮縣政府西南方  36.2  公里 (位於花蓮縣萬榮鄉)",
+      "latitude": 23.73,
+      "longitude": 121.4
+    },
+    "shaking_areas": [
+      {
+        "area_name": "花蓮縣",
+        "intensity": "4級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "4級",
+        "area_desc": "最大震度4級地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "2級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "臺中市",
+        "intensity": "1級",
+        "area_desc": "臺中市地區"
+      },
+      {
+        "area_name": "臺東縣",
+        "intensity": "1級",
+        "area_desc": "臺東縣地區"
+      },
+      {
+        "area_name": "雲林縣",
+        "intensity": "1級",
+        "area_desc": "雲林縣地區"
+      },
+      {
+        "area_name": "彰化縣",
+        "intensity": "1級",
+        "area_desc": "彰化縣地區"
+      },
+      {
+        "area_name": "臺中市、臺東縣、雲林縣、彰化縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "4級"
+  },
+  {
+    "id": "115041",
+    "type": "顯著有感",
+    "report_content": "05/09-03:26臺灣東部海域發生規模4.9有感地震，最大震度宜蘭縣頭城、桃園市、新竹縣關西、新北市新店2級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026050903263949041_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026041",
+    "origin_time": "2026-05-09T03:26:39+08:00",
+    "depth": 71.0,
+    "magnitude": 4.9,
+    "epicenter": {
+      "location": "宜蘭縣政府東南東方  27.0  公里 (位於臺灣東部海域)",
+      "latitude": 24.64,
+      "longitude": 122.01
+    },
+    "shaking_areas": [
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "2級",
+        "area_desc": "宜蘭縣地區"
+      },
+      {
+        "area_name": "桃園市",
+        "intensity": "2級",
+        "area_desc": "桃園市地區"
+      },
+      {
+        "area_name": "新竹縣",
+        "intensity": "2級",
+        "area_desc": "新竹縣地區"
+      },
+      {
+        "area_name": "新北市",
+        "intensity": "2級",
+        "area_desc": "新北市地區"
+      },
+      {
+        "area_name": "宜蘭縣、桃園市、新竹縣、新北市",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "1級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "臺北市",
+        "intensity": "1級",
+        "area_desc": "臺北市地區"
+      },
+      {
+        "area_name": "臺中市",
+        "intensity": "1級",
+        "area_desc": "臺中市地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "1級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "苗栗縣",
+        "intensity": "1級",
+        "area_desc": "苗栗縣地區"
+      },
+      {
+        "area_name": "新竹市",
+        "intensity": "1級",
+        "area_desc": "新竹市地區"
+      },
+      {
+        "area_name": "雲林縣",
+        "intensity": "1級",
+        "area_desc": "雲林縣地區"
+      },
+      {
+        "area_name": "彰化縣",
+        "intensity": "1級",
+        "area_desc": "彰化縣地區"
+      },
+      {
+        "area_name": "花蓮縣、臺北市、臺中市、南投縣、苗栗縣、新竹市、雲林縣、彰化縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "2級"
+  },
+  {
+    "id": "115040",
+    "type": "顯著有感",
+    "report_content": "05/08-07:08花蓮縣豐濱鄉發生規模4.4有感地震，最大震度花蓮縣光復3級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026050807082544040_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026040",
+    "origin_time": "2026-05-08T07:08:25+08:00",
+    "depth": 20.9,
+    "magnitude": 4.4,
+    "epicenter": {
+      "location": "花蓮縣政府南南西方  31.0  公里 (位於花蓮縣豐濱鄉)",
+      "latitude": 23.72,
+      "longitude": 121.53
+    },
+    "shaking_areas": [
+      {
+        "area_name": "花蓮縣",
+        "intensity": "3級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "3級",
+        "area_desc": "最大震度3級地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "2級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "臺中市",
+        "intensity": "1級",
+        "area_desc": "臺中市地區"
+      },
+      {
+        "area_name": "臺東縣",
+        "intensity": "1級",
+        "area_desc": "臺東縣地區"
+      },
+      {
+        "area_name": "雲林縣",
+        "intensity": "1級",
+        "area_desc": "雲林縣地區"
+      },
+      {
+        "area_name": "嘉義縣",
+        "intensity": "1級",
+        "area_desc": "嘉義縣地區"
+      },
+      {
+        "area_name": "彰化縣",
+        "intensity": "1級",
+        "area_desc": "彰化縣地區"
+      },
+      {
+        "area_name": "臺南市",
+        "intensity": "1級",
+        "area_desc": "臺南市地區"
+      },
+      {
+        "area_name": "臺中市、臺東縣、雲林縣、嘉義縣、彰化縣、臺南市",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "3級"
+  },
+  {
+    "id": "115039",
+    "type": "顯著有感",
+    "report_content": "05/08-04:57臺灣東部海域發生規模4.6有感地震，最大震度花蓮縣太魯閣4級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026050804573446039_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026039",
+    "origin_time": "2026-05-08T04:57:34+08:00",
+    "depth": 25.4,
+    "magnitude": 4.6,
+    "epicenter": {
+      "location": "花蓮縣政府東北方  30.2  公里 (位於臺灣東部海域)",
+      "latitude": 24.16,
+      "longitude": 121.86
+    },
+    "shaking_areas": [
+      {
+        "area_name": "花蓮縣",
+        "intensity": "4級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "4級",
+        "area_desc": "最大震度4級地區"
+      },
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "3級",
+        "area_desc": "宜蘭縣地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "3級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "宜蘭縣、南投縣",
+        "intensity": "3級",
+        "area_desc": "最大震度3級地區"
+      },
+      {
+        "area_name": "臺中市",
+        "intensity": "2級",
+        "area_desc": "臺中市地區"
+      },
+      {
+        "area_name": "臺中市",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "桃園市",
+        "intensity": "1級",
+        "area_desc": "桃園市地區"
+      },
+      {
+        "area_name": "新竹縣",
+        "intensity": "1級",
+        "area_desc": "新竹縣地區"
+      },
+      {
+        "area_name": "新北市",
+        "intensity": "1級",
+        "area_desc": "新北市地區"
+      },
+      {
+        "area_name": "彰化縣",
+        "intensity": "1級",
+        "area_desc": "彰化縣地區"
+      },
+      {
+        "area_name": "雲林縣",
+        "intensity": "1級",
+        "area_desc": "雲林縣地區"
+      },
+      {
+        "area_name": "嘉義縣",
+        "intensity": "1級",
+        "area_desc": "嘉義縣地區"
+      },
+      {
+        "area_name": "桃園市、新竹縣、新北市、彰化縣、雲林縣、嘉義縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "4級"
+  },
+  {
+    "id": "115038",
+    "type": "顯著有感",
+    "report_content": "05/04-14:59宜蘭縣南澳鄉發生規模4.0有感地震，最大震度宜蘭縣蘇澳4級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026050414592140038_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026038",
+    "origin_time": "2026-05-04T14:59:21+08:00",
+    "depth": 5.0,
+    "magnitude": 4.0,
+    "epicenter": {
+      "location": "宜蘭縣政府南方  17.0  公里 (位於宜蘭縣南澳鄉)",
+      "latitude": 24.58,
+      "longitude": 121.78
+    },
+    "shaking_areas": [
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "4級",
+        "area_desc": "宜蘭縣地區"
+      },
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "4級",
+        "area_desc": "最大震度4級地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "1級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "桃園市",
+        "intensity": "1級",
+        "area_desc": "桃園市地區"
+      },
+      {
+        "area_name": "新北市",
+        "intensity": "1級",
+        "area_desc": "新北市地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "1級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "花蓮縣、桃園市、新北市、南投縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "4級"
+  },
+  {
+    "id": "115037",
+    "type": "顯著有感",
+    "report_content": "05/01-20:39臺灣東部海域發生規模6.1有感地震，最大震度宜蘭縣南澳、新竹縣關西、南投縣合歡山、花蓮縣鹽寮4級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026050120395561037_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026037",
+    "origin_time": "2026-05-01T20:39:55+08:00",
+    "depth": 98.3,
+    "magnitude": 6.1,
+    "epicenter": {
+      "location": "宜蘭縣政府東北東方  38.7  公里 (位於臺灣東部海域)",
+      "latitude": 24.93,
+      "longitude": 122.08
+    },
+    "shaking_areas": [
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "4級",
+        "area_desc": "宜蘭縣地區"
+      },
+      {
+        "area_name": "新竹縣",
+        "intensity": "4級",
+        "area_desc": "新竹縣地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "4級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "4級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "宜蘭縣、新竹縣、南投縣、花蓮縣",
+        "intensity": "4級",
+        "area_desc": "最大震度4級地區"
+      },
+      {
+        "area_name": "新北市",
+        "intensity": "3級",
+        "area_desc": "新北市地區"
+      },
+      {
+        "area_name": "臺北市",
+        "intensity": "3級",
+        "area_desc": "臺北市地區"
+      },
+      {
+        "area_name": "桃園市",
+        "intensity": "3級",
+        "area_desc": "桃園市地區"
+      },
+      {
+        "area_name": "新竹市",
+        "intensity": "3級",
+        "area_desc": "新竹市地區"
+      },
+      {
+        "area_name": "苗栗縣",
+        "intensity": "3級",
+        "area_desc": "苗栗縣地區"
+      },
+      {
+        "area_name": "臺中市",
+        "intensity": "3級",
+        "area_desc": "臺中市地區"
+      },
+      {
+        "area_name": "彰化縣",
+        "intensity": "3級",
+        "area_desc": "彰化縣地區"
+      },
+      {
+        "area_name": "臺東縣",
+        "intensity": "3級",
+        "area_desc": "臺東縣地區"
+      },
+      {
+        "area_name": "嘉義縣",
+        "intensity": "3級",
+        "area_desc": "嘉義縣地區"
+      },
+      {
+        "area_name": "新北市、臺北市、桃園市、新竹市、苗栗縣、臺中市、彰化縣、臺東縣、嘉義縣",
+        "intensity": "3級",
+        "area_desc": "最大震度3級地區"
+      },
+      {
+        "area_name": "基隆市",
+        "intensity": "2級",
+        "area_desc": "基隆市地區"
+      },
+      {
+        "area_name": "雲林縣",
+        "intensity": "2級",
+        "area_desc": "雲林縣地區"
+      },
+      {
+        "area_name": "嘉義市",
+        "intensity": "2級",
+        "area_desc": "嘉義市地區"
+      },
+      {
+        "area_name": "臺南市",
+        "intensity": "2級",
+        "area_desc": "臺南市地區"
+      },
+      {
+        "area_name": "基隆市、雲林縣、嘉義市、臺南市",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "高雄市",
+        "intensity": "1級",
+        "area_desc": "高雄市地區"
+      },
+      {
+        "area_name": "屏東縣",
+        "intensity": "1級",
+        "area_desc": "屏東縣地區"
+      },
+      {
+        "area_name": "高雄市、屏東縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "4級"
+  },
+  {
+    "id": "115036",
+    "type": "顯著有感",
+    "report_content": "04/25-15:16宜蘭縣近海發生規模4.8有感地震，最大震度宜蘭縣牛鬥3級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202604/2026042515163448036_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026036",
+    "origin_time": "2026-04-25T15:16:34+08:00",
+    "depth": 69.0,
+    "magnitude": 4.8,
+    "epicenter": {
+      "location": "宜蘭縣政府北北東方  15.1  公里 (位於宜蘭縣近海)",
+      "latitude": 24.85,
+      "longitude": 121.83
+    },
+    "shaking_areas": [
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "3級",
+        "area_desc": "宜蘭縣地區"
+      },
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "3級",
+        "area_desc": "最大震度3級地區"
+      },
+      {
+        "area_name": "新北市",
+        "intensity": "2級",
+        "area_desc": "新北市地區"
+      },
+      {
+        "area_name": "臺北市",
+        "intensity": "2級",
+        "area_desc": "臺北市地區"
+      },
+      {
+        "area_name": "桃園市",
+        "intensity": "2級",
+        "area_desc": "桃園市地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "新北市、臺北市、桃園市、花蓮縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "基隆市",
+        "intensity": "1級",
+        "area_desc": "基隆市地區"
+      },
+      {
+        "area_name": "新竹縣",
+        "intensity": "1級",
+        "area_desc": "新竹縣地區"
+      },
+      {
+        "area_name": "新竹市",
+        "intensity": "1級",
+        "area_desc": "新竹市地區"
+      },
+      {
+        "area_name": "苗栗縣",
+        "intensity": "1級",
+        "area_desc": "苗栗縣地區"
+      },
+      {
+        "area_name": "臺中市",
+        "intensity": "1級",
+        "area_desc": "臺中市地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "1級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "彰化縣",
+        "intensity": "1級",
+        "area_desc": "彰化縣地區"
+      },
+      {
+        "area_name": "基隆市、新竹縣、新竹市、苗栗縣、臺中市、南投縣、彰化縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "3級"
+  },
+  {
+    "id": "115035",
+    "type": "顯著有感",
+    "report_content": "04/24-22:56臺灣東部海域發生規模4.4有感地震，最大震度宜蘭縣南澳3級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202604/2026042422565944035_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026035",
+    "origin_time": "2026-04-24T22:56:59+08:00",
+    "depth": 55.7,
+    "magnitude": 4.4,
+    "epicenter": {
+      "location": "宜蘭縣政府東南東方  29.7  公里 (位於臺灣東部海域)",
+      "latitude": 24.64,
+      "longitude": 122.04
+    },
+    "shaking_areas": [
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "3級",
+        "area_desc": "宜蘭縣地區"
+      },
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "3級",
+        "area_desc": "最大震度3級地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "新北市",
+        "intensity": "2級",
+        "area_desc": "新北市地區"
+      },
+      {
+        "area_name": "臺北市",
+        "intensity": "2級",
+        "area_desc": "臺北市地區"
+      },
+      {
+        "area_name": "花蓮縣、新北市、臺北市",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "桃園市",
+        "intensity": "1級",
+        "area_desc": "桃園市地區"
+      },
+      {
+        "area_name": "新竹縣",
+        "intensity": "1級",
+        "area_desc": "新竹縣地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "1級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "臺中市",
+        "intensity": "1級",
+        "area_desc": "臺中市地區"
+      },
+      {
+        "area_name": "桃園市、新竹縣、南投縣、臺中市",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "3級"
+  },
+  {
+    "id": "115034",
+    "type": "顯著有感",
+    "report_content": "04/23-01:26花蓮縣近海發生規模4.6有感地震，最大震度花蓮縣鹽寮3級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202604/2026042301261346034_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026034",
+    "origin_time": "2026-04-23T01:26:13+08:00",
+    "depth": 24.7,
+    "magnitude": 4.6,
+    "epicenter": {
+      "location": "花蓮縣政府東北方  4.3  公里 (位於花蓮縣近海)",
+      "latitude": 24.02,
+      "longitude": 121.64
+    },
+    "shaking_areas": [
+      {
+        "area_name": "花蓮縣",
+        "intensity": "3級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "3級",
+        "area_desc": "最大震度3級地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "2級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "臺中市",
+        "intensity": "2級",
+        "area_desc": "臺中市地區"
+      },
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "2級",
+        "area_desc": "宜蘭縣地區"
+      },
+      {
+        "area_name": "南投縣、臺中市、宜蘭縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "臺東縣",
+        "intensity": "1級",
+        "area_desc": "臺東縣地區"
+      },
+      {
+        "area_name": "新竹縣",
+        "intensity": "1級",
+        "area_desc": "新竹縣地區"
+      },
+      {
+        "area_name": "彰化縣",
+        "intensity": "1級",
+        "area_desc": "彰化縣地區"
+      },
+      {
+        "area_name": "雲林縣",
+        "intensity": "1級",
+        "area_desc": "雲林縣地區"
+      },
+      {
+        "area_name": "嘉義縣",
+        "intensity": "1級",
+        "area_desc": "嘉義縣地區"
+      },
+      {
+        "area_name": "嘉義市",
+        "intensity": "1級",
+        "area_desc": "嘉義市地區"
+      },
+      {
+        "area_name": "臺東縣、新竹縣、彰化縣、雲林縣、嘉義縣、嘉義市",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "3級"
+  },
+  {
+    "id": "115033",
+    "type": "顯著有感",
+    "report_content": "04/13-19:23宜蘭縣南澳鄉發生規模4.7有感地震，最大震度宜蘭縣牛鬥、花蓮縣西寶、南投縣合歡山3級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202604/2026041319232547033_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026033",
+    "origin_time": "2026-04-13T19:23:25+08:00",
+    "depth": 48.8,
+    "magnitude": 4.7,
+    "epicenter": {
+      "location": "宜蘭縣政府南南西方  34.2  公里 (位於宜蘭縣南澳鄉)",
+      "latitude": 24.44,
+      "longitude": 121.64
+    },
+    "shaking_areas": [
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "3級",
+        "area_desc": "宜蘭縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "3級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "3級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "宜蘭縣、花蓮縣、南投縣",
+        "intensity": "3級",
+        "area_desc": "最大震度3級地區"
+      },
+      {
+        "area_name": "桃園市",
+        "intensity": "2級",
+        "area_desc": "桃園市地區"
+      },
+      {
+        "area_name": "臺中市",
+        "intensity": "2級",
+        "area_desc": "臺中市地區"
+      },
+      {
+        "area_name": "新北市",
+        "intensity": "2級",
+        "area_desc": "新北市地區"
+      },
+      {
+        "area_name": "新竹縣",
+        "intensity": "2級",
+        "area_desc": "新竹縣地區"
+      },
+      {
+        "area_name": "臺北市",
+        "intensity": "2級",
+        "area_desc": "臺北市地區"
+      },
+      {
+        "area_name": "桃園市、臺中市、新北市、新竹縣、臺北市",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "基隆市",
+        "intensity": "1級",
+        "area_desc": "基隆市地區"
+      },
+      {
+        "area_name": "苗栗縣",
+        "intensity": "1級",
+        "area_desc": "苗栗縣地區"
+      },
+      {
+        "area_name": "彰化縣",
+        "intensity": "1級",
+        "area_desc": "彰化縣地區"
+      },
+      {
+        "area_name": "雲林縣",
+        "intensity": "1級",
+        "area_desc": "雲林縣地區"
+      },
+      {
+        "area_name": "基隆市、苗栗縣、彰化縣、雲林縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "3級"
+  }
+]

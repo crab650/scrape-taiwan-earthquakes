@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>台灣即時地震監測儀表板 | Taiwan Earthquake Tracker 🌋</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Noto+Sans+TC:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom Style -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="background-decor bg-circle-1"></div>
+    <div class="background-decor bg-circle-2"></div>
+    <div class="background-decor bg-circle-3"></div>
+
+    <div class="dashboard-container">
+        <!-- Sidebar / Filter Panel -->
+        <aside class="sidebar glass">
+            <div class="logo-section">
+                <div class="logo-icon">
+                    <i class="fa-solid fa-house-crack fa-bounce"></i>
+                </div>
+                <div>
+                    <h1>台灣地震監測</h1>
+                    <p>Earthquake Tracker</p>
+                </div>
+            </div>
+
+            <div class="filter-group">
+                <label><i class="fa-solid fa-magnifying-glass"></i> 搜尋震央位置</label>
+                <input type="text" id="search-input" placeholder="例如：花蓮、宜蘭...">
+            </div>
+
+            <div class="filter-group">
+                <label><i class="fa-solid fa-bolt"></i> 地震規模</label>
+                <div class="filter-buttons" id="magnitude-filter">
+                    <button class="filter-btn active" data-mag="all">全部</button>
+                    <button class="filter-btn" data-mag="5">5.0+</button>
+                    <button class="filter-btn" data-mag="4">4.0 - 4.9</button>
+                    <button class="filter-btn" data-mag="3">3.9以下</button>
+                </div>
+            </div>
+
+            <div class="filter-group">
+                <label><i class="fa-solid fa-list-check"></i> 地震類型</label>
+                <div class="filter-buttons" id="type-filter">
+                    <button class="filter-btn active" data-type="all">全部</button>
+                    <button class="filter-btn" data-type="顯著有感">顯著有感</button>
+                    <button class="filter-btn" data-type="小區域">小區域</button>
+                </div>
+            </div>
+
+            <div class="stats-card glass-inner">
+                <h3><i class="fa-solid fa-chart-simple"></i> 本期快報統計</h3>
+                <div class="stats-grid">
+                    <div class="stat-item">
+                        <span class="stat-label">總收集筆數</span>
+                        <span class="stat-value" id="stat-total">0</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-label">顯著有感</span>
+                        <span class="stat-value text-red" id="stat-sig">0</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-label">最大規模</span>
+                        <span class="stat-value text-orange" id="stat-max-mag">0.0</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-label">最淺深度</span>
+                        <span class="stat-value text-blue" id="stat-min-depth">0km</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer-info">
+                <p><i class="fa-solid fa-circle-info"></i> 資料來源：交通部中央氣象署</p>
+                <p>最後更新：<span id="update-time">-</span></p>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <!-- Left List Column -->
+            <section class="list-section glass">
+                <div class="section-header">
+                    <h2><i class="fa-solid fa-list"></i> 地震報告清單</h2>
+                    <span class="badge" id="list-count">顯示 0 筆</span>
+                </div>
+                <div class="list-container" id="earthquake-list">
+                    <!-- Loading State -->
+                    <div class="loading-state">
+                        <i class="fa-solid fa-circle-notch fa-spin"></i>
+                        <p>載入地震觀測資料中...</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Right Detail Column -->
+            <section class="detail-section glass" id="detail-section">
+                <!-- Select Prompt -->
+                <div class="select-prompt" id="select-prompt">
+                    <i class="fa-solid fa-location-crosshairs fa-beat"></i>
+                    <h2>請選擇一筆地震報告</h2>
+                    <p>從左側列表中點選，即可查看該地震的詳細資訊、各地震度與震央分布圖。</p>
+                </div>
+
+                <!-- Actual Detail Content (Hidden by default) -->
+                <div class="detail-content hidden" id="detail-content">
+                    <div class="detail-header">
+                        <div class="title-row">
+                            <span class="badge-type" id="det-type">顯著有感地震</span>
+                            <span class="id-tag" id="det-id">編號：113054</span>
+                        </div>
+                        <h2 id="det-location">花蓮縣政府南方 10.6 公里 (位於花蓮縣近海)</h2>
+                        <div class="time-row">
+                            <i class="fa-regular fa-clock"></i> <span id="det-time">2026-07-03 13:00:00 (台北時間)</span>
+                        </div>
+                    </div>
+
+                    <div class="quick-info-grid">
+                        <div class="quick-info-card glass-inner">
+                            <div class="card-icon icon-red"><i class="fa-solid fa-house-fire"></i></div>
+                            <div class="card-text">
+                                <span class="lbl">芮氏規模</span>
+                                <span class="val" id="det-magnitude">5.4</span>
+                            </div>
+                        </div>
+                        <div class="quick-info-card glass-inner">
+                            <div class="card-icon icon-orange"><i class="fa-solid fa-arrows-down-to-line"></i></div>
+                            <div class="card-text">
+                                <span class="lbl">地震深度</span>
+                                <span class="val"><span id="det-depth">10</span> <small>公里</small></span>
+                            </div>
+                        </div>
+                        <div class="quick-info-card glass-inner">
+                            <div class="card-icon icon-blue"><i class="fa-solid fa-triangle-exclamation"></i></div>
+                            <div class="card-text">
+                                <span class="lbl">最大震度</span>
+                                <span class="val" id="det-max-intensity">4強</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="main-detail-grid">
+                        <!-- Left Details & Intensities -->
+                        <div class="grid-left">
+                            <div class="info-block glass-inner">
+                                <h3><i class="fa-solid fa-message-captions"></i> 氣象署報告內容</h3>
+                                <p id="det-report-content" class="report-content-text">
+                                    地震報告內容載入中...
+                                </p>
+                            </div>
+
+                            <div class="info-block glass-inner">
+                                <h3><i class="fa-solid fa-mountain-city"></i> 各地最大震度</h3>
+                                <div class="intensity-container" id="det-intensities">
+                                    <!-- Dynamic Intensity Cards -->
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Right Shakemap Image -->
+                        <div class="grid-right">
+                            <div class="image-block glass-inner">
+                                <h3><i class="fa-solid fa-map-location-dot"></i> 地震報告分布圖</h3>
+                                <div class="shakemap-wrapper">
+                                    <img id="det-image" src="" alt="地震報告分布圖" onerror="this.src='https://placehold.co/600x400?text=No+Image'">
+                                    <div class="zoom-hint">
+                                        <a id="det-web-link" href="#" target="_blank" class="btn-web"><i class="fa-solid fa-arrow-up-right-from-square"></i> 開啟氣象署原始網頁</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+</body>
+</html>
