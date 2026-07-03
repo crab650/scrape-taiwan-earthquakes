@@ -26,7 +26,7 @@ The tracker is designed for automated data version control using **GitHub and Py
 
 <!-- EARTHQUAKE_START -->
 
-**⏰ Last Updated (Taipei Time)**: `2026-07-03 14:45:27`
+**⏰ Last Updated (Taipei Time)**: `2026-07-03 14:47:25`
 
 ### 🚨 Latest Earthquake Report
 - **Report ID**: S20260702224430
@@ -62,10 +62,34 @@ The tracker is designed for automated data version control using **GitHub and Py
 
 <!-- STATS_START -->
 
-### 📈 Yearly Earthquake Statistics (Cumulative)
+### 📈 Yearly General Statistics
 | Year | Significant | Local Area | Total |
 | :--- | :--- | :--- | :--- |
 | 2026 | 16 | 16 | 32 |
+
+### 🏢 Yearly Felt Earthquakes by County (Intensity >= 1)
+| Year | County | Significant | Local Area | Total Felt |
+| :--- | :--- | :--- | :--- | :--- |
+| 2026 | 花蓮縣 | 16 | 11 | 27 |
+| 2026 | 南投縣 | 15 | 9 | 24 |
+| 2026 | 臺中市 | 14 | 7 | 21 |
+| 2026 | 宜蘭縣 | 11 | 9 | 20 |
+| 2026 | 彰化縣 | 13 | 5 | 18 |
+| 2026 | 雲林縣 | 12 | 5 | 17 |
+| 2026 | 桃園市 | 10 | 4 | 14 |
+| 2026 | 新竹縣 | 10 | 4 | 14 |
+| 2026 | 新北市 | 10 | 4 | 14 |
+| 2026 | 嘉義縣 | 9 | 3 | 12 |
+| 2026 | 臺北市 | 7 | 4 | 11 |
+| 2026 | 苗栗縣 | 7 | 2 | 9 |
+| 2026 | 臺東縣 | 8 | 1 | 9 |
+| 2026 | 臺南市 | 6 | 2 | 8 |
+| 2026 | 嘉義市 | 6 | 2 | 8 |
+| 2026 | 新竹市 | 5 | 2 | 7 |
+| 2026 | 高雄市 | 4 | 0 | 4 |
+| 2026 | 屏東縣 | 3 | 1 | 4 |
+| 2026 | 基隆市 | 3 | 0 | 3 |
+| 2026 | 澎湖縣 | 1 | 0 | 1 |
 
 <!-- STATS_END -->
 

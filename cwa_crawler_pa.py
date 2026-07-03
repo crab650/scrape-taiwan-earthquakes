@@ -223,7 +223,7 @@ def update_readme(earthquakes):
         print(f"[!] Failed to update README.md: {e}")
 
 def update_statistics(earthquakes, data_dir):
-    """Update statistics tracking year-by-year counts of earthquakes."""
+    """Update statistics tracking year-by-year counts of earthquakes, both globally and by county."""
     stats_file = data_dir / "stats.json"
     ids_file = data_dir / "counted_ids.json"
     
@@ -258,14 +258,40 @@ def update_statistics(earthquakes, data_dir):
                 continue
                 
             if year not in stats:
-                stats[year] = {"Significant": 0, "Local": 0, "Total": 0}
+                stats[year] = {"Significant": 0, "Local": 0, "Total": 0, "Counties": {}}
                 
-            if eq["type"] == "顯著有感":
+            # Compatibility check for existing stats file
+            if "Counties" not in stats[year]:
+                stats[year]["Counties"] = {}
+                
+            is_sig = (eq["type"] == "顯著有感")
+            
+            if is_sig:
                 stats[year]["Significant"] += 1
             else:
                 stats[year]["Local"] += 1
-                
             stats[year]["Total"] += 1
+            
+            # Count felt earthquakes for each unique county/city in this earthquake
+            felt_counties = set()
+            for area in eq.get("shaking_areas", []):
+                c_name = area.get("area_name")
+                if c_name:
+                    for sub_c in c_name.split("、"):
+                        sub_c = sub_c.strip()
+                        if sub_c:
+                            felt_counties.add(sub_c)
+                            
+            for c_name in felt_counties:
+                if c_name not in stats[year]["Counties"]:
+                    stats[year]["Counties"][c_name] = {"Significant": 0, "Local": 0, "Total": 0}
+                
+                if is_sig:
+                    stats[year]["Counties"][c_name]["Significant"] += 1
+                else:
+                    stats[year]["Counties"][c_name]["Local"] += 1
+                stats[year]["Counties"][c_name]["Total"] += 1
+                
             updated = True
             
     if updated or not stats_file.exists():
@@ -280,8 +306,9 @@ def update_statistics(earthquakes, data_dir):
         except Exception as e:
             print(f"[!] Failed to save stats: {e}")
             
+    # Generate Markdown Tables in English
     md_lines = []
-    md_lines.append("### 📈 Yearly Earthquake Statistics (Cumulative)")
+    md_lines.append("### 📈 Yearly General Statistics")
     md_lines.append("| Year | Significant | Local Area | Total |")
     md_lines.append("| :--- | :--- | :--- | :--- |")
     
@@ -289,6 +316,22 @@ def update_statistics(earthquakes, data_dir):
     for yr in sorted_years:
         s = stats[yr]
         md_lines.append(f"| {yr} | {s['Significant']} | {s['Local']} | {s['Total']} |")
+        
+    md_lines.append("\n### 🏢 Yearly Felt Earthquakes by County (Intensity >= 1)")
+    md_lines.append("| Year | County | Significant | Local Area | Total Felt |")
+    md_lines.append("| :--- | :--- | :--- | :--- | :--- |")
+    
+    for yr in sorted_years:
+        counties_stats = stats[yr].get("Counties", {})
+        # Sort counties by Total Felt descending, then by name
+        sorted_counties = sorted(
+            counties_stats.keys(),
+            key=lambda c: (counties_stats[c]["Total"], c),
+            reverse=True
+        )
+        for c_name in sorted_counties:
+            cs = counties_stats[c_name]
+            md_lines.append(f"| {yr} | {c_name} | {cs['Significant']} | {cs['Local']} | {cs['Total']} |")
         
     md_block = "\n".join(md_lines)
     
