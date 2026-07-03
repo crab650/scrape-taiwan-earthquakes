@@ -1,0 +1,17 @@
+{
+  "county": "澎湖縣",
+  "updated_at": "2026-07-03 14:45:27",
+  "earthquakes": [
+    {
+      "id": "115045",
+      "type": "顯著有感",
+      "origin_time": "2026-05-17T08:46:14+08:00",
+      "magnitude": 5.1,
+      "depth": 15.5,
+      "epicenter": "南投縣政府東北東方  33.5  公里 (位於南投縣埔里鎮)",
+      "local_intensity": "1級",
+      "max_intensity": "4級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026051708461451045_H.png"
+    }
+  ]
+}

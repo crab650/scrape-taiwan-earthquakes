@@ -316,6 +316,73 @@ def update_statistics(earthquakes, data_dir):
         except Exception as e:
             print(f"[!] Failed to update README stats: {e}")
 
+def update_county_files(earthquakes, data_dir):
+    """Update individual county JSON files with earthquake histories felt in each county."""
+    counties_dir = data_dir / "counties"
+    counties_dir.mkdir(parents=True, exist_ok=True)
+    
+    tz_taiwan = datetime.timezone(datetime.timedelta(hours=8))
+    now = datetime.datetime.now(tz_taiwan)
+    formatted_time = now.strftime("%Y-%m-%d %H:%M:%S")
+    
+    county_data_map = {}
+    
+    for eq in earthquakes:
+        shaking_areas = eq.get("shaking_areas", [])
+        for area in shaking_areas:
+            county_name = area.get("area_name")
+            intensity = area.get("intensity")
+            if not county_name or not intensity:
+                continue
+                
+            # Split combined county names (e.g. "南投縣、宜蘭縣") by "、"
+            counties = county_name.split("、")
+            for c_name in counties:
+                c_name = c_name.strip()
+                if not c_name:
+                    continue
+                    
+                if c_name not in county_data_map:
+                    county_file = counties_dir / f"{c_name}.json"
+                    existing_data = {"county": c_name, "updated_at": formatted_time, "earthquakes": []}
+                    if county_file.exists():
+                        try:
+                            with open(county_file, 'r', encoding='utf-8') as f:
+                                existing_data = json.load(f)
+                        except Exception:
+                            pass
+                    county_data_map[c_name] = existing_data
+                    
+                county_eq_entry = {
+                    "id": eq["id"],
+                    "type": eq["type"],
+                    "origin_time": eq["origin_time"],
+                    "magnitude": eq["magnitude"],
+                    "depth": eq["depth"],
+                    "epicenter": eq["epicenter"]["location"],
+                    "local_intensity": intensity,
+                    "max_intensity": eq["max_intensity"],
+                    "report_image": eq["report_image"]
+                }
+                
+                eq_list = county_data_map[c_name]["earthquakes"]
+                if not any(item["id"] == eq["id"] for item in eq_list):
+                    eq_list.append(county_eq_entry)
+                
+    for county_name, data in county_data_map.items():
+        data["earthquakes"].sort(key=lambda x: x["origin_time"], reverse=True)
+        data["earthquakes"] = data["earthquakes"][:50]
+        data["updated_at"] = formatted_time
+        
+        county_file = counties_dir / f"{county_name}.json"
+        try:
+            with open(county_file, 'w', encoding='utf-8') as f:
+                json.dump(data, f, indent=2, ensure_ascii=False)
+        except Exception as e:
+            print(f"[!] Failed to save county file for {county_name}: {e}")
+            
+    print(f"[+] Updated {len(county_data_map)} individual county earthquake files in: {counties_dir}")
+
 def main():
     tz_taiwan = datetime.timezone(datetime.timedelta(hours=8))
     now = datetime.datetime.now(tz_taiwan)
@@ -363,6 +430,7 @@ def main():
         
         update_readme(latest_records)
         update_statistics(all_earthquakes, data_dir)
+        update_county_files(all_earthquakes, data_dir)
         print("[+] CWA earthquake tracker task executed successfully!")
     except Exception as e:
         print(f"[!] Error parsing or saving data: {e}")

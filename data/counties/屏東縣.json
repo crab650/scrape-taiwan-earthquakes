@@ -1,0 +1,50 @@
+{
+  "county": "屏東縣",
+  "updated_at": "2026-07-03 14:45:27",
+  "earthquakes": [
+    {
+      "id": "S20260702090144",
+      "type": "小區域",
+      "origin_time": "2026-07-02T09:01:44+08:00",
+      "magnitude": 4.0,
+      "depth": 22.1,
+      "epicenter": "屏東縣政府南南東方  101.7  公里 (位於臺灣南部海域)",
+      "local_intensity": "2級",
+      "max_intensity": "2級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026070209014440_H.png"
+    },
+    {
+      "id": "115047",
+      "type": "顯著有感",
+      "origin_time": "2026-05-20T20:25:35+08:00",
+      "magnitude": 4.8,
+      "depth": 27.3,
+      "epicenter": "臺東縣政府北北東方  63.9  公里 (位於臺東縣近海)",
+      "local_intensity": "1級",
+      "max_intensity": "4級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026052020253548047_H.png"
+    },
+    {
+      "id": "115043",
+      "type": "顯著有感",
+      "origin_time": "2026-05-12T14:53:32+08:00",
+      "magnitude": 5.6,
+      "depth": 22.9,
+      "epicenter": "臺東縣政府東北方  66.8  公里 (位於臺灣東部海域)",
+      "local_intensity": "1級",
+      "max_intensity": "4級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026051214533256043_H.png"
+    },
+    {
+      "id": "115037",
+      "type": "顯著有感",
+      "origin_time": "2026-05-01T20:39:55+08:00",
+      "magnitude": 6.1,
+      "depth": 98.3,
+      "epicenter": "宜蘭縣政府東北東方  38.7  公里 (位於臺灣東部海域)",
+      "local_intensity": "1級",
+      "max_intensity": "4級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026050120395561037_H.png"
+    }
+  ]
+}

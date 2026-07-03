@@ -1,0 +1,303 @@
+{
+  "county": "花蓮縣",
+  "updated_at": "2026-07-03 14:45:27",
+  "earthquakes": [
+    {
+      "id": "S20260702224430",
+      "type": "小區域",
+      "origin_time": "2026-07-02T22:44:30+08:00",
+      "magnitude": 5.3,
+      "depth": 113.8,
+      "epicenter": "宜蘭縣政府東方  80.9  公里 (位於臺灣東部海域)",
+      "local_intensity": "2級",
+      "max_intensity": "2級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026070222443053_H.png"
+    },
+    {
+      "id": "S20260702114525",
+      "type": "小區域",
+      "origin_time": "2026-07-02T11:45:25+08:00",
+      "magnitude": 3.5,
+      "depth": 14.1,
+      "epicenter": "花蓮縣政府西南方  19.3  公里 (位於花蓮縣秀林鄉)",
+      "local_intensity": "2級",
+      "max_intensity": "2級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026070211452535_H.png"
+    },
+    {
+      "id": "115048",
+      "type": "顯著有感",
+      "origin_time": "2026-07-02T07:06:06+08:00",
+      "magnitude": 4.0,
+      "depth": 5.0,
+      "epicenter": "花蓮縣政府南南西方  41.0  公里 (位於花蓮縣豐濱鄉)",
+      "local_intensity": "4級",
+      "max_intensity": "4級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026070207060640048_H.png"
+    },
+    {
+      "id": "S20260702003154",
+      "type": "小區域",
+      "origin_time": "2026-07-02T00:31:54+08:00",
+      "magnitude": 4.3,
+      "depth": 56.0,
+      "epicenter": "宜蘭縣政府東南東方  30.8  公里 (位於臺灣東部海域)",
+      "local_intensity": "1級",
+      "max_intensity": "2級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026070200315443_H.png"
+    },
+    {
+      "id": "S20260630051502",
+      "type": "小區域",
+      "origin_time": "2026-06-30T05:15:02+08:00",
+      "magnitude": 5.0,
+      "depth": 94.1,
+      "epicenter": "宜蘭縣政府東北東方  36.4  公里 (位於臺灣東部海域)",
+      "local_intensity": "2級",
+      "max_intensity": "2級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202606/2026063005150250_H.png"
+    },
+    {
+      "id": "S20260629092057",
+      "type": "小區域",
+      "origin_time": "2026-06-29T09:20:57+08:00",
+      "magnitude": 3.6,
+      "depth": 22.4,
+      "epicenter": "花蓮縣政府西北方  18.1  公里 (位於花蓮縣秀林鄉)",
+      "local_intensity": "2級",
+      "max_intensity": "2級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202606/2026062909205736_H.png"
+    },
+    {
+      "id": "S20260619193311",
+      "type": "小區域",
+      "origin_time": "2026-06-19T19:33:11+08:00",
+      "magnitude": 3.5,
+      "depth": 9.9,
+      "epicenter": "宜蘭縣政府南南東方  37.4  公里 (位於宜蘭縣近海)",
+      "local_intensity": "2級",
+      "max_intensity": "3級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202606/2026061919331135_H.png"
+    },
+    {
+      "id": "S20260614111504",
+      "type": "小區域",
+      "origin_time": "2026-06-14T11:15:04+08:00",
+      "magnitude": 4.5,
+      "depth": 45.2,
+      "epicenter": "宜蘭縣政府南南西方  25.5  公里 (位於宜蘭縣南澳鄉)",
+      "local_intensity": "2級",
+      "max_intensity": "2級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202606/2026061411150445_H.png"
+    },
+    {
+      "id": "S20260611235740",
+      "type": "小區域",
+      "origin_time": "2026-06-11T23:57:40+08:00",
+      "magnitude": 3.9,
+      "depth": 22.7,
+      "epicenter": "花蓮縣政府南方  6.9  公里 (位於花蓮縣近海)",
+      "local_intensity": "2級",
+      "max_intensity": "2級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202606/2026061123574039_H.png"
+    },
+    {
+      "id": "S20260608230452",
+      "type": "小區域",
+      "origin_time": "2026-06-08T23:04:52+08:00",
+      "magnitude": 3.6,
+      "depth": 17.1,
+      "epicenter": "花蓮縣政府西南西方  17.2  公里 (位於花蓮縣秀林鄉)",
+      "local_intensity": "3級",
+      "max_intensity": "3級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202606/2026060823045236_H.png"
+    },
+    {
+      "id": "S20260608162241",
+      "type": "小區域",
+      "origin_time": "2026-06-08T16:22:41+08:00",
+      "magnitude": 3.6,
+      "depth": 14.3,
+      "epicenter": "宜蘭縣政府南方  35.9  公里 (位於宜蘭縣近海)",
+      "local_intensity": "2級",
+      "max_intensity": "3級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202606/2026060816224136_H.png"
+    },
+    {
+      "id": "S20260608011344",
+      "type": "小區域",
+      "origin_time": "2026-06-08T01:13:44+08:00",
+      "magnitude": 4.2,
+      "depth": 24.2,
+      "epicenter": "花蓮縣政府東南東方  16.8  公里 (位於臺灣東部海域)",
+      "local_intensity": "3級",
+      "max_intensity": "3級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202606/2026060801134442_H.png"
+    },
+    {
+      "id": "115047",
+      "type": "顯著有感",
+      "origin_time": "2026-05-20T20:25:35+08:00",
+      "magnitude": 4.8,
+      "depth": 27.3,
+      "epicenter": "臺東縣政府北北東方  63.9  公里 (位於臺東縣近海)",
+      "local_intensity": "3級",
+      "max_intensity": "4級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026052020253548047_H.png"
+    },
+    {
+      "id": "115046",
+      "type": "顯著有感",
+      "origin_time": "2026-05-20T09:11:58+08:00",
+      "magnitude": 4.8,
+      "depth": 27.8,
+      "epicenter": "臺東縣政府北北東方  65.3  公里 (位於臺東縣近海)",
+      "local_intensity": "3級",
+      "max_intensity": "4級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026052009115848046_H.png"
+    },
+    {
+      "id": "115045",
+      "type": "顯著有感",
+      "origin_time": "2026-05-17T08:46:14+08:00",
+      "magnitude": 5.1,
+      "depth": 15.5,
+      "epicenter": "南投縣政府東北東方  33.5  公里 (位於南投縣埔里鎮)",
+      "local_intensity": "3級",
+      "max_intensity": "4級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026051708461451045_H.png"
+    },
+    {
+      "id": "115044",
+      "type": "顯著有感",
+      "origin_time": "2026-05-13T18:43:30+08:00",
+      "magnitude": 5.0,
+      "depth": 15.8,
+      "epicenter": "花蓮縣政府北方  3.6  公里 (位於花蓮縣花蓮市)",
+      "local_intensity": "4級",
+      "max_intensity": "4級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026051318433050044_H.png"
+    },
+    {
+      "id": "115043",
+      "type": "顯著有感",
+      "origin_time": "2026-05-12T14:53:32+08:00",
+      "magnitude": 5.6,
+      "depth": 22.9,
+      "epicenter": "臺東縣政府東北方  66.8  公里 (位於臺灣東部海域)",
+      "local_intensity": "4級",
+      "max_intensity": "4級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026051214533256043_H.png"
+    },
+    {
+      "id": "115042",
+      "type": "顯著有感",
+      "origin_time": "2026-05-11T00:59:24+08:00",
+      "magnitude": 4.2,
+      "depth": 19.3,
+      "epicenter": "花蓮縣政府西南方  36.2  公里 (位於花蓮縣萬榮鄉)",
+      "local_intensity": "4級",
+      "max_intensity": "4級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026051100592442042_H.png"
+    },
+    {
+      "id": "115041",
+      "type": "顯著有感",
+      "origin_time": "2026-05-09T03:26:39+08:00",
+      "magnitude": 4.9,
+      "depth": 71.0,
+      "epicenter": "宜蘭縣政府東南東方  27.0  公里 (位於臺灣東部海域)",
+      "local_intensity": "1級",
+      "max_intensity": "2級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026050903263949041_H.png"
+    },
+    {
+      "id": "115040",
+      "type": "顯著有感",
+      "origin_time": "2026-05-08T07:08:25+08:00",
+      "magnitude": 4.4,
+      "depth": 20.9,
+      "epicenter": "花蓮縣政府南南西方  31.0  公里 (位於花蓮縣豐濱鄉)",
+      "local_intensity": "3級",
+      "max_intensity": "3級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026050807082544040_H.png"
+    },
+    {
+      "id": "115039",
+      "type": "顯著有感",
+      "origin_time": "2026-05-08T04:57:34+08:00",
+      "magnitude": 4.6,
+      "depth": 25.4,
+      "epicenter": "花蓮縣政府東北方  30.2  公里 (位於臺灣東部海域)",
+      "local_intensity": "4級",
+      "max_intensity": "4級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026050804573446039_H.png"
+    },
+    {
+      "id": "115038",
+      "type": "顯著有感",
+      "origin_time": "2026-05-04T14:59:21+08:00",
+      "magnitude": 4.0,
+      "depth": 5.0,
+      "epicenter": "宜蘭縣政府南方  17.0  公里 (位於宜蘭縣南澳鄉)",
+      "local_intensity": "1級",
+      "max_intensity": "4級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026050414592140038_H.png"
+    },
+    {
+      "id": "115037",
+      "type": "顯著有感",
+      "origin_time": "2026-05-01T20:39:55+08:00",
+      "magnitude": 6.1,
+      "depth": 98.3,
+      "epicenter": "宜蘭縣政府東北東方  38.7  公里 (位於臺灣東部海域)",
+      "local_intensity": "4級",
+      "max_intensity": "4級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026050120395561037_H.png"
+    },
+    {
+      "id": "115036",
+      "type": "顯著有感",
+      "origin_time": "2026-04-25T15:16:34+08:00",
+      "magnitude": 4.8,
+      "depth": 69.0,
+      "epicenter": "宜蘭縣政府北北東方  15.1  公里 (位於宜蘭縣近海)",
+      "local_intensity": "2級",
+      "max_intensity": "3級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202604/2026042515163448036_H.png"
+    },
+    {
+      "id": "115035",
+      "type": "顯著有感",
+      "origin_time": "2026-04-24T22:56:59+08:00",
+      "magnitude": 4.4,
+      "depth": 55.7,
+      "epicenter": "宜蘭縣政府東南東方  29.7  公里 (位於臺灣東部海域)",
+      "local_intensity": "2級",
+      "max_intensity": "3級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202604/2026042422565944035_H.png"
+    },
+    {
+      "id": "115034",
+      "type": "顯著有感",
+      "origin_time": "2026-04-23T01:26:13+08:00",
+      "magnitude": 4.6,
+      "depth": 24.7,
+      "epicenter": "花蓮縣政府東北方  4.3  公里 (位於花蓮縣近海)",
+      "local_intensity": "3級",
+      "max_intensity": "3級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202604/2026042301261346034_H.png"
+    },
+    {
+      "id": "115033",
+      "type": "顯著有感",
+      "origin_time": "2026-04-13T19:23:25+08:00",
+      "magnitude": 4.7,
+      "depth": 48.8,
+      "epicenter": "宜蘭縣政府南南西方  34.2  公里 (位於宜蘭縣南澳鄉)",
+      "local_intensity": "3級",
+      "max_intensity": "3級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202604/2026041319232547033_H.png"
+    }
+  ]
+}
