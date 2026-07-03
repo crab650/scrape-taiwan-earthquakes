@@ -103,20 +103,5 @@ Double-click **`run_tracker.bat`** to open the interactive selection menu:
 
 ---
 
-## ☁️ PythonAnywhere Scheduled Task Setup
-
-To keep your tracker running 24/7 and logging historical earthquake data to your GitHub automatically, follow these steps:
-
-1.  Clone your repository in PythonAnywhere's **Consoles** tab.
-2.  Set up your CWA API key in the cloned project's `config.json`.
-3.  Add a periodic task in the **Tasks** tab on PythonAnywhere:
-    *   Set the command to execute `git_sync.sh`:
-        ```bash
-        /home/YOUR_USERNAME/YOUR_PROJECT_PATH/git_sync.sh
-        ```
-    *   This task will fetch the latest reports, update `data/earthquake.json` and `README.md`, and execute `git push` to your repository automatically.
-
----
-
 ## 📄 License
 This codebase is open source under the MIT License. Meteorological and seismological data is owned by the Central Weather Administration of Taiwan and licensed under the Open Government Data License, version 1.0.
