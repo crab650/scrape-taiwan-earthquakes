@@ -17,7 +17,7 @@ else
 fi
 
 # 2. Initialize Git and remote if not already set up
-TARGET_REMOTE="https://github.com/crab650/scrape-taiwan-earthquakes.git"
+TARGET_REMOTE="git@github.com:crab650/scrape-taiwan-earthquakes.git"
 
 if [ ! -d ".git" ]; then
     echo "[*] Git repository not detected. Initializing git..."
