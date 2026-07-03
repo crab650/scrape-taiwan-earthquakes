@@ -222,6 +222,100 @@ def update_readme(earthquakes):
     except Exception as e:
         print(f"[!] Failed to update README.md: {e}")
 
+def update_statistics(earthquakes, data_dir):
+    """Update statistics tracking year-by-year counts of earthquakes."""
+    stats_file = data_dir / "stats.json"
+    ids_file = data_dir / "counted_ids.json"
+    
+    stats = {}
+    counted_ids = []
+    
+    if stats_file.exists():
+        try:
+            with open(stats_file, 'r', encoding='utf-8') as f:
+                stats = json.load(f)
+        except Exception:
+            pass
+            
+    if ids_file.exists():
+        try:
+            with open(ids_file, 'r', encoding='utf-8') as f:
+                counted_ids = json.load(f)
+        except Exception:
+            pass
+            
+    counted_set = set(counted_ids)
+    updated = False
+    
+    for eq in earthquakes:
+        eq_id = eq["id"]
+        if eq_id not in counted_set:
+            counted_set.add(eq_id)
+            counted_ids.append(eq_id)
+            
+            year = eq["origin_time"][:4]
+            if not year.isdigit():
+                continue
+                
+            if year not in stats:
+                stats[year] = {"Significant": 0, "Local": 0, "Total": 0}
+                
+            if eq["type"] == "顯著有感":
+                stats[year]["Significant"] += 1
+            else:
+                stats[year]["Local"] += 1
+                
+            stats[year]["Total"] += 1
+            updated = True
+            
+    if updated or not stats_file.exists():
+        if len(counted_ids) > 10000:
+            counted_ids = counted_ids[-10000:]
+            
+        try:
+            with open(stats_file, 'w', encoding='utf-8') as f:
+                json.dump(stats, f, indent=2, ensure_ascii=False)
+            with open(ids_file, 'w', encoding='utf-8') as f:
+                json.dump(counted_ids, f, indent=2, ensure_ascii=False)
+        except Exception as e:
+            print(f"[!] Failed to save stats: {e}")
+            
+    md_lines = []
+    md_lines.append("### 📈 Yearly Earthquake Statistics (Cumulative)")
+    md_lines.append("| Year | Significant | Local Area | Total |")
+    md_lines.append("| :--- | :--- | :--- | :--- |")
+    
+    sorted_years = sorted(stats.keys(), reverse=True)
+    for yr in sorted_years:
+        s = stats[yr]
+        md_lines.append(f"| {yr} | {s['Significant']} | {s['Local']} | {s['Total']} |")
+        
+    md_block = "\n".join(md_lines)
+    
+    readme_path = SCRIPT_DIR / "README.md"
+    if readme_path.exists():
+        try:
+            with open(readme_path, 'r', encoding='utf-8') as f:
+                readme_text = f.read()
+                
+            start_marker = "<!-- STATS_START -->"
+            end_marker = "<!-- STATS_END -->"
+            
+            if start_marker in readme_text and end_marker in readme_text:
+                parts = readme_text.split(start_marker)
+                before = parts[0]
+                after = parts[1].split(end_marker)[1]
+                
+                new_readme = f"{before}{start_marker}\n\n{md_block}\n\n{end_marker}{after}"
+                
+                with open(readme_path, 'w', encoding='utf-8') as f:
+                    f.write(new_readme)
+                print("[+] README.md has been automatically updated with yearly statistics.")
+            else:
+                print("[!] Warning: STATS markers not found in README.md. Skipping stats update.")
+        except Exception as e:
+            print(f"[!] Failed to update README stats: {e}")
+
 def main():
     tz_taiwan = datetime.timezone(datetime.timedelta(hours=8))
     now = datetime.datetime.now(tz_taiwan)
@@ -268,6 +362,7 @@ def main():
         print(f"[+] Earthquake JSON updated: {file_path}")
         
         update_readme(latest_records)
+        update_statistics(all_earthquakes, data_dir)
         print("[+] CWA earthquake tracker task executed successfully!")
     except Exception as e:
         print(f"[!] Error parsing or saving data: {e}")

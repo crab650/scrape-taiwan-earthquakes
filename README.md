@@ -26,7 +26,7 @@ The tracker is designed for automated data version control using **GitHub and Py
 
 <!-- EARTHQUAKE_START -->
 
-**⏰ Last Updated (Taipei Time)**: `2026-07-03 14:19:26`
+**⏰ Last Updated (Taipei Time)**: `2026-07-03 14:39:58`
 
 ### 🚨 Latest Earthquake Report
 - **Report ID**: S20260702224430
@@ -55,6 +55,19 @@ The tracker is designed for automated data version control using **GitHub and Py
 | S20260619193311 | 2026-06-19T19:33:11+08:00 | 宜蘭縣政府南南東方  37.4  公里 | 3.5 | 9.9 | **3級** | Local |
 
 <!-- EARTHQUAKE_END -->
+
+---
+
+## 📈 Yearly Statistics
+
+<!-- STATS_START -->
+
+### 📈 Yearly Earthquake Statistics (Cumulative)
+| Year | Significant | Local Area | Total |
+| :--- | :--- | :--- | :--- |
+| 2026 | 16 | 16 | 32 |
+
+<!-- STATS_END -->
 
 ---
 
