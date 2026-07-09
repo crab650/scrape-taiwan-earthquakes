@@ -26,23 +26,24 @@ The tracker is designed for automated data version control using **GitHub and Py
 
 <!-- EARTHQUAKE_START -->
 
-**⏰ Last Updated (Taipei Time)**: `2026-07-09 08:35:20`
+**⏰ Last Updated (Taipei Time)**: `2026-07-09 09:35:13`
 
 ### 🚨 Latest Earthquake Report
-- **Report ID**: 115049
-- **Origin Time**: `2026-07-08T23:47:21+08:00`
-- **Magnitude**: `4.3`
-- **Focal Depth**: `20.5 km`
-- **Epicenter**: 花蓮縣政府西南西方  21.5  公里 (位於花蓮縣秀林鄉)
-- **Max Intensity**: **4級**
-- **Report Content**: 07/08-23:47花蓮縣秀林鄉發生規模4.3有感地震，最大震度花蓮縣銅門4級。
+- **Report ID**: S20260709092901
+- **Origin Time**: `2026-07-09T09:29:01+08:00`
+- **Magnitude**: `3.6`
+- **Focal Depth**: `5.9 km`
+- **Epicenter**: 宜蘭縣政府東北方  28.7  公里 (位於臺灣東部海域)
+- **Max Intensity**: **2級**
+- **Report Content**: 07/09-09:29臺灣東部海域發生規模3.6有感地震，最大震度新北市汐止2級。
 
-![Earthquake Report Map](https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026070823472143049_H.png)
+![Earthquake Report Map](https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026070909290136_H.png)
 
 
 ### 🗺️ Recent 10 Earthquake Records
 | Report ID | Origin Time | Epicenter Location | Mag | Depth (km) | Max Intensity | Type |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| S20260709092901 | 2026-07-09T09:29:01+08:00 | 宜蘭縣政府東北方  28.7  公里 | 3.6 | 5.9 | **2級** | Local |
 | 115049 | 2026-07-08T23:47:21+08:00 | 花蓮縣政府西南西方  21.5  公里 | 4.3 | 20.5 | **4級** | Significant |
 | S20260707124711 | 2026-07-07T12:47:11+08:00 | 宜蘭縣政府南方  38.3  公里 | 3.8 | 12.4 | **3級** | Local |
 | S20260706031135 | 2026-07-06T03:11:35+08:00 | 宜蘭縣政府東北東方  51.2  公里 | 4.9 | 122.3 | **2級** | Local |
@@ -52,7 +53,6 @@ The tracker is designed for automated data version control using **GitHub and Py
 | 115048 | 2026-07-02T07:06:06+08:00 | 花蓮縣政府南南西方  41.0  公里 | 4.0 | 5.0 | **4級** | Significant |
 | S20260702003154 | 2026-07-02T00:31:54+08:00 | 宜蘭縣政府東南東方  30.8  公里 | 4.3 | 56.0 | **2級** | Local |
 | S20260630051502 | 2026-06-30T05:15:02+08:00 | 宜蘭縣政府東北東方  36.4  公里 | 5.0 | 94.1 | **2級** | Local |
-| S20260629092057 | 2026-06-29T09:20:57+08:00 | 花蓮縣政府西北方  18.1  公里 | 3.6 | 22.4 | **2級** | Local |
 
 <!-- EARTHQUAKE_END -->
 
@@ -65,19 +65,19 @@ The tracker is designed for automated data version control using **GitHub and Py
 ### 📈 Yearly General Statistics
 | Year | Significant | Local Area | Total |
 | :--- | :--- | :--- | :--- |
-| 2026 | 17 | 18 | 35 |
+| 2026 | 17 | 19 | 36 |
 
 ### 🏢 Yearly Felt Earthquakes by County (Intensity >= 1)
 | Year | County | Significant | Local Area | Total Felt |
 | :--- | :--- | :--- | :--- | :--- |
 | 2026 | 花蓮縣 | 17 | 13 | 30 |
 | 2026 | 南投縣 | 16 | 10 | 26 |
-| 2026 | 宜蘭縣 | 12 | 11 | 23 |
+| 2026 | 宜蘭縣 | 12 | 12 | 24 |
 | 2026 | 臺中市 | 15 | 7 | 22 |
 | 2026 | 彰化縣 | 14 | 5 | 19 |
 | 2026 | 雲林縣 | 12 | 5 | 17 |
+| 2026 | 新北市 | 10 | 7 | 17 |
 | 2026 | 新竹縣 | 11 | 5 | 16 |
-| 2026 | 新北市 | 10 | 6 | 16 |
 | 2026 | 桃園市 | 10 | 5 | 15 |
 | 2026 | 臺北市 | 7 | 5 | 12 |
 | 2026 | 嘉義縣 | 9 | 3 | 12 |
