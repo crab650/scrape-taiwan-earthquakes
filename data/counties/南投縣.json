@@ -1,7 +1,18 @@
 {
   "county": "南投縣",
-  "updated_at": "2026-07-15 22:35:20",
+  "updated_at": "2026-07-15 23:35:14",
   "earthquakes": [
+    {
+      "id": "115050",
+      "type": "顯著有感",
+      "origin_time": "2026-07-15T22:44:30+08:00",
+      "magnitude": 4.0,
+      "depth": 5.2,
+      "epicenter": "嘉義縣政府東北東方  38.5  公里 (位於嘉義縣梅山鄉)",
+      "local_intensity": "1級",
+      "max_intensity": "4級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026071522443040050_H.png"
+    },
     {
       "id": "115049",
       "type": "顯著有感",
