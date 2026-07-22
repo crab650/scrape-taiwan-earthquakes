@@ -1,5 +1,53 @@
 [
   {
+    "id": "S20260723045709",
+    "type": "小區域",
+    "report_content": "07/23-04:57臺灣東部海域發生規模4.4有感地震，最大震度花蓮縣石梯坪、臺東縣長濱2級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026072304570944_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026072304570944",
+    "origin_time": "2026-07-23T04:57:09+08:00",
+    "depth": 31.9,
+    "magnitude": 4.4,
+    "epicenter": {
+      "location": "花蓮縣政府南方  51.7  公里 (位於臺灣東部海域)",
+      "latitude": 23.53,
+      "longitude": 121.67
+    },
+    "shaking_areas": [
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "臺東縣",
+        "intensity": "2級",
+        "area_desc": "臺東縣地區"
+      },
+      {
+        "area_name": "花蓮縣、臺東縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "1級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "彰化縣",
+        "intensity": "1級",
+        "area_desc": "彰化縣地區"
+      },
+      {
+        "area_name": "南投縣、彰化縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "2級"
+  },
+  {
     "id": "S20260722230855",
     "type": "小區域",
     "report_content": "07/22-23:08花蓮縣秀林鄉發生規模3.4有感地震，最大震度花蓮縣銅門、花蓮縣花蓮市2級。",
@@ -942,64 +990,6 @@
       }
     ],
     "max_intensity": "2級"
-  },
-  {
-    "id": "S20260621103730",
-    "type": "小區域",
-    "report_content": "06/21-10:37嘉義市西區發生規模3.5有感地震，最大震度臺南市白河、嘉義縣太保市3級。",
-    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202606/2026062110373035_H.png",
-    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026062110373035",
-    "origin_time": "2026-06-21T10:37:30+08:00",
-    "depth": 11.5,
-    "magnitude": 3.5,
-    "epicenter": {
-      "location": "嘉義市政府西方  2.0  公里 (位於嘉義市西區)",
-      "latitude": 23.48,
-      "longitude": 120.43
-    },
-    "shaking_areas": [
-      {
-        "area_name": "臺南市",
-        "intensity": "3級",
-        "area_desc": "臺南市地區"
-      },
-      {
-        "area_name": "嘉義縣",
-        "intensity": "3級",
-        "area_desc": "嘉義縣地區"
-      },
-      {
-        "area_name": "臺南市、嘉義縣",
-        "intensity": "3級",
-        "area_desc": "最大震度3級地區"
-      },
-      {
-        "area_name": "嘉義市",
-        "intensity": "2級",
-        "area_desc": "嘉義市地區"
-      },
-      {
-        "area_name": "嘉義市",
-        "intensity": "2級",
-        "area_desc": "最大震度2級地區"
-      },
-      {
-        "area_name": "雲林縣",
-        "intensity": "1級",
-        "area_desc": "雲林縣地區"
-      },
-      {
-        "area_name": "彰化縣",
-        "intensity": "1級",
-        "area_desc": "彰化縣地區"
-      },
-      {
-        "area_name": "雲林縣、彰化縣",
-        "intensity": "1級",
-        "area_desc": "最大震度1級地區"
-      }
-    ],
-    "max_intensity": "3級"
   },
   {
     "id": "115047",
