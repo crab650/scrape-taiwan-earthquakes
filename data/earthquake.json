@@ -1,5 +1,33 @@
 [
   {
+    "id": "S20260722200455",
+    "type": "小區域",
+    "report_content": "07/22-20:04花蓮縣近海發生規模3.5有感地震，最大震度花蓮縣鹽寮2級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026072220045535_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026072220045535",
+    "origin_time": "2026-07-22T20:04:55+08:00",
+    "depth": 25.8,
+    "magnitude": 3.5,
+    "epicenter": {
+      "location": "花蓮縣政府東南方  11.2  公里 (位於花蓮縣近海)",
+      "latitude": 23.91,
+      "longitude": 121.69
+    },
+    "shaking_areas": [
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      }
+    ],
+    "max_intensity": "2級"
+  },
+  {
     "id": "S20260722033121",
     "type": "小區域",
     "report_content": "07/22-03:31花蓮縣秀林鄉發生規模3.8有感地震，最大震度花蓮縣西林3級。",
@@ -962,49 +990,6 @@
       }
     ],
     "max_intensity": "3級"
-  },
-  {
-    "id": "S20260619190044",
-    "type": "小區域",
-    "report_content": "06/19-19:00彰化縣田中鎮發生規模3.0有感地震，最大震度雲林縣西螺、彰化縣彰化市2級。",
-    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202606/2026061919004430_H.png",
-    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026061919004430",
-    "origin_time": "2026-06-19T19:00:44+08:00",
-    "depth": 21.3,
-    "magnitude": 3.0,
-    "epicenter": {
-      "location": "彰化縣政府南方  22.6  公里 (位於彰化縣田中鎮)",
-      "latitude": 23.87,
-      "longitude": 120.57
-    },
-    "shaking_areas": [
-      {
-        "area_name": "雲林縣",
-        "intensity": "2級",
-        "area_desc": "雲林縣地區"
-      },
-      {
-        "area_name": "彰化縣",
-        "intensity": "2級",
-        "area_desc": "彰化縣地區"
-      },
-      {
-        "area_name": "雲林縣、彰化縣",
-        "intensity": "2級",
-        "area_desc": "最大震度2級地區"
-      },
-      {
-        "area_name": "臺中市",
-        "intensity": "1級",
-        "area_desc": "臺中市地區"
-      },
-      {
-        "area_name": "臺中市",
-        "intensity": "1級",
-        "area_desc": "最大震度1級地區"
-      }
-    ],
-    "max_intensity": "2級"
   },
   {
     "id": "115047",
