@@ -1,7 +1,18 @@
 {
   "county": "嘉義縣",
-  "updated_at": "2026-07-23 05:35:18",
+  "updated_at": "2026-07-23 06:35:18",
   "earthquakes": [
+    {
+      "id": "S20260723061442",
+      "type": "小區域",
+      "origin_time": "2026-07-23T06:14:42+08:00",
+      "magnitude": 3.5,
+      "depth": 10.6,
+      "epicenter": "雲林縣政府南南東方  11.1  公里 (位於雲林縣古坑鄉)",
+      "local_intensity": "2級",
+      "max_intensity": "3級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026072306144235_H.png"
+    },
     {
       "id": "115050",
       "type": "顯著有感",

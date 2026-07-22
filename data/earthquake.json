@@ -1,5 +1,58 @@
 [
   {
+    "id": "S20260723061442",
+    "type": "小區域",
+    "report_content": "07/23-06:14雲林縣古坑鄉發生規模3.5有感地震，最大震度雲林縣斗六市3級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026072306144235_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026072306144235",
+    "origin_time": "2026-07-23T06:14:42+08:00",
+    "depth": 10.6,
+    "magnitude": 3.5,
+    "epicenter": {
+      "location": "雲林縣政府南南東方  11.1  公里 (位於雲林縣古坑鄉)",
+      "latitude": 23.61,
+      "longitude": 120.57
+    },
+    "shaking_areas": [
+      {
+        "area_name": "雲林縣",
+        "intensity": "3級",
+        "area_desc": "雲林縣地區"
+      },
+      {
+        "area_name": "雲林縣",
+        "intensity": "3級",
+        "area_desc": "最大震度3級地區"
+      },
+      {
+        "area_name": "嘉義縣",
+        "intensity": "2級",
+        "area_desc": "嘉義縣地區"
+      },
+      {
+        "area_name": "彰化縣",
+        "intensity": "2級",
+        "area_desc": "彰化縣地區"
+      },
+      {
+        "area_name": "嘉義縣、彰化縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "嘉義市",
+        "intensity": "1級",
+        "area_desc": "嘉義市地區"
+      },
+      {
+        "area_name": "嘉義市",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "3級"
+  },
+  {
     "id": "S20260723045709",
     "type": "小區域",
     "report_content": "07/23-04:57臺灣東部海域發生規模4.4有感地震，最大震度花蓮縣石梯坪、臺東縣長濱2級。",
@@ -937,54 +990,6 @@
       },
       {
         "area_name": "南投縣、臺中市、宜蘭縣",
-        "intensity": "1級",
-        "area_desc": "最大震度1級地區"
-      }
-    ],
-    "max_intensity": "2級"
-  },
-  {
-    "id": "S20260625053042",
-    "type": "小區域",
-    "report_content": "06/25-05:30嘉義縣中埔鄉發生規模3.1有感地震，最大震度嘉義市、臺南市白河2級。",
-    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202606/2026062505304231_H.png",
-    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026062505304231",
-    "origin_time": "2026-06-25T05:30:42+08:00",
-    "depth": 7.0,
-    "magnitude": 3.1,
-    "epicenter": {
-      "location": "嘉義縣政府東南東方  15.2  公里 (位於嘉義縣中埔鄉)",
-      "latitude": 23.43,
-      "longitude": 120.44
-    },
-    "shaking_areas": [
-      {
-        "area_name": "嘉義市",
-        "intensity": "2級",
-        "area_desc": "嘉義市地區"
-      },
-      {
-        "area_name": "臺南市",
-        "intensity": "2級",
-        "area_desc": "臺南市地區"
-      },
-      {
-        "area_name": "嘉義市、臺南市",
-        "intensity": "2級",
-        "area_desc": "最大震度2級地區"
-      },
-      {
-        "area_name": "嘉義縣",
-        "intensity": "1級",
-        "area_desc": "嘉義縣地區"
-      },
-      {
-        "area_name": "雲林縣",
-        "intensity": "1級",
-        "area_desc": "雲林縣地區"
-      },
-      {
-        "area_name": "嘉義縣、雲林縣",
         "intensity": "1級",
         "area_desc": "最大震度1級地區"
       }
