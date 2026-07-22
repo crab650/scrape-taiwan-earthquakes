@@ -1,7 +1,18 @@
 {
   "county": "臺中市",
-  "updated_at": "2026-07-22 22:35:21",
+  "updated_at": "2026-07-22 23:35:16",
   "earthquakes": [
+    {
+      "id": "S20260722230855",
+      "type": "小區域",
+      "origin_time": "2026-07-22T23:08:55+08:00",
+      "magnitude": 3.4,
+      "depth": 17.0,
+      "epicenter": "花蓮縣政府西南西方  15.1  公里 (位於花蓮縣秀林鄉)",
+      "local_intensity": "1級",
+      "max_intensity": "2級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026072223085534_H.png"
+    },
     {
       "id": "S20260722033121",
       "type": "小區域",
