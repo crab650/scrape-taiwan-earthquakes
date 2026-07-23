@@ -1,7 +1,18 @@
 {
   "county": "嘉義市",
-  "updated_at": "2026-07-23 14:35:20",
+  "updated_at": "2026-07-23 15:35:20",
   "earthquakes": [
+    {
+      "id": "S20260723150556",
+      "type": "小區域",
+      "origin_time": "2026-07-23T15:05:56+08:00",
+      "magnitude": 3.0,
+      "depth": 10.1,
+      "epicenter": "嘉義縣政府東方  20.3  公里 (位於嘉義縣中埔鄉)",
+      "local_intensity": "1級",
+      "max_intensity": "2級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026072315055630_H.png"
+    },
     {
       "id": "S20260723061442",
       "type": "小區域",

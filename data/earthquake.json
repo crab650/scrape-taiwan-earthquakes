@@ -1,5 +1,53 @@
 [
   {
+    "id": "S20260723150556",
+    "type": "小區域",
+    "report_content": "07/23-15:05嘉義縣中埔鄉發生規模3.0有感地震，最大震度臺南市白河2級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026072315055630_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026072315055630",
+    "origin_time": "2026-07-23T15:05:56+08:00",
+    "depth": 10.1,
+    "magnitude": 3.0,
+    "epicenter": {
+      "location": "嘉義縣政府東方  20.3  公里 (位於嘉義縣中埔鄉)",
+      "latitude": 23.43,
+      "longitude": 120.49
+    },
+    "shaking_areas": [
+      {
+        "area_name": "臺南市",
+        "intensity": "2級",
+        "area_desc": "臺南市地區"
+      },
+      {
+        "area_name": "臺南市",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "嘉義市",
+        "intensity": "1級",
+        "area_desc": "嘉義市地區"
+      },
+      {
+        "area_name": "嘉義縣",
+        "intensity": "1級",
+        "area_desc": "嘉義縣地區"
+      },
+      {
+        "area_name": "雲林縣",
+        "intensity": "1級",
+        "area_desc": "雲林縣地區"
+      },
+      {
+        "area_name": "嘉義市、嘉義縣、雲林縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "2級"
+  },
+  {
     "id": "S20260723061442",
     "type": "小區域",
     "report_content": "07/23-06:14雲林縣古坑鄉發生規模3.5有感地震，最大震度雲林縣斗六市3級。",
@@ -942,54 +990,6 @@
       },
       {
         "area_name": "新北市、臺北市、桃園市、新竹縣、臺中市、新竹市、南投縣、苗栗縣、雲林縣",
-        "intensity": "1級",
-        "area_desc": "最大震度1級地區"
-      }
-    ],
-    "max_intensity": "2級"
-  },
-  {
-    "id": "S20260629092057",
-    "type": "小區域",
-    "report_content": "06/29-09:20花蓮縣秀林鄉發生規模3.6有感地震，最大震度花蓮縣西寶2級。",
-    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202606/2026062909205736_H.png",
-    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026062909205736",
-    "origin_time": "2026-06-29T09:20:57+08:00",
-    "depth": 22.4,
-    "magnitude": 3.6,
-    "epicenter": {
-      "location": "花蓮縣政府西北方  18.1  公里 (位於花蓮縣秀林鄉)",
-      "latitude": 24.13,
-      "longitude": 121.53
-    },
-    "shaking_areas": [
-      {
-        "area_name": "花蓮縣",
-        "intensity": "2級",
-        "area_desc": "花蓮縣地區"
-      },
-      {
-        "area_name": "花蓮縣",
-        "intensity": "2級",
-        "area_desc": "最大震度2級地區"
-      },
-      {
-        "area_name": "南投縣",
-        "intensity": "1級",
-        "area_desc": "南投縣地區"
-      },
-      {
-        "area_name": "臺中市",
-        "intensity": "1級",
-        "area_desc": "臺中市地區"
-      },
-      {
-        "area_name": "宜蘭縣",
-        "intensity": "1級",
-        "area_desc": "宜蘭縣地區"
-      },
-      {
-        "area_name": "南投縣、臺中市、宜蘭縣",
         "intensity": "1級",
         "area_desc": "最大震度1級地區"
       }
