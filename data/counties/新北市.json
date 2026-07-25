@@ -1,7 +1,18 @@
 {
   "county": "新北市",
-  "updated_at": "2026-07-24 09:36:44",
+  "updated_at": "2026-07-25 18:58:10",
   "earthquakes": [
+    {
+      "id": "S20260725020453",
+      "type": "小區域",
+      "origin_time": "2026-07-25T02:04:53+08:00",
+      "magnitude": 4.0,
+      "depth": 19.6,
+      "epicenter": "宜蘭縣政府南南東方  43.0  公里 (位於臺灣東部海域)",
+      "local_intensity": "1級",
+      "max_intensity": "3級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026072502045340_H.png"
+    },
     {
       "id": "S20260709092901",
       "type": "小區域",
