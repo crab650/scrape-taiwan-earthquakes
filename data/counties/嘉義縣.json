@@ -1,7 +1,18 @@
 {
   "county": "嘉義縣",
-  "updated_at": "2026-07-27 09:35:15",
+  "updated_at": "2026-07-27 10:35:24",
   "earthquakes": [
+    {
+      "id": "115052",
+      "type": "顯著有感",
+      "origin_time": "2026-07-27T10:14:49+08:00",
+      "magnitude": 4.8,
+      "depth": 9.6,
+      "epicenter": "臺南市政府東北東方  36.7  公里 (位於臺南市楠西區)",
+      "local_intensity": "3級",
+      "max_intensity": "4級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026072710144948052_H.png"
+    },
     {
       "id": "115051",
       "type": "顯著有感",
