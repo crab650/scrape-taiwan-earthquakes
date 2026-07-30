@@ -1,5 +1,48 @@
 [
   {
+    "id": "S20260730081016",
+    "type": "小區域",
+    "report_content": "07/30-08:10花蓮縣近海發生規模3.8有感地震，最大震度花蓮縣鹽寮2級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026073008101638_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026073008101638",
+    "origin_time": "2026-07-30T08:10:16+08:00",
+    "depth": 22.2,
+    "magnitude": 3.8,
+    "epicenter": {
+      "location": "花蓮縣政府南方  21.2  公里 (位於花蓮縣近海)",
+      "latitude": 23.8,
+      "longitude": 121.64
+    },
+    "shaking_areas": [
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "1級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "臺中市",
+        "intensity": "1級",
+        "area_desc": "臺中市地區"
+      },
+      {
+        "area_name": "南投縣、臺中市",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "2級"
+  },
+  {
     "id": "115052",
     "type": "顯著有感",
     "report_content": "07/27-10:14臺南市楠西區發生規模4.8有感地震，最大震度臺南市楠西、高雄市甲仙4級。",
@@ -1097,34 +1140,6 @@
         "area_name": "南投縣",
         "intensity": "1級",
         "area_desc": "最大震度1級地區"
-      }
-    ],
-    "max_intensity": "2級"
-  },
-  {
-    "id": "S20260702090144",
-    "type": "小區域",
-    "report_content": "07/02-09:01臺灣南部海域發生規模4.0有感地震，最大震度屏東縣南灣2級。",
-    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026070209014440_H.png",
-    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026070209014440",
-    "origin_time": "2026-07-02T09:01:44+08:00",
-    "depth": 22.1,
-    "magnitude": 4.0,
-    "epicenter": {
-      "location": "屏東縣政府南南東方  101.7  公里 (位於臺灣南部海域)",
-      "latitude": 21.81,
-      "longitude": 120.78
-    },
-    "shaking_areas": [
-      {
-        "area_name": "屏東縣",
-        "intensity": "2級",
-        "area_desc": "屏東縣地區"
-      },
-      {
-        "area_name": "屏東縣",
-        "intensity": "2級",
-        "area_desc": "最大震度2級地區"
       }
     ],
     "max_intensity": "2級"
