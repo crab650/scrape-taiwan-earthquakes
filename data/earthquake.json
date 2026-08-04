@@ -1,5 +1,43 @@
 [
   {
+    "id": "S20260805042532",
+    "type": "小區域",
+    "report_content": "08/05-04:25臺灣東部海域發生規模3.9有感地震，最大震度臺東縣長濱2級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202608/2026080504253239_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026080504253239",
+    "origin_time": "2026-08-05T04:25:32+08:00",
+    "depth": 35.5,
+    "magnitude": 3.9,
+    "epicenter": {
+      "location": "臺東縣政府東北方  61.8  公里 (位於臺灣東部海域)",
+      "latitude": 23.2,
+      "longitude": 121.52
+    },
+    "shaking_areas": [
+      {
+        "area_name": "臺東縣",
+        "intensity": "2級",
+        "area_desc": "臺東縣地區"
+      },
+      {
+        "area_name": "臺東縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "1級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "2級"
+  },
+  {
     "id": "S20260803170650",
     "type": "小區域",
     "report_content": "08/03-17:06臺南市楠西區發生規模3.3有感地震，最大震度臺南市楠西2級。",
@@ -1118,69 +1156,6 @@
       }
     ],
     "max_intensity": "3級"
-  },
-  {
-    "id": "S20260706031135",
-    "type": "小區域",
-    "report_content": "07/06-03:11臺灣東部海域發生規模4.9有感地震，最大震度宜蘭縣南澳、花蓮縣和平、新竹縣關西2級。",
-    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026070603113549_H.png",
-    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026070603113549",
-    "origin_time": "2026-07-06T03:11:35+08:00",
-    "depth": 122.3,
-    "magnitude": 4.9,
-    "epicenter": {
-      "location": "宜蘭縣政府東北東方  51.2  公里 (位於臺灣東部海域)",
-      "latitude": 24.88,
-      "longitude": 122.24
-    },
-    "shaking_areas": [
-      {
-        "area_name": "宜蘭縣",
-        "intensity": "2級",
-        "area_desc": "宜蘭縣地區"
-      },
-      {
-        "area_name": "花蓮縣",
-        "intensity": "2級",
-        "area_desc": "花蓮縣地區"
-      },
-      {
-        "area_name": "新竹縣",
-        "intensity": "2級",
-        "area_desc": "新竹縣地區"
-      },
-      {
-        "area_name": "宜蘭縣、花蓮縣、新竹縣",
-        "intensity": "2級",
-        "area_desc": "最大震度2級地區"
-      },
-      {
-        "area_name": "新北市",
-        "intensity": "1級",
-        "area_desc": "新北市地區"
-      },
-      {
-        "area_name": "臺北市",
-        "intensity": "1級",
-        "area_desc": "臺北市地區"
-      },
-      {
-        "area_name": "南投縣",
-        "intensity": "1級",
-        "area_desc": "南投縣地區"
-      },
-      {
-        "area_name": "苗栗縣",
-        "intensity": "1級",
-        "area_desc": "苗栗縣地區"
-      },
-      {
-        "area_name": "新北市、臺北市、南投縣、苗栗縣",
-        "intensity": "1級",
-        "area_desc": "最大震度1級地區"
-      }
-    ],
-    "max_intensity": "2級"
   },
   {
     "id": "115048",

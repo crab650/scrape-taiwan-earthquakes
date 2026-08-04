@@ -1,7 +1,18 @@
 {
   "county": "花蓮縣",
-  "updated_at": "2026-08-05 03:35:11",
+  "updated_at": "2026-08-05 04:35:11",
   "earthquakes": [
+    {
+      "id": "S20260805042532",
+      "type": "小區域",
+      "origin_time": "2026-08-05T04:25:32+08:00",
+      "magnitude": 3.9,
+      "depth": 35.5,
+      "epicenter": "臺東縣政府東北方  61.8  公里 (位於臺灣東部海域)",
+      "local_intensity": "1級",
+      "max_intensity": "2級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202608/2026080504253239_H.png"
+    },
     {
       "id": "115053",
       "type": "顯著有感",
