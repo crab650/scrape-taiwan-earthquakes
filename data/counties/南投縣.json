@@ -1,7 +1,18 @@
 {
   "county": "南投縣",
-  "updated_at": "2026-08-09 00:35:12",
+  "updated_at": "2026-08-09 01:35:17",
   "earthquakes": [
+    {
+      "id": "S20260809011012",
+      "type": "小區域",
+      "origin_time": "2026-08-09T01:10:12+08:00",
+      "magnitude": 3.8,
+      "depth": 16.7,
+      "epicenter": "南投縣政府東北東方  33.1  公里 (位於南投縣仁愛鄉)",
+      "local_intensity": "2級",
+      "max_intensity": "2級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202608/2026080901101238_H.png"
+    },
     {
       "id": "115053",
       "type": "顯著有感",
