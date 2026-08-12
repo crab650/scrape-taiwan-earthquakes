@@ -26,23 +26,24 @@ The tracker is designed for automated data version control using **GitHub and Py
 
 <!-- EARTHQUAKE_START -->
 
-**⏰ Last Updated (Taipei Time)**: `2026-08-12 19:35:14`
+**⏰ Last Updated (Taipei Time)**: `2026-08-12 20:35:13`
 
 ### 🚨 Latest Earthquake Report
-- **Report ID**: S20260811015653
-- **Origin Time**: `2026-08-11T01:56:53+08:00`
+- **Report ID**: S20260812202051
+- **Origin Time**: `2026-08-12T20:20:51+08:00`
 - **Magnitude**: `4.0`
-- **Focal Depth**: `42.3 km`
-- **Epicenter**: 臺東縣政府東北方  70.8  公里 (位於臺灣東部海域)
+- **Focal Depth**: `20.8 km`
+- **Epicenter**: 臺東縣政府南南西方  37.3  公里 (位於臺東縣近海)
 - **Max Intensity**: **2級**
-- **Report Content**: 08/11-01:56臺灣東部海域發生規模4.0有感地震，最大震度臺東縣長濱2級。
+- **Report Content**: 08/12-20:20臺東縣近海發生規模4.0有感地震，最大震度臺東縣大武2級。
 
-![Earthquake Report Map](https://scweb.cwa.gov.tw/webdata/OLDEQ/202608/2026081101565340_H.png)
+![Earthquake Report Map](https://scweb.cwa.gov.tw/webdata/OLDEQ/202608/2026081220205140_H.png)
 
 
 ### 🗺️ Recent 10 Earthquake Records
 | Report ID | Origin Time | Epicenter Location | Mag | Depth (km) | Max Intensity | Type |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| S20260812202051 | 2026-08-12T20:20:51+08:00 | 臺東縣政府南南西方  37.3  公里 | 4.0 | 20.8 | **2級** | Local |
 | S20260811015653 | 2026-08-11T01:56:53+08:00 | 臺東縣政府東北方  70.8  公里 | 4.0 | 42.3 | **2級** | Local |
 | S20260810213446 | 2026-08-10T21:34:46+08:00 | 花蓮縣政府東北方  42.2  公里 | 3.5 | 33.1 | **2級** | Local |
 | S20260809011012 | 2026-08-09T01:10:12+08:00 | 南投縣政府東北東方  33.1  公里 | 3.8 | 16.7 | **2級** | Local |
@@ -52,7 +53,6 @@ The tracker is designed for automated data version control using **GitHub and Py
 | 115053 | 2026-07-31T00:58:36+08:00 | 臺東縣政府北北東方  44.1  公里 | 4.7 | 20.2 | **4級** | Significant |
 | S20260730081016 | 2026-07-30T08:10:16+08:00 | 花蓮縣政府南方  21.2  公里 | 3.8 | 22.2 | **2級** | Local |
 | 115052 | 2026-07-27T10:14:49+08:00 | 臺南市政府東北東方  36.7  公里 | 4.8 | 9.6 | **4級** | Significant |
-| 115051 | 2026-07-26T20:36:17+08:00 | 新北市政府東南東方  35.8  公里 | 5.6 | 95.7 | **3級** | Significant |
 
 <!-- EARTHQUAKE_END -->
 
@@ -65,7 +65,7 @@ The tracker is designed for automated data version control using **GitHub and Py
 ### 📈 Yearly General Statistics
 | Year | Significant | Local Area | Total |
 | :--- | :--- | :--- | :--- |
-| 2026 | 21 | 36 | 57 |
+| 2026 | 21 | 37 | 58 |
 
 ### 🏢 Yearly Felt Earthquakes by County (Intensity >= 1)
 | Year | County | Significant | Local Area | Total Felt |
@@ -78,8 +78,8 @@ The tracker is designed for automated data version control using **GitHub and Py
 | 2026 | 雲林縣 | 16 | 9 | 25 |
 | 2026 | 嘉義縣 | 13 | 9 | 22 |
 | 2026 | 新北市 | 11 | 8 | 19 |
+| 2026 | 臺東縣 | 11 | 6 | 17 |
 | 2026 | 新竹縣 | 12 | 5 | 17 |
-| 2026 | 臺東縣 | 11 | 5 | 16 |
 | 2026 | 桃園市 | 11 | 5 | 16 |
 | 2026 | 臺南市 | 10 | 5 | 15 |
 | 2026 | 嘉義市 | 10 | 4 | 14 |
@@ -87,7 +87,7 @@ The tracker is designed for automated data version control using **GitHub and Py
 | 2026 | 苗栗縣 | 9 | 3 | 12 |
 | 2026 | 新竹市 | 6 | 2 | 8 |
 | 2026 | 高雄市 | 6 | 1 | 7 |
-| 2026 | 屏東縣 | 5 | 1 | 6 |
+| 2026 | 屏東縣 | 5 | 2 | 7 |
 | 2026 | 基隆市 | 4 | 0 | 4 |
 | 2026 | 澎湖縣 | 2 | 0 | 2 |
 

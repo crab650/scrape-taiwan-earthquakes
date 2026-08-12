@@ -1,5 +1,43 @@
 [
   {
+    "id": "S20260812202051",
+    "type": "小區域",
+    "report_content": "08/12-20:20臺東縣近海發生規模4.0有感地震，最大震度臺東縣大武2級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202608/2026081220205140_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026081220205140",
+    "origin_time": "2026-08-12T20:20:51+08:00",
+    "depth": 20.8,
+    "magnitude": 4.0,
+    "epicenter": {
+      "location": "臺東縣政府南南西方  37.3  公里 (位於臺東縣近海)",
+      "latitude": 22.45,
+      "longitude": 120.99
+    },
+    "shaking_areas": [
+      {
+        "area_name": "臺東縣",
+        "intensity": "2級",
+        "area_desc": "臺東縣地區"
+      },
+      {
+        "area_name": "臺東縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "屏東縣",
+        "intensity": "1級",
+        "area_desc": "屏東縣地區"
+      },
+      {
+        "area_name": "屏東縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "2級"
+  },
+  {
     "id": "S20260811015653",
     "type": "小區域",
     "report_content": "08/11-01:56臺灣東部海域發生規模4.0有感地震，最大震度臺東縣長濱2級。",
@@ -982,49 +1020,6 @@
       }
     ],
     "max_intensity": "3級"
-  },
-  {
-    "id": "S20260720011107",
-    "type": "小區域",
-    "report_content": "07/20-01:11花蓮縣秀林鄉發生規模3.4有感地震，最大震度花蓮縣銅門、花蓮縣花蓮市2級。",
-    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026072001110734_H.png",
-    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026072001110734",
-    "origin_time": "2026-07-20T01:11:07+08:00",
-    "depth": 20.1,
-    "magnitude": 3.4,
-    "epicenter": {
-      "location": "花蓮縣政府西北西方  12.5  公里 (位於花蓮縣秀林鄉)",
-      "latitude": 24.04,
-      "longitude": 121.51
-    },
-    "shaking_areas": [
-      {
-        "area_name": "花蓮縣",
-        "intensity": "2級",
-        "area_desc": "花蓮縣地區"
-      },
-      {
-        "area_name": "花蓮縣",
-        "intensity": "2級",
-        "area_desc": "最大震度2級地區"
-      },
-      {
-        "area_name": "南投縣",
-        "intensity": "1級",
-        "area_desc": "南投縣地區"
-      },
-      {
-        "area_name": "宜蘭縣",
-        "intensity": "1級",
-        "area_desc": "宜蘭縣地區"
-      },
-      {
-        "area_name": "南投縣、宜蘭縣",
-        "intensity": "1級",
-        "area_desc": "最大震度1級地區"
-      }
-    ],
-    "max_intensity": "2級"
   },
   {
     "id": "115050",
