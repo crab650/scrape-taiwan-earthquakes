@@ -26,7 +26,7 @@ The tracker is designed for automated data version control using **GitHub and Py
 
 <!-- EARTHQUAKE_START -->
 
-**⏰ Last Updated (Taipei Time)**: `2026-08-14 23:35:20`
+**⏰ Last Updated (Taipei Time)**: `2026-08-15 00:35:42`
 
 ### 🚨 Latest Earthquake Report
 - **Report ID**: 115054
