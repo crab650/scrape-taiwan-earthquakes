@@ -1,7 +1,18 @@
 {
   "county": "桃園市",
-  "updated_at": "2026-08-15 19:35:11",
+  "updated_at": "2026-08-15 20:35:15",
   "earthquakes": [
+    {
+      "id": "115055",
+      "type": "顯著有感",
+      "origin_time": "2026-08-15T19:30:16+08:00",
+      "magnitude": 5.2,
+      "depth": 66.6,
+      "epicenter": "宜蘭縣政府東南東方  52.8  公里 (位於臺灣東部海域)",
+      "local_intensity": "1級",
+      "max_intensity": "3級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202608/2026081519301652055_H.png"
+    },
     {
       "id": "115051",
       "type": "顯著有感",
