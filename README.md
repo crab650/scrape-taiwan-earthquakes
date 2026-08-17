@@ -26,23 +26,24 @@ The tracker is designed for automated data version control using **GitHub and Py
 
 <!-- EARTHQUAKE_START -->
 
-**⏰ Last Updated (Taipei Time)**: `2026-08-18 06:35:13`
+**⏰ Last Updated (Taipei Time)**: `2026-08-18 07:35:11`
 
 ### 🚨 Latest Earthquake Report
-- **Report ID**: 115055
-- **Origin Time**: `2026-08-15T19:30:16+08:00`
-- **Magnitude**: `5.2`
-- **Focal Depth**: `66.6 km`
-- **Epicenter**: 宜蘭縣政府東南東方  52.8  公里 (位於臺灣東部海域)
-- **Max Intensity**: **3級**
-- **Report Content**: 08/15-19:30臺灣東部海域發生規模5.2有感地震，最大震度宜蘭縣南澳、宜蘭縣宜蘭市、新北市汐止3級。
+- **Report ID**: S20260818072621
+- **Origin Time**: `2026-08-18T07:26:21+08:00`
+- **Magnitude**: `4.0`
+- **Focal Depth**: `39.9 km`
+- **Epicenter**: 臺東縣政府東北方  71.4  公里 (位於臺灣東部海域)
+- **Max Intensity**: **2級**
+- **Report Content**: 08/18-07:26臺灣東部海域發生規模4.0有感地震，最大震度臺東縣長濱2級。
 
-![Earthquake Report Map](https://scweb.cwa.gov.tw/webdata/OLDEQ/202608/2026081519301652055_H.png)
+![Earthquake Report Map](https://scweb.cwa.gov.tw/webdata/OLDEQ/202608/2026081807262140_H.png)
 
 
 ### 🗺️ Recent 10 Earthquake Records
 | Report ID | Origin Time | Epicenter Location | Mag | Depth (km) | Max Intensity | Type |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| S20260818072621 | 2026-08-18T07:26:21+08:00 | 臺東縣政府東北方  71.4  公里 | 4.0 | 39.9 | **2級** | Local |
 | 115055 | 2026-08-15T19:30:16+08:00 | 宜蘭縣政府東南東方  52.8  公里 | 5.2 | 66.6 | **3級** | Significant |
 | 115054 | 2026-08-13T03:54:22+08:00 | 屏東縣政府南南東方  91.7  公里 | 4.4 | 40.2 | **3級** | Significant |
 | S20260812202051 | 2026-08-12T20:20:51+08:00 | 臺東縣政府南南西方  37.3  公里 | 4.0 | 20.8 | **2級** | Local |
@@ -52,7 +53,6 @@ The tracker is designed for automated data version control using **GitHub and Py
 | S20260805042532 | 2026-08-05T04:25:32+08:00 | 臺東縣政府東北方  61.8  公里 | 3.9 | 35.5 | **2級** | Local |
 | S20260803170650 | 2026-08-03T17:06:50+08:00 | 臺南市政府東北東方  35.9  公里 | 3.3 | 8.9 | **2級** | Local |
 | S20260803161738 | 2026-08-03T16:17:38+08:00 | 臺南市政府東北東方  36.4  公里 | 3.6 | 9.2 | **2級** | Local |
-| 115053 | 2026-07-31T00:58:36+08:00 | 臺東縣政府北北東方  44.1  公里 | 4.7 | 20.2 | **4級** | Significant |
 
 <!-- EARTHQUAKE_END -->
 
@@ -65,20 +65,20 @@ The tracker is designed for automated data version control using **GitHub and Py
 ### 📈 Yearly General Statistics
 | Year | Significant | Local Area | Total |
 | :--- | :--- | :--- | :--- |
-| 2026 | 23 | 37 | 60 |
+| 2026 | 23 | 38 | 61 |
 
 ### 🏢 Yearly Felt Earthquakes by County (Intensity >= 1)
 | Year | County | Significant | Local Area | Total Felt |
 | :--- | :--- | :--- | :--- | :--- |
-| 2026 | 花蓮縣 | 21 | 25 | 46 |
+| 2026 | 花蓮縣 | 21 | 26 | 47 |
 | 2026 | 南投縣 | 21 | 18 | 39 |
 | 2026 | 宜蘭縣 | 14 | 19 | 33 |
 | 2026 | 臺中市 | 19 | 12 | 31 |
 | 2026 | 彰化縣 | 20 | 10 | 30 |
 | 2026 | 雲林縣 | 18 | 9 | 27 |
 | 2026 | 嘉義縣 | 14 | 9 | 23 |
+| 2026 | 臺東縣 | 13 | 7 | 20 |
 | 2026 | 新北市 | 12 | 8 | 20 |
-| 2026 | 臺東縣 | 13 | 6 | 19 |
 | 2026 | 新竹縣 | 13 | 5 | 18 |
 | 2026 | 桃園市 | 12 | 5 | 17 |
 | 2026 | 臺南市 | 11 | 5 | 16 |
