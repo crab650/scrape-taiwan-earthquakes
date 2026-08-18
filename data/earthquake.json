@@ -1,5 +1,53 @@
 [
   {
+    "id": "S20260819001018",
+    "type": "小區域",
+    "report_content": "08/19-00:10宜蘭縣南澳鄉發生規模3.6有感地震，最大震度花蓮縣和平、宜蘭縣南澳3級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202608/2026081900101836_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026081900101836",
+    "origin_time": "2026-08-19T00:10:18+08:00",
+    "depth": 6.3,
+    "magnitude": 3.6,
+    "epicenter": {
+      "location": "宜蘭縣政府南方  43.2  公里 (位於宜蘭縣南澳鄉)",
+      "latitude": 24.34,
+      "longitude": 121.76
+    },
+    "shaking_areas": [
+      {
+        "area_name": "花蓮縣",
+        "intensity": "3級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "3級",
+        "area_desc": "宜蘭縣地區"
+      },
+      {
+        "area_name": "花蓮縣、宜蘭縣",
+        "intensity": "3級",
+        "area_desc": "最大震度3級地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "1級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "新北市",
+        "intensity": "1級",
+        "area_desc": "新北市地區"
+      },
+      {
+        "area_name": "南投縣、新北市",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "3級"
+  },
+  {
     "id": "S20260818072621",
     "type": "小區域",
     "report_content": "08/18-07:26臺灣東部海域發生規模4.0有感地震，最大震度臺東縣長濱2級。",
@@ -1135,34 +1183,6 @@
         "area_name": "南投縣、臺中市、宜蘭縣",
         "intensity": "1級",
         "area_desc": "最大震度1級地區"
-      }
-    ],
-    "max_intensity": "2級"
-  },
-  {
-    "id": "S20260722200455",
-    "type": "小區域",
-    "report_content": "07/22-20:04花蓮縣近海發生規模3.5有感地震，最大震度花蓮縣鹽寮2級。",
-    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026072220045535_H.png",
-    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026072220045535",
-    "origin_time": "2026-07-22T20:04:55+08:00",
-    "depth": 25.8,
-    "magnitude": 3.5,
-    "epicenter": {
-      "location": "花蓮縣政府東南方  11.2  公里 (位於花蓮縣近海)",
-      "latitude": 23.91,
-      "longitude": 121.69
-    },
-    "shaking_areas": [
-      {
-        "area_name": "花蓮縣",
-        "intensity": "2級",
-        "area_desc": "花蓮縣地區"
-      },
-      {
-        "area_name": "花蓮縣",
-        "intensity": "2級",
-        "area_desc": "最大震度2級地區"
       }
     ],
     "max_intensity": "2級"
