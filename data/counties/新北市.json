@@ -1,7 +1,18 @@
 {
   "county": "新北市",
-  "updated_at": "2026-08-20 03:35:16",
+  "updated_at": "2026-08-20 04:35:12",
   "earthquakes": [
+    {
+      "id": "S20260820033208",
+      "type": "小區域",
+      "origin_time": "2026-08-20T03:32:08+08:00",
+      "magnitude": 4.2,
+      "depth": 24.7,
+      "epicenter": "花蓮縣政府東北東方  36.1  公里 (位於臺灣東部海域)",
+      "local_intensity": "1級",
+      "max_intensity": "1級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202608/2026082003320842_H.png"
+    },
     {
       "id": "S20260819001018",
       "type": "小區域",
