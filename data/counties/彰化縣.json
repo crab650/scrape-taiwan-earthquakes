@@ -1,7 +1,18 @@
 {
   "county": "彰化縣",
-  "updated_at": "2026-08-22 11:35:14",
+  "updated_at": "2026-08-22 12:35:17",
   "earthquakes": [
+    {
+      "id": "115056",
+      "type": "顯著有感",
+      "origin_time": "2026-08-22T11:40:15+08:00",
+      "magnitude": 5.1,
+      "depth": 27.8,
+      "epicenter": "宜蘭縣政府東南方  41.7  公里 (位於臺灣東部海域)",
+      "local_intensity": "2級",
+      "max_intensity": "3級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202608/2026082211401551056_H.png"
+    },
     {
       "id": "115055",
       "type": "顯著有感",
