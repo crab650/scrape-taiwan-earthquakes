@@ -1,7 +1,18 @@
 {
   "county": "彰化縣",
-  "updated_at": "2026-08-25 14:35:13",
+  "updated_at": "2026-08-25 15:35:16",
   "earthquakes": [
+    {
+      "id": "115057",
+      "type": "顯著有感",
+      "origin_time": "2026-08-25T15:00:11+08:00",
+      "magnitude": 5.8,
+      "depth": 13.1,
+      "epicenter": "臺東縣政府東南東方  48.0  公里 (位於臺灣東南部海域)",
+      "local_intensity": "2級",
+      "max_intensity": "4級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202608/2026082515001158057_H.png"
+    },
     {
       "id": "115056",
       "type": "顯著有感",

@@ -1,7 +1,40 @@
 {
   "county": "臺東縣",
-  "updated_at": "2026-08-25 14:35:13",
+  "updated_at": "2026-08-25 15:35:16",
   "earthquakes": [
+    {
+      "id": "S20260825152207",
+      "type": "小區域",
+      "origin_time": "2026-08-25T15:22:07+08:00",
+      "magnitude": 4.2,
+      "depth": 13.1,
+      "epicenter": "臺東縣政府東南東方  45.4  公里 (位於臺灣東南部海域)",
+      "local_intensity": "2級",
+      "max_intensity": "2級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202608/2026082515220742_H.png"
+    },
+    {
+      "id": "S20260825150230",
+      "type": "小區域",
+      "origin_time": "2026-08-25T15:02:30+08:00",
+      "magnitude": 4.3,
+      "depth": 30.7,
+      "epicenter": "臺東縣政府東南東方  44.7  公里 (位於臺灣東南部海域)",
+      "local_intensity": "2級",
+      "max_intensity": "2級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202608/2026082515023043_H.png"
+    },
+    {
+      "id": "115057",
+      "type": "顯著有感",
+      "origin_time": "2026-08-25T15:00:11+08:00",
+      "magnitude": 5.8,
+      "depth": 13.1,
+      "epicenter": "臺東縣政府東南東方  48.0  公里 (位於臺灣東南部海域)",
+      "local_intensity": "4級",
+      "max_intensity": "4級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202608/2026082515001158057_H.png"
+    },
     {
       "id": "S20260818072621",
       "type": "小區域",

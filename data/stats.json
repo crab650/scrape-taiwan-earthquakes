@@ -1,103 +1,103 @@
 {
   "2026": {
-    "Significant": 24,
-    "Local": 42,
-    "Total": 66,
+    "Significant": 25,
+    "Local": 44,
+    "Total": 69,
     "Counties": {
       "雲林縣": {
-        "Significant": 19,
+        "Significant": 20,
         "Local": 9,
-        "Total": 28
+        "Total": 29
       },
       "彰化縣": {
-        "Significant": 21,
+        "Significant": 22,
         "Local": 10,
-        "Total": 31
+        "Total": 32
       },
       "新竹縣": {
+        "Significant": 15,
+        "Local": 5,
+        "Total": 20
+      },
+      "新竹市": {
+        "Significant": 8,
+        "Local": 2,
+        "Total": 10
+      },
+      "宜蘭縣": {
+        "Significant": 16,
+        "Local": 22,
+        "Total": 38
+      },
+      "苗栗縣": {
+        "Significant": 12,
+        "Local": 3,
+        "Total": 15
+      },
+      "臺北市": {
+        "Significant": 11,
+        "Local": 5,
+        "Total": 16
+      },
+      "新北市": {
+        "Significant": 14,
+        "Local": 10,
+        "Total": 24
+      },
+      "臺中市": {
+        "Significant": 21,
+        "Local": 13,
+        "Total": 34
+      },
+      "嘉義縣": {
+        "Significant": 16,
+        "Local": 9,
+        "Total": 25
+      },
+      "臺東縣": {
+        "Significant": 14,
+        "Local": 9,
+        "Total": 23
+      },
+      "桃園市": {
         "Significant": 14,
         "Local": 5,
         "Total": 19
       },
-      "新竹市": {
+      "花蓮縣": {
+        "Significant": 23,
+        "Local": 30,
+        "Total": 53
+      },
+      "南投縣": {
+        "Significant": 23,
+        "Local": 21,
+        "Total": 44
+      },
+      "屏東縣": {
         "Significant": 7,
         "Local": 2,
         "Total": 9
       },
-      "宜蘭縣": {
-        "Significant": 15,
-        "Local": 22,
-        "Total": 37
-      },
-      "苗栗縣": {
-        "Significant": 11,
-        "Local": 3,
-        "Total": 14
-      },
-      "臺北市": {
-        "Significant": 10,
-        "Local": 5,
-        "Total": 15
-      },
-      "新北市": {
-        "Significant": 13,
-        "Local": 10,
-        "Total": 23
-      },
-      "臺中市": {
-        "Significant": 20,
-        "Local": 13,
-        "Total": 33
-      },
-      "嘉義縣": {
-        "Significant": 15,
-        "Local": 9,
-        "Total": 24
-      },
-      "臺東縣": {
-        "Significant": 13,
-        "Local": 7,
-        "Total": 20
-      },
-      "桃園市": {
-        "Significant": 13,
-        "Local": 5,
-        "Total": 18
-      },
-      "花蓮縣": {
-        "Significant": 22,
-        "Local": 30,
-        "Total": 52
-      },
-      "南投縣": {
-        "Significant": 22,
-        "Local": 21,
-        "Total": 43
-      },
-      "屏東縣": {
-        "Significant": 6,
-        "Local": 2,
-        "Total": 8
-      },
       "臺南市": {
-        "Significant": 11,
+        "Significant": 12,
         "Local": 5,
-        "Total": 16
+        "Total": 17
       },
       "嘉義市": {
-        "Significant": 12,
+        "Significant": 13,
         "Local": 4,
-        "Total": 16
+        "Total": 17
       },
       "高雄市": {
-        "Significant": 6,
+        "Significant": 7,
         "Local": 1,
-        "Total": 7
+        "Total": 8
       },
       "澎湖縣": {
-        "Significant": 2,
+        "Significant": 3,
         "Local": 0,
-        "Total": 2
+        "Total": 3
       },
       "基隆市": {
         "Significant": 6,
