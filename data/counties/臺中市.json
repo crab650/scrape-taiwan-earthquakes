@@ -1,7 +1,18 @@
 {
   "county": "臺中市",
-  "updated_at": "2026-08-26 04:35:18",
+  "updated_at": "2026-08-26 05:35:15",
   "earthquakes": [
+    {
+      "id": "S20260826050935",
+      "type": "小區域",
+      "origin_time": "2026-08-26T05:09:35+08:00",
+      "magnitude": 3.8,
+      "depth": 24.4,
+      "epicenter": "南投縣政府東南東方  9.8  公里 (位於南投縣中寮鄉)",
+      "local_intensity": "1級",
+      "max_intensity": "2級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202608/2026082605093538_H.png"
+    },
     {
       "id": "115057",
       "type": "顯著有感",
