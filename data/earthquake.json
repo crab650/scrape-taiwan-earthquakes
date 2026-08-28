@@ -1,5 +1,53 @@
 [
   {
+    "id": "S20260828181157",
+    "type": "小區域",
+    "report_content": "08/28-18:11臺灣東南部海域發生規模3.8有感地震，最大震度臺東縣成功3級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202608/2026082818115738_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026082818115738",
+    "origin_time": "2026-08-28T18:11:57+08:00",
+    "depth": 22.3,
+    "magnitude": 3.8,
+    "epicenter": {
+      "location": "臺東縣政府東北東方  43.4  公里 (位於臺灣東南部海域)",
+      "latitude": 22.97,
+      "longitude": 121.5
+    },
+    "shaking_areas": [
+      {
+        "area_name": "臺東縣",
+        "intensity": "3級",
+        "area_desc": "臺東縣地區"
+      },
+      {
+        "area_name": "臺東縣",
+        "intensity": "3級",
+        "area_desc": "最大震度3級地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "高雄市",
+        "intensity": "1級",
+        "area_desc": "高雄市地區"
+      },
+      {
+        "area_name": "高雄市",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "3級"
+  },
+  {
     "id": "S20260828102056",
     "type": "小區域",
     "report_content": "08/28-10:20臺灣西南部海域發生規模4.4有感地震，最大震度屏東縣滿州2級。",
@@ -1098,44 +1146,6 @@
       },
       {
         "area_name": "高雄市、嘉義縣",
-        "intensity": "1級",
-        "area_desc": "最大震度1級地區"
-      }
-    ],
-    "max_intensity": "2級"
-  },
-  {
-    "id": "S20260803161738",
-    "type": "小區域",
-    "report_content": "08/03-16:17臺南市楠西區發生規模3.6有感地震，最大震度臺南市楠西2級。",
-    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202608/2026080316173836_H.png",
-    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026080316173836",
-    "origin_time": "2026-08-03T16:17:38+08:00",
-    "depth": 9.2,
-    "magnitude": 3.6,
-    "epicenter": {
-      "location": "臺南市政府東北東方  36.4  公里 (位於臺南市楠西區)",
-      "latitude": 23.17,
-      "longitude": 120.48
-    },
-    "shaking_areas": [
-      {
-        "area_name": "臺南市",
-        "intensity": "2級",
-        "area_desc": "臺南市地區"
-      },
-      {
-        "area_name": "臺南市",
-        "intensity": "2級",
-        "area_desc": "最大震度2級地區"
-      },
-      {
-        "area_name": "嘉義縣",
-        "intensity": "1級",
-        "area_desc": "嘉義縣地區"
-      },
-      {
-        "area_name": "嘉義縣",
         "intensity": "1級",
         "area_desc": "最大震度1級地區"
       }
