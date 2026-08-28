@@ -1,7 +1,18 @@
 {
   "county": "屏東縣",
-  "updated_at": "2026-08-28 09:35:16",
+  "updated_at": "2026-08-28 10:35:18",
   "earthquakes": [
+    {
+      "id": "S20260828102056",
+      "type": "小區域",
+      "origin_time": "2026-08-28T10:20:56+08:00",
+      "magnitude": 4.4,
+      "depth": 50.7,
+      "epicenter": "高雄市政府南方  66.3  公里 (位於臺灣西南部海域)",
+      "local_intensity": "2級",
+      "max_intensity": "2級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202608/2026082810205644_H.png"
+    },
     {
       "id": "115058",
       "type": "顯著有感",
