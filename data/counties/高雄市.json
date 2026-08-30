@@ -1,7 +1,18 @@
 {
   "county": "高雄市",
-  "updated_at": "2026-08-30 19:35:16",
+  "updated_at": "2026-08-30 20:35:16",
   "earthquakes": [
+    {
+      "id": "S20260830194845",
+      "type": "小區域",
+      "origin_time": "2026-08-30T19:48:45+08:00",
+      "magnitude": 3.4,
+      "depth": 12.7,
+      "epicenter": "臺南市政府東北東方  43.4  公里 (位於臺南市南化區)",
+      "local_intensity": "1級",
+      "max_intensity": "3級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202608/2026083019484534_H.png"
+    },
     {
       "id": "S20260828181157",
       "type": "小區域",
