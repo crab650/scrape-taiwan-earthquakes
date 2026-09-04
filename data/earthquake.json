@@ -1,5 +1,43 @@
 [
   {
+    "id": "115059",
+    "type": "顯著有感",
+    "report_content": "09/04-17:11臺灣東南部海域發生規模4.5有感地震，最大震度臺東縣綠島4級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202609/2026090417110045059_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026059",
+    "origin_time": "2026-09-04T17:11:00+08:00",
+    "depth": 13.7,
+    "magnitude": 4.5,
+    "epicenter": {
+      "location": "臺東縣政府東南東方  44.9  公里 (位於臺灣東南部海域)",
+      "latitude": 22.65,
+      "longitude": 121.57
+    },
+    "shaking_areas": [
+      {
+        "area_name": "臺東縣",
+        "intensity": "4級",
+        "area_desc": "臺東縣地區"
+      },
+      {
+        "area_name": "臺東縣",
+        "intensity": "4級",
+        "area_desc": "最大震度4級地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "1級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "4級"
+  },
+  {
     "id": "S20260903173005",
     "type": "小區域",
     "report_content": "09/03-17:30臺灣東南部海域發生規模4.5有感地震，最大震度臺東縣東河3級。",
@@ -2021,134 +2059,6 @@
       },
       {
         "area_name": "桃園市、臺東縣、苗栗縣、新竹縣、新北市、彰化縣、雲林縣、嘉義縣",
-        "intensity": "1級",
-        "area_desc": "最大震度1級地區"
-      }
-    ],
-    "max_intensity": "4級"
-  },
-  {
-    "id": "115043",
-    "type": "顯著有感",
-    "report_content": "05/12-14:53臺灣東部海域發生規模5.6有感地震，最大震度臺東縣長濱、花蓮縣富里4級。",
-    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026051214533256043_H.png",
-    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026043",
-    "origin_time": "2026-05-12T14:53:32+08:00",
-    "depth": 22.9,
-    "magnitude": 5.6,
-    "epicenter": {
-      "location": "臺東縣政府東北方  66.8  公里 (位於臺灣東部海域)",
-      "latitude": 23.24,
-      "longitude": 121.54
-    },
-    "shaking_areas": [
-      {
-        "area_name": "臺東縣",
-        "intensity": "4級",
-        "area_desc": "臺東縣地區"
-      },
-      {
-        "area_name": "花蓮縣",
-        "intensity": "4級",
-        "area_desc": "花蓮縣地區"
-      },
-      {
-        "area_name": "臺東縣、花蓮縣",
-        "intensity": "4級",
-        "area_desc": "最大震度4級地區"
-      },
-      {
-        "area_name": "南投縣",
-        "intensity": "3級",
-        "area_desc": "南投縣地區"
-      },
-      {
-        "area_name": "雲林縣",
-        "intensity": "3級",
-        "area_desc": "雲林縣地區"
-      },
-      {
-        "area_name": "彰化縣",
-        "intensity": "3級",
-        "area_desc": "彰化縣地區"
-      },
-      {
-        "area_name": "南投縣、雲林縣、彰化縣",
-        "intensity": "3級",
-        "area_desc": "最大震度3級地區"
-      },
-      {
-        "area_name": "高雄市",
-        "intensity": "2級",
-        "area_desc": "高雄市地區"
-      },
-      {
-        "area_name": "嘉義縣",
-        "intensity": "2級",
-        "area_desc": "嘉義縣地區"
-      },
-      {
-        "area_name": "臺南市",
-        "intensity": "2級",
-        "area_desc": "臺南市地區"
-      },
-      {
-        "area_name": "臺中市",
-        "intensity": "2級",
-        "area_desc": "臺中市地區"
-      },
-      {
-        "area_name": "嘉義市",
-        "intensity": "2級",
-        "area_desc": "嘉義市地區"
-      },
-      {
-        "area_name": "宜蘭縣",
-        "intensity": "2級",
-        "area_desc": "宜蘭縣地區"
-      },
-      {
-        "area_name": "苗栗縣",
-        "intensity": "2級",
-        "area_desc": "苗栗縣地區"
-      },
-      {
-        "area_name": "高雄市、嘉義縣、臺南市、臺中市、嘉義市、宜蘭縣、苗栗縣",
-        "intensity": "2級",
-        "area_desc": "最大震度2級地區"
-      },
-      {
-        "area_name": "屏東縣",
-        "intensity": "1級",
-        "area_desc": "屏東縣地區"
-      },
-      {
-        "area_name": "桃園市",
-        "intensity": "1級",
-        "area_desc": "桃園市地區"
-      },
-      {
-        "area_name": "新竹縣",
-        "intensity": "1級",
-        "area_desc": "新竹縣地區"
-      },
-      {
-        "area_name": "新竹市",
-        "intensity": "1級",
-        "area_desc": "新竹市地區"
-      },
-      {
-        "area_name": "新北市",
-        "intensity": "1級",
-        "area_desc": "新北市地區"
-      },
-      {
-        "area_name": "臺北市",
-        "intensity": "1級",
-        "area_desc": "臺北市地區"
-      },
-      {
-        "area_name": "屏東縣、桃園市、新竹縣、新竹市、新北市、臺北市",
         "intensity": "1級",
         "area_desc": "最大震度1級地區"
       }
