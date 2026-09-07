@@ -1,7 +1,18 @@
 {
   "county": "新竹縣",
-  "updated_at": "2026-09-07 15:35:16",
+  "updated_at": "2026-09-07 16:35:19",
   "earthquakes": [
+    {
+      "id": "S20260907155537",
+      "type": "小區域",
+      "origin_time": "2026-09-07T15:55:37+08:00",
+      "magnitude": 4.2,
+      "depth": 55.9,
+      "epicenter": "宜蘭縣政府西南方  18.6  公里 (位於宜蘭縣大同鄉)",
+      "local_intensity": "1級",
+      "max_intensity": "2級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202609/2026090715553742_H.png"
+    },
     {
       "id": "115057",
       "type": "顯著有感",
