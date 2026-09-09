@@ -1,7 +1,18 @@
 {
   "county": "苗栗縣",
-  "updated_at": "2026-09-09 19:35:15",
+  "updated_at": "2026-09-09 20:35:13",
   "earthquakes": [
+    {
+      "id": "S20260909192104",
+      "type": "小區域",
+      "origin_time": "2026-09-09T19:21:04+08:00",
+      "magnitude": 2.5,
+      "depth": 8.7,
+      "epicenter": "苗栗縣政府西南西方  6.5  公里 (位於苗栗縣西湖鄉)",
+      "local_intensity": "1級",
+      "max_intensity": "1級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202609/2026090919210425_H.png"
+    },
     {
       "id": "S20260907155537",
       "type": "小區域",

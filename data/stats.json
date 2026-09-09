@@ -1,8 +1,8 @@
 {
   "2026": {
     "Significant": 28,
-    "Local": 52,
-    "Total": 80,
+    "Local": 53,
+    "Total": 81,
     "Counties": {
       "雲林縣": {
         "Significant": 22,
@@ -31,8 +31,8 @@
       },
       "苗栗縣": {
         "Significant": 14,
-        "Local": 4,
-        "Total": 18
+        "Local": 5,
+        "Total": 19
       },
       "臺北市": {
         "Significant": 11,

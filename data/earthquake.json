@@ -1,5 +1,33 @@
 [
   {
+    "id": "S20260909192104",
+    "type": "小區域",
+    "report_content": "09/09-19:21苗栗縣西湖鄉發生規模2.5有感地震，最大震度苗栗縣後龍1級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202609/2026090919210425_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026090919210425",
+    "origin_time": "2026-09-09T19:21:04+08:00",
+    "depth": 8.7,
+    "magnitude": 2.5,
+    "epicenter": {
+      "location": "苗栗縣政府西南西方  6.5  公里 (位於苗栗縣西湖鄉)",
+      "latitude": 24.53,
+      "longitude": 120.77
+    },
+    "shaking_areas": [
+      {
+        "area_name": "苗栗縣",
+        "intensity": "1級",
+        "area_desc": "苗栗縣地區"
+      },
+      {
+        "area_name": "苗栗縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "1級"
+  },
+  {
     "id": "S20260909063250",
     "type": "小區域",
     "report_content": "09/09-06:32臺灣東部海域發生規模4.8有感地震，最大震度宜蘭縣蘇澳、花蓮縣和平、新北市汐止2級。",
@@ -1319,44 +1347,6 @@
       }
     ],
     "max_intensity": "3級"
-  },
-  {
-    "id": "S20260812202051",
-    "type": "小區域",
-    "report_content": "08/12-20:20臺東縣近海發生規模4.0有感地震，最大震度臺東縣大武2級。",
-    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202608/2026081220205140_H.png",
-    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026081220205140",
-    "origin_time": "2026-08-12T20:20:51+08:00",
-    "depth": 20.8,
-    "magnitude": 4.0,
-    "epicenter": {
-      "location": "臺東縣政府南南西方  37.3  公里 (位於臺東縣近海)",
-      "latitude": 22.45,
-      "longitude": 120.99
-    },
-    "shaking_areas": [
-      {
-        "area_name": "臺東縣",
-        "intensity": "2級",
-        "area_desc": "臺東縣地區"
-      },
-      {
-        "area_name": "臺東縣",
-        "intensity": "2級",
-        "area_desc": "最大震度2級地區"
-      },
-      {
-        "area_name": "屏東縣",
-        "intensity": "1級",
-        "area_desc": "屏東縣地區"
-      },
-      {
-        "area_name": "屏東縣",
-        "intensity": "1級",
-        "area_desc": "最大震度1級地區"
-      }
-    ],
-    "max_intensity": "2級"
   },
   {
     "id": "115053",
