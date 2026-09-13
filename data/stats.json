@@ -1,18 +1,18 @@
 {
   "2026": {
-    "Significant": 29,
+    "Significant": 30,
     "Local": 54,
-    "Total": 83,
+    "Total": 84,
     "Counties": {
       "雲林縣": {
-        "Significant": 23,
+        "Significant": 24,
         "Local": 12,
-        "Total": 35
+        "Total": 36
       },
       "彰化縣": {
-        "Significant": 25,
+        "Significant": 26,
         "Local": 12,
-        "Total": 37
+        "Total": 38
       },
       "新竹縣": {
         "Significant": 15,
@@ -25,14 +25,14 @@
         "Total": 10
       },
       "宜蘭縣": {
-        "Significant": 17,
+        "Significant": 18,
         "Local": 25,
-        "Total": 42
+        "Total": 43
       },
       "苗栗縣": {
-        "Significant": 14,
+        "Significant": 15,
         "Local": 5,
-        "Total": 19
+        "Total": 20
       },
       "臺北市": {
         "Significant": 11,
@@ -45,19 +45,19 @@
         "Total": 26
       },
       "臺中市": {
-        "Significant": 23,
+        "Significant": 24,
         "Local": 16,
-        "Total": 39
+        "Total": 40
       },
       "嘉義縣": {
-        "Significant": 19,
+        "Significant": 20,
         "Local": 12,
-        "Total": 31
+        "Total": 32
       },
       "臺東縣": {
-        "Significant": 18,
+        "Significant": 19,
         "Local": 13,
-        "Total": 31
+        "Total": 32
       },
       "桃園市": {
         "Significant": 14,
@@ -65,14 +65,14 @@
         "Total": 21
       },
       "花蓮縣": {
-        "Significant": 27,
+        "Significant": 28,
         "Local": 36,
-        "Total": 63
+        "Total": 64
       },
       "南投縣": {
-        "Significant": 26,
+        "Significant": 27,
         "Local": 25,
-        "Total": 51
+        "Total": 52
       },
       "屏東縣": {
         "Significant": 9,
@@ -80,19 +80,19 @@
         "Total": 12
       },
       "臺南市": {
-        "Significant": 15,
+        "Significant": 16,
         "Local": 6,
-        "Total": 21
+        "Total": 22
       },
       "嘉義市": {
-        "Significant": 15,
+        "Significant": 16,
         "Local": 4,
-        "Total": 19
+        "Total": 20
       },
       "高雄市": {
-        "Significant": 9,
+        "Significant": 10,
         "Local": 5,
-        "Total": 14
+        "Total": 15
       },
       "澎湖縣": {
         "Significant": 3,

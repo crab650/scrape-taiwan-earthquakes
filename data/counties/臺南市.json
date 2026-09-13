@@ -1,7 +1,18 @@
 {
   "county": "臺南市",
-  "updated_at": "2026-09-14 02:35:16",
+  "updated_at": "2026-09-14 03:35:17",
   "earthquakes": [
+    {
+      "id": "115062",
+      "type": "顯著有感",
+      "origin_time": "2026-09-14T03:21:35+08:00",
+      "magnitude": 4.7,
+      "depth": 17.6,
+      "epicenter": "花蓮縣政府南南西方  54.9  公里 (位於花蓮縣萬榮鄉)",
+      "local_intensity": "2級",
+      "max_intensity": "4級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202609/2026091403213547062_H.png"
+    },
     {
       "id": "115061",
       "type": "顯著有感",
