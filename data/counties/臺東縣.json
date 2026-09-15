@@ -1,7 +1,18 @@
 {
   "county": "臺東縣",
-  "updated_at": "2026-09-15 23:35:18",
+  "updated_at": "2026-09-16 00:35:16",
   "earthquakes": [
+    {
+      "id": "S20260916000039",
+      "type": "小區域",
+      "origin_time": "2026-09-16T00:00:39+08:00",
+      "magnitude": 3.8,
+      "depth": 23.8,
+      "epicenter": "臺東縣政府南南東方  74.6  公里 (位於臺灣東南部海域)",
+      "local_intensity": "3級",
+      "max_intensity": "3級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202609/2026091600003938_H.png"
+    },
     {
       "id": "115063",
       "type": "顯著有感",
