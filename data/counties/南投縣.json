@@ -1,7 +1,18 @@
 {
   "county": "南投縣",
-  "updated_at": "2026-09-22 04:35:16",
+  "updated_at": "2026-09-22 05:35:15",
   "earthquakes": [
+    {
+      "id": "115064",
+      "type": "顯著有感",
+      "origin_time": "2026-09-22T05:16:13+08:00",
+      "magnitude": 4.2,
+      "depth": 7.5,
+      "epicenter": "臺南市政府東北東方  43.9  公里 (位於臺南市楠西區)",
+      "local_intensity": "1級",
+      "max_intensity": "4級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202609/2026092205161342064_H.png"
+    },
     {
       "id": "S20260919041407",
       "type": "小區域",
@@ -540,17 +551,6 @@
       "local_intensity": "1級",
       "max_intensity": "4級",
       "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026050414592140038_H.png"
-    },
-    {
-      "id": "115037",
-      "type": "顯著有感",
-      "origin_time": "2026-05-01T20:39:55+08:00",
-      "magnitude": 6.1,
-      "depth": 98.3,
-      "epicenter": "宜蘭縣政府東北東方  38.7  公里 (位於臺灣東部海域)",
-      "local_intensity": "4級",
-      "max_intensity": "4級",
-      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026050120395561037_H.png"
     }
   ]
 }

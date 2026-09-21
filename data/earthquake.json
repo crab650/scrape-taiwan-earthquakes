@@ -1,5 +1,83 @@
 [
   {
+    "id": "115064",
+    "type": "顯著有感",
+    "report_content": "09/22-05:16臺南市楠西區發生規模4.2有感地震，最大震度臺南市曾文4級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202609/2026092205161342064_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026064",
+    "origin_time": "2026-09-22T05:16:13+08:00",
+    "depth": 7.5,
+    "magnitude": 4.2,
+    "epicenter": {
+      "location": "臺南市政府東北東方  43.9  公里 (位於臺南市楠西區)",
+      "latitude": 23.21,
+      "longitude": 120.54
+    },
+    "shaking_areas": [
+      {
+        "area_name": "臺南市",
+        "intensity": "4級",
+        "area_desc": "臺南市地區"
+      },
+      {
+        "area_name": "臺南市",
+        "intensity": "4級",
+        "area_desc": "最大震度4級地區"
+      },
+      {
+        "area_name": "嘉義縣",
+        "intensity": "3級",
+        "area_desc": "嘉義縣地區"
+      },
+      {
+        "area_name": "嘉義縣",
+        "intensity": "3級",
+        "area_desc": "最大震度3級地區"
+      },
+      {
+        "area_name": "高雄市",
+        "intensity": "1級",
+        "area_desc": "高雄市地區"
+      },
+      {
+        "area_name": "嘉義市",
+        "intensity": "1級",
+        "area_desc": "嘉義市地區"
+      },
+      {
+        "area_name": "雲林縣",
+        "intensity": "1級",
+        "area_desc": "雲林縣地區"
+      },
+      {
+        "area_name": "臺東縣",
+        "intensity": "1級",
+        "area_desc": "臺東縣地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "1級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "1級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "彰化縣",
+        "intensity": "1級",
+        "area_desc": "彰化縣地區"
+      },
+      {
+        "area_name": "高雄市、嘉義市、雲林縣、臺東縣、南投縣、花蓮縣、彰化縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "4級"
+  },
+  {
     "id": "S20260920160536",
     "type": "小區域",
     "report_content": "09/20-16:05臺南市楠西區發生規模3.6有感地震，最大震度臺南市楠西2級。",
@@ -2058,34 +2136,6 @@
         "area_name": "彰化縣、新竹縣",
         "intensity": "1級",
         "area_desc": "最大震度1級地區"
-      }
-    ],
-    "max_intensity": "4級"
-  },
-  {
-    "id": "115048",
-    "type": "顯著有感",
-    "report_content": "07/02-07:06花蓮縣豐濱鄉發生規模4.0有感地震，最大震度花蓮縣東富4級。",
-    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026070207060640048_H.png",
-    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026048",
-    "origin_time": "2026-07-02T07:06:06+08:00",
-    "depth": 5.0,
-    "magnitude": 4.0,
-    "epicenter": {
-      "location": "花蓮縣政府南南西方  41.0  公里 (位於花蓮縣豐濱鄉)",
-      "latitude": 23.64,
-      "longitude": 121.48
-    },
-    "shaking_areas": [
-      {
-        "area_name": "花蓮縣",
-        "intensity": "4級",
-        "area_desc": "花蓮縣地區"
-      },
-      {
-        "area_name": "花蓮縣",
-        "intensity": "4級",
-        "area_desc": "最大震度4級地區"
       }
     ],
     "max_intensity": "4級"
