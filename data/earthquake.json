@@ -1,5 +1,38 @@
 [
   {
+    "id": "S20260924015512",
+    "type": "小區域",
+    "report_content": "09/24-01:55花蓮縣秀林鄉發生規模3.3有感地震，最大震度花蓮縣銅門、南投縣奧萬大2級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202609/2026092401551233_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026092401551233",
+    "origin_time": "2026-09-24T01:55:12+08:00",
+    "depth": 18.6,
+    "magnitude": 3.3,
+    "epicenter": {
+      "location": "花蓮縣政府西南西方  17.5  公里 (位於花蓮縣秀林鄉)",
+      "latitude": 23.93,
+      "longitude": 121.46
+    },
+    "shaking_areas": [
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "2級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "花蓮縣、南投縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      }
+    ],
+    "max_intensity": "2級"
+  },
+  {
     "id": "S20260923152035",
     "type": "小區域",
     "report_content": "09/23-15:20花蓮縣近海發生規模3.3有感地震，最大震度花蓮縣太魯閣2級。",
@@ -1151,34 +1184,6 @@
       }
     ],
     "max_intensity": "3級"
-  },
-  {
-    "id": "S20260828102056",
-    "type": "小區域",
-    "report_content": "08/28-10:20臺灣西南部海域發生規模4.4有感地震，最大震度屏東縣滿州2級。",
-    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202608/2026082810205644_H.png",
-    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026082810205644",
-    "origin_time": "2026-08-28T10:20:56+08:00",
-    "depth": 50.7,
-    "magnitude": 4.4,
-    "epicenter": {
-      "location": "高雄市政府南方  66.3  公里 (位於臺灣西南部海域)",
-      "latitude": 22.03,
-      "longitude": 120.38
-    },
-    "shaking_areas": [
-      {
-        "area_name": "屏東縣",
-        "intensity": "2級",
-        "area_desc": "屏東縣地區"
-      },
-      {
-        "area_name": "屏東縣",
-        "intensity": "2級",
-        "area_desc": "最大震度2級地區"
-      }
-    ],
-    "max_intensity": "2級"
   },
   {
     "id": "115058",
