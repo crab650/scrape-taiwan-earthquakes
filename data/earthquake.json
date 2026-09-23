@@ -1,5 +1,63 @@
 [
   {
+    "id": "S20260924055705",
+    "type": "小區域",
+    "report_content": "09/24-05:57嘉義市東區發生規模3.4有感地震，最大震度嘉義市3級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202609/2026092405570534_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026092405570534",
+    "origin_time": "2026-09-24T05:57:05+08:00",
+    "depth": 7.3,
+    "magnitude": 3.4,
+    "epicenter": {
+      "location": "嘉義市政府北方  2.1  公里 (位於嘉義市東區)",
+      "latitude": 23.5,
+      "longitude": 120.46
+    },
+    "shaking_areas": [
+      {
+        "area_name": "嘉義市",
+        "intensity": "3級",
+        "area_desc": "嘉義市地區"
+      },
+      {
+        "area_name": "嘉義市",
+        "intensity": "3級",
+        "area_desc": "最大震度3級地區"
+      },
+      {
+        "area_name": "嘉義縣",
+        "intensity": "2級",
+        "area_desc": "嘉義縣地區"
+      },
+      {
+        "area_name": "雲林縣",
+        "intensity": "2級",
+        "area_desc": "雲林縣地區"
+      },
+      {
+        "area_name": "嘉義縣、雲林縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "臺南市",
+        "intensity": "1級",
+        "area_desc": "臺南市地區"
+      },
+      {
+        "area_name": "彰化縣",
+        "intensity": "1級",
+        "area_desc": "彰化縣地區"
+      },
+      {
+        "area_name": "臺南市、彰化縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "3級"
+  },
+  {
     "id": "S20260924015512",
     "type": "小區域",
     "report_content": "09/24-01:55花蓮縣秀林鄉發生規模3.3有感地震，最大震度花蓮縣銅門、南投縣奧萬大2級。",
@@ -1131,54 +1189,6 @@
       },
       {
         "area_name": "高雄市、雲林縣",
-        "intensity": "1級",
-        "area_desc": "最大震度1級地區"
-      }
-    ],
-    "max_intensity": "3級"
-  },
-  {
-    "id": "S20260828181157",
-    "type": "小區域",
-    "report_content": "08/28-18:11臺灣東南部海域發生規模3.8有感地震，最大震度臺東縣成功3級。",
-    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202608/2026082818115738_H.png",
-    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026082818115738",
-    "origin_time": "2026-08-28T18:11:57+08:00",
-    "depth": 22.3,
-    "magnitude": 3.8,
-    "epicenter": {
-      "location": "臺東縣政府東北東方  43.4  公里 (位於臺灣東南部海域)",
-      "latitude": 22.97,
-      "longitude": 121.5
-    },
-    "shaking_areas": [
-      {
-        "area_name": "臺東縣",
-        "intensity": "3級",
-        "area_desc": "臺東縣地區"
-      },
-      {
-        "area_name": "臺東縣",
-        "intensity": "3級",
-        "area_desc": "最大震度3級地區"
-      },
-      {
-        "area_name": "花蓮縣",
-        "intensity": "2級",
-        "area_desc": "花蓮縣地區"
-      },
-      {
-        "area_name": "花蓮縣",
-        "intensity": "2級",
-        "area_desc": "最大震度2級地區"
-      },
-      {
-        "area_name": "高雄市",
-        "intensity": "1級",
-        "area_desc": "高雄市地區"
-      },
-      {
-        "area_name": "高雄市",
         "intensity": "1級",
         "area_desc": "最大震度1級地區"
       }

@@ -1,7 +1,18 @@
 {
   "county": "彰化縣",
-  "updated_at": "2026-09-24 05:35:17",
+  "updated_at": "2026-09-24 06:35:13",
   "earthquakes": [
+    {
+      "id": "S20260924055705",
+      "type": "小區域",
+      "origin_time": "2026-09-24T05:57:05+08:00",
+      "magnitude": 3.4,
+      "depth": 7.3,
+      "epicenter": "嘉義市政府北方  2.1  公里 (位於嘉義市東區)",
+      "local_intensity": "1級",
+      "max_intensity": "3級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202609/2026092405570534_H.png"
+    },
     {
       "id": "115064",
       "type": "顯著有感",
