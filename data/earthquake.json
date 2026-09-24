@@ -1,5 +1,38 @@
 [
   {
+    "id": "S20260925010123",
+    "type": "小區域",
+    "report_content": "09/25-01:01新竹市香山區發生規模2.6有感地震，最大震度苗栗縣竹南、新竹縣竹東1級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202609/2026092501012326_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026092501012326",
+    "origin_time": "2026-09-25T01:01:23+08:00",
+    "depth": 5.7,
+    "magnitude": 2.6,
+    "epicenter": {
+      "location": "新竹市政府南南西方  7.6  公里 (位於新竹市香山區)",
+      "latitude": 24.75,
+      "longitude": 120.94
+    },
+    "shaking_areas": [
+      {
+        "area_name": "苗栗縣",
+        "intensity": "1級",
+        "area_desc": "苗栗縣地區"
+      },
+      {
+        "area_name": "新竹縣",
+        "intensity": "1級",
+        "area_desc": "新竹縣地區"
+      },
+      {
+        "area_name": "苗栗縣、新竹縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "1級"
+  },
+  {
     "id": "S20260924055705",
     "type": "小區域",
     "report_content": "09/24-05:57嘉義市東區發生規模3.4有感地震，最大震度嘉義市3級。",
@@ -1136,59 +1169,6 @@
       },
       {
         "area_name": "花蓮縣、高雄市",
-        "intensity": "1級",
-        "area_desc": "最大震度1級地區"
-      }
-    ],
-    "max_intensity": "3級"
-  },
-  {
-    "id": "S20260830194845",
-    "type": "小區域",
-    "report_content": "08/30-19:48臺南市南化區發生規模3.4有感地震，最大震度臺南市楠西3級。",
-    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202608/2026083019484534_H.png",
-    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026083019484534",
-    "origin_time": "2026-08-30T19:48:45+08:00",
-    "depth": 12.7,
-    "magnitude": 3.4,
-    "epicenter": {
-      "location": "臺南市政府東北東方  43.4  公里 (位於臺南市南化區)",
-      "latitude": 23.14,
-      "longitude": 120.58
-    },
-    "shaking_areas": [
-      {
-        "area_name": "臺南市",
-        "intensity": "3級",
-        "area_desc": "臺南市地區"
-      },
-      {
-        "area_name": "臺南市",
-        "intensity": "3級",
-        "area_desc": "最大震度3級地區"
-      },
-      {
-        "area_name": "嘉義縣",
-        "intensity": "2級",
-        "area_desc": "嘉義縣地區"
-      },
-      {
-        "area_name": "嘉義縣",
-        "intensity": "2級",
-        "area_desc": "最大震度2級地區"
-      },
-      {
-        "area_name": "高雄市",
-        "intensity": "1級",
-        "area_desc": "高雄市地區"
-      },
-      {
-        "area_name": "雲林縣",
-        "intensity": "1級",
-        "area_desc": "雲林縣地區"
-      },
-      {
-        "area_name": "高雄市、雲林縣",
         "intensity": "1級",
         "area_desc": "最大震度1級地區"
       }
