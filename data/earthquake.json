@@ -1,5 +1,58 @@
 [
   {
+    "id": "S20260926115906",
+    "type": "小區域",
+    "report_content": "09/26-11:59苗栗縣大湖鄉發生規模3.7有感地震，最大震度苗栗縣竹南2級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202609/2026092611590637_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026092611590637",
+    "origin_time": "2026-09-26T11:59:06+08:00",
+    "depth": 24.3,
+    "magnitude": 3.7,
+    "epicenter": {
+      "location": "苗栗縣政府南方  24.7  公里 (位於苗栗縣大湖鄉)",
+      "latitude": 24.34,
+      "longitude": 120.79
+    },
+    "shaking_areas": [
+      {
+        "area_name": "苗栗縣",
+        "intensity": "2級",
+        "area_desc": "苗栗縣地區"
+      },
+      {
+        "area_name": "苗栗縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "臺中市",
+        "intensity": "1級",
+        "area_desc": "臺中市地區"
+      },
+      {
+        "area_name": "新竹縣",
+        "intensity": "1級",
+        "area_desc": "新竹縣地區"
+      },
+      {
+        "area_name": "彰化縣",
+        "intensity": "1級",
+        "area_desc": "彰化縣地區"
+      },
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "1級",
+        "area_desc": "宜蘭縣地區"
+      },
+      {
+        "area_name": "臺中市、新竹縣、彰化縣、宜蘭縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "2級"
+  },
+  {
     "id": "S20260925010123",
     "type": "小區域",
     "report_content": "09/25-01:01新竹市香山區發生規模2.6有感地震，最大震度苗栗縣竹南、新竹縣竹東1級。",
@@ -1101,49 +1154,6 @@
     "epicenter": {
       "location": "臺東縣政府東南東方  14.4  公里 (位於臺灣東南部海域)",
       "latitude": 22.71,
-      "longitude": 121.28
-    },
-    "shaking_areas": [
-      {
-        "area_name": "臺東縣",
-        "intensity": "3級",
-        "area_desc": "臺東縣地區"
-      },
-      {
-        "area_name": "臺東縣",
-        "intensity": "3級",
-        "area_desc": "最大震度3級地區"
-      },
-      {
-        "area_name": "花蓮縣",
-        "intensity": "1級",
-        "area_desc": "花蓮縣地區"
-      },
-      {
-        "area_name": "高雄市",
-        "intensity": "1級",
-        "area_desc": "高雄市地區"
-      },
-      {
-        "area_name": "花蓮縣、高雄市",
-        "intensity": "1級",
-        "area_desc": "最大震度1級地區"
-      }
-    ],
-    "max_intensity": "3級"
-  },
-  {
-    "id": "S20260903164522",
-    "type": "小區域",
-    "report_content": "09/03-16:45臺灣東南部海域發生規模4.4有感地震，最大震度臺東縣東河3級。",
-    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202609/2026090316452244_H.png",
-    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026090316452244",
-    "origin_time": "2026-09-03T16:45:22+08:00",
-    "depth": 20.0,
-    "magnitude": 4.4,
-    "epicenter": {
-      "location": "臺東縣政府東南東方  13.9  公里 (位於臺灣東南部海域)",
-      "latitude": 22.72,
       "longitude": 121.28
     },
     "shaking_areas": [
