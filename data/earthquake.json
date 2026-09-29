@@ -1,5 +1,53 @@
 [
   {
+    "id": "S20260929165938",
+    "type": "小區域",
+    "report_content": "09/29-16:59花蓮縣卓溪鄉發生規模3.5有感地震，最大震度花蓮縣萬榮2級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202609/2026092916593835_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026092916593835",
+    "origin_time": "2026-09-29T16:59:38+08:00",
+    "depth": 12.3,
+    "magnitude": 3.5,
+    "epicenter": {
+      "location": "花蓮縣政府南南西方  69.6  公里 (位於花蓮縣卓溪鄉)",
+      "latitude": 23.44,
+      "longitude": 121.29
+    },
+    "shaking_areas": [
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "臺東縣",
+        "intensity": "1級",
+        "area_desc": "臺東縣地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "1級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "高雄市",
+        "intensity": "1級",
+        "area_desc": "高雄市地區"
+      },
+      {
+        "area_name": "臺東縣、南投縣、高雄市",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "2級"
+  },
+  {
     "id": "115066",
     "type": "顯著有感",
     "report_content": "09/29-02:20臺灣東部海域發生規模5.0有感地震，最大震度花蓮縣水璉、花蓮縣花蓮市3級。",
@@ -1136,74 +1184,6 @@
       },
       {
         "area_name": "臺北市、桃園市、南投縣、臺中市、新竹縣、臺東縣、彰化縣、雲林縣、嘉義縣",
-        "intensity": "1級",
-        "area_desc": "最大震度1級地區"
-      }
-    ],
-    "max_intensity": "2級"
-  },
-  {
-    "id": "S20260907155537",
-    "type": "小區域",
-    "report_content": "09/07-15:55宜蘭縣大同鄉發生規模4.2有感地震，最大震度宜蘭縣牛鬥、桃園市三光、花蓮縣西寶、臺中市德基、南投縣合歡山2級。",
-    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202609/2026090715553742_H.png",
-    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026090715553742",
-    "origin_time": "2026-09-07T15:55:37+08:00",
-    "depth": 55.9,
-    "magnitude": 4.2,
-    "epicenter": {
-      "location": "宜蘭縣政府西南方  18.6  公里 (位於宜蘭縣大同鄉)",
-      "latitude": 24.6,
-      "longitude": 121.65
-    },
-    "shaking_areas": [
-      {
-        "area_name": "宜蘭縣",
-        "intensity": "2級",
-        "area_desc": "宜蘭縣地區"
-      },
-      {
-        "area_name": "桃園市",
-        "intensity": "2級",
-        "area_desc": "桃園市地區"
-      },
-      {
-        "area_name": "花蓮縣",
-        "intensity": "2級",
-        "area_desc": "花蓮縣地區"
-      },
-      {
-        "area_name": "臺中市",
-        "intensity": "2級",
-        "area_desc": "臺中市地區"
-      },
-      {
-        "area_name": "南投縣",
-        "intensity": "2級",
-        "area_desc": "南投縣地區"
-      },
-      {
-        "area_name": "宜蘭縣、桃園市、花蓮縣、臺中市、南投縣",
-        "intensity": "2級",
-        "area_desc": "最大震度2級地區"
-      },
-      {
-        "area_name": "新北市",
-        "intensity": "1級",
-        "area_desc": "新北市地區"
-      },
-      {
-        "area_name": "新竹縣",
-        "intensity": "1級",
-        "area_desc": "新竹縣地區"
-      },
-      {
-        "area_name": "苗栗縣",
-        "intensity": "1級",
-        "area_desc": "苗栗縣地區"
-      },
-      {
-        "area_name": "新北市、新竹縣、苗栗縣",
         "intensity": "1級",
         "area_desc": "最大震度1級地區"
       }

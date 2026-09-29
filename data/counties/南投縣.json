@@ -1,7 +1,18 @@
 {
   "county": "南投縣",
-  "updated_at": "2026-09-29 16:35:16",
+  "updated_at": "2026-09-29 17:35:15",
   "earthquakes": [
+    {
+      "id": "S20260929165938",
+      "type": "小區域",
+      "origin_time": "2026-09-29T16:59:38+08:00",
+      "magnitude": 3.5,
+      "depth": 12.3,
+      "epicenter": "花蓮縣政府南南西方  69.6  公里 (位於花蓮縣卓溪鄉)",
+      "local_intensity": "1級",
+      "max_intensity": "2級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202609/2026092916593835_H.png"
+    },
     {
       "id": "115066",
       "type": "顯著有感",
@@ -540,17 +551,6 @@
       "local_intensity": "3級",
       "max_intensity": "4級",
       "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026051214533256043_H.png"
-    },
-    {
-      "id": "115042",
-      "type": "顯著有感",
-      "origin_time": "2026-05-11T00:59:24+08:00",
-      "magnitude": 4.2,
-      "depth": 19.3,
-      "epicenter": "花蓮縣政府西南方  36.2  公里 (位於花蓮縣萬榮鄉)",
-      "local_intensity": "2級",
-      "max_intensity": "4級",
-      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026051100592442042_H.png"
     }
   ]
 }
