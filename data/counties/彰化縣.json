@@ -1,7 +1,18 @@
 {
   "county": "彰化縣",
-  "updated_at": "2026-10-06 16:35:15",
+  "updated_at": "2026-10-06 17:35:20",
   "earthquakes": [
+    {
+      "id": "115068",
+      "type": "顯著有感",
+      "origin_time": "2026-10-06T16:41:08+08:00",
+      "magnitude": 4.5,
+      "depth": 34.1,
+      "epicenter": "高雄市政府南南西方  42.4  公里 (位於臺灣西南部海域)",
+      "local_intensity": "1級",
+      "max_intensity": "3級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202610/2026100616410845068_H.png"
+    },
     {
       "id": "115067",
       "type": "顯著有感",
