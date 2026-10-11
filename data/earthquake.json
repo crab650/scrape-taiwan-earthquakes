@@ -1,5 +1,58 @@
 [
   {
+    "id": "S20261012053004",
+    "type": "小區域",
+    "report_content": "10/12-05:30花蓮縣近海發生規模3.7有感地震，最大震度花蓮縣東富、彰化縣彰化市2級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202610/2026101205300437_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026101205300437",
+    "origin_time": "2026-10-12T05:30:04+08:00",
+    "depth": 31.6,
+    "magnitude": 3.7,
+    "epicenter": {
+      "location": "花蓮縣政府南方  50.4  公里 (位於花蓮縣近海)",
+      "latitude": 23.54,
+      "longitude": 121.55
+    },
+    "shaking_areas": [
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "彰化縣",
+        "intensity": "2級",
+        "area_desc": "彰化縣地區"
+      },
+      {
+        "area_name": "花蓮縣、彰化縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "臺東縣",
+        "intensity": "1級",
+        "area_desc": "臺東縣地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "1級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "臺中市",
+        "intensity": "1級",
+        "area_desc": "臺中市地區"
+      },
+      {
+        "area_name": "臺東縣、南投縣、臺中市",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "2級"
+  },
+  {
     "id": "115068",
     "type": "顯著有感",
     "report_content": "10/06-16:41臺灣西南部海域發生規模4.5有感地震，最大震度高雄市3級。",
@@ -1287,34 +1340,6 @@
       },
       {
         "area_name": "花蓮縣、南投縣、宜蘭縣",
-        "intensity": "1級",
-        "area_desc": "最大震度1級地區"
-      }
-    ],
-    "max_intensity": "1級"
-  },
-  {
-    "id": "S20260909192104",
-    "type": "小區域",
-    "report_content": "09/09-19:21苗栗縣西湖鄉發生規模2.5有感地震，最大震度苗栗縣後龍1級。",
-    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202609/2026090919210425_H.png",
-    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026090919210425",
-    "origin_time": "2026-09-09T19:21:04+08:00",
-    "depth": 8.7,
-    "magnitude": 2.5,
-    "epicenter": {
-      "location": "苗栗縣政府西南西方  6.5  公里 (位於苗栗縣西湖鄉)",
-      "latitude": 24.53,
-      "longitude": 120.77
-    },
-    "shaking_areas": [
-      {
-        "area_name": "苗栗縣",
-        "intensity": "1級",
-        "area_desc": "苗栗縣地區"
-      },
-      {
-        "area_name": "苗栗縣",
         "intensity": "1級",
         "area_desc": "最大震度1級地區"
       }

@@ -26,23 +26,24 @@ The tracker is designed for automated data version control using **GitHub and Py
 
 <!-- EARTHQUAKE_START -->
 
-**⏰ Last Updated (Taipei Time)**: `2026-10-12 04:35:14`
+**⏰ Last Updated (Taipei Time)**: `2026-10-12 05:35:14`
 
 ### 🚨 Latest Earthquake Report
-- **Report ID**: 115068
-- **Origin Time**: `2026-10-06T16:41:08+08:00`
-- **Magnitude**: `4.5`
-- **Focal Depth**: `34.1 km`
-- **Epicenter**: 高雄市政府南南西方  42.4  公里 (位於臺灣西南部海域)
-- **Max Intensity**: **3級**
-- **Report Content**: 10/06-16:41臺灣西南部海域發生規模4.5有感地震，最大震度高雄市3級。
+- **Report ID**: S20261012053004
+- **Origin Time**: `2026-10-12T05:30:04+08:00`
+- **Magnitude**: `3.7`
+- **Focal Depth**: `31.6 km`
+- **Epicenter**: 花蓮縣政府南方  50.4  公里 (位於花蓮縣近海)
+- **Max Intensity**: **2級**
+- **Report Content**: 10/12-05:30花蓮縣近海發生規模3.7有感地震，最大震度花蓮縣東富、彰化縣彰化市2級。
 
-![Earthquake Report Map](https://scweb.cwa.gov.tw/webdata/OLDEQ/202610/2026100616410845068_H.png)
+![Earthquake Report Map](https://scweb.cwa.gov.tw/webdata/OLDEQ/202610/2026101205300437_H.png)
 
 
 ### 🗺️ Recent 10 Earthquake Records
 | Report ID | Origin Time | Epicenter Location | Mag | Depth (km) | Max Intensity | Type |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| S20261012053004 | 2026-10-12T05:30:04+08:00 | 花蓮縣政府南方  50.4  公里 | 3.7 | 31.6 | **2級** | Local |
 | 115068 | 2026-10-06T16:41:08+08:00 | 高雄市政府南南西方  42.4  公里 | 4.5 | 34.1 | **3級** | Significant |
 | S20261005052610 | 2026-10-05T05:26:10+08:00 | 花蓮縣政府東北東方  .8  公里 | 3.5 | 24.7 | **2級** | Local |
 | 115067 | 2026-09-30T13:00:24+08:00 | 花蓮縣政府東方  136.0  公里 | 5.9 | 13.3 | **2級** | Significant |
@@ -52,7 +53,6 @@ The tracker is designed for automated data version control using **GitHub and Py
 | S20260927141627 | 2026-09-27T14:16:27+08:00 | 宜蘭縣政府南南東方  41.4  公里 | 3.5 | 11.8 | **3級** | Local |
 | S20260926115906 | 2026-09-26T11:59:06+08:00 | 苗栗縣政府南方  24.7  公里 | 3.7 | 24.3 | **2級** | Local |
 | S20260925010123 | 2026-09-25T01:01:23+08:00 | 新竹市政府南南西方  7.6  公里 | 2.6 | 5.7 | **1級** | Local |
-| S20260924055705 | 2026-09-24T05:57:05+08:00 | 嘉義市政府北方  2.1  公里 | 3.4 | 7.3 | **3級** | Local |
 
 <!-- EARTHQUAKE_END -->
 
@@ -65,19 +65,19 @@ The tracker is designed for automated data version control using **GitHub and Py
 ### 📈 Yearly General Statistics
 | Year | Significant | Local Area | Total |
 | :--- | :--- | :--- | :--- |
-| 2026 | 36 | 68 | 104 |
+| 2026 | 36 | 69 | 105 |
 
 ### 🏢 Yearly Felt Earthquakes by County (Intensity >= 1)
 | Year | County | Significant | Local Area | Total Felt |
 | :--- | :--- | :--- | :--- | :--- |
-| 2026 | 花蓮縣 | 33 | 43 | 76 |
-| 2026 | 南投縣 | 32 | 30 | 62 |
+| 2026 | 花蓮縣 | 33 | 44 | 77 |
+| 2026 | 南投縣 | 32 | 31 | 63 |
 | 2026 | 宜蘭縣 | 21 | 27 | 48 |
-| 2026 | 臺中市 | 29 | 17 | 46 |
-| 2026 | 彰化縣 | 32 | 14 | 46 |
+| 2026 | 臺中市 | 29 | 18 | 47 |
+| 2026 | 彰化縣 | 32 | 15 | 47 |
 | 2026 | 雲林縣 | 29 | 14 | 43 |
+| 2026 | 臺東縣 | 24 | 17 | 41 |
 | 2026 | 嘉義縣 | 26 | 15 | 41 |
-| 2026 | 臺東縣 | 24 | 16 | 40 |
 | 2026 | 臺南市 | 21 | 10 | 31 |
 | 2026 | 新北市 | 15 | 12 | 27 |
 | 2026 | 新竹縣 | 17 | 9 | 26 |
