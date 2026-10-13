@@ -1,5 +1,93 @@
 [
   {
+    "id": "115069",
+    "type": "顯著有感",
+    "report_content": "10/13-17:30花蓮縣豐濱鄉發生規模4.3有感地震，最大震度花蓮縣萬榮3級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202610/2026101317301043069_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026069",
+    "origin_time": "2026-10-13T17:30:10+08:00",
+    "depth": 33.8,
+    "magnitude": 4.3,
+    "epicenter": {
+      "location": "花蓮縣政府南南西方  50.8  公里 (位於花蓮縣豐濱鄉)",
+      "latitude": 23.56,
+      "longitude": 121.45
+    },
+    "shaking_areas": [
+      {
+        "area_name": "花蓮縣",
+        "intensity": "3級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "3級",
+        "area_desc": "最大震度3級地區"
+      },
+      {
+        "area_name": "南投縣",
+        "intensity": "2級",
+        "area_desc": "南投縣地區"
+      },
+      {
+        "area_name": "臺東縣",
+        "intensity": "2級",
+        "area_desc": "臺東縣地區"
+      },
+      {
+        "area_name": "南投縣、臺東縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "臺中市",
+        "intensity": "1級",
+        "area_desc": "臺中市地區"
+      },
+      {
+        "area_name": "雲林縣",
+        "intensity": "1級",
+        "area_desc": "雲林縣地區"
+      },
+      {
+        "area_name": "高雄市",
+        "intensity": "1級",
+        "area_desc": "高雄市地區"
+      },
+      {
+        "area_name": "嘉義縣",
+        "intensity": "1級",
+        "area_desc": "嘉義縣地區"
+      },
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "1級",
+        "area_desc": "宜蘭縣地區"
+      },
+      {
+        "area_name": "嘉義市",
+        "intensity": "1級",
+        "area_desc": "嘉義市地區"
+      },
+      {
+        "area_name": "彰化縣",
+        "intensity": "1級",
+        "area_desc": "彰化縣地區"
+      },
+      {
+        "area_name": "苗栗縣",
+        "intensity": "1級",
+        "area_desc": "苗栗縣地區"
+      },
+      {
+        "area_name": "臺中市、雲林縣、高雄市、嘉義縣、宜蘭縣、嘉義市、彰化縣、苗栗縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "3級"
+  },
+  {
     "id": "S20261012171645",
     "type": "小區域",
     "report_content": "10/12-17:16臺灣東部海域發生規模4.4有感地震，最大震度宜蘭縣南澳2級。",
@@ -2011,98 +2099,5 @@
       }
     ],
     "max_intensity": "3級"
-  },
-  {
-    "id": "115053",
-    "type": "顯著有感",
-    "report_content": "07/31-00:58臺東縣成功鎮發生規模4.7有感地震，最大震度臺東縣池上4級。",
-    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026073100583647053_H.png",
-    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026053",
-    "origin_time": "2026-07-31T00:58:36+08:00",
-    "depth": 20.2,
-    "magnitude": 4.7,
-    "epicenter": {
-      "location": "臺東縣政府北北東方  44.1  公里 (位於臺東縣成功鎮)",
-      "latitude": 23.1,
-      "longitude": 121.36
-    },
-    "shaking_areas": [
-      {
-        "area_name": "臺東縣",
-        "intensity": "4級",
-        "area_desc": "臺東縣地區"
-      },
-      {
-        "area_name": "臺東縣",
-        "intensity": "4級",
-        "area_desc": "最大震度4級地區"
-      },
-      {
-        "area_name": "花蓮縣",
-        "intensity": "3級",
-        "area_desc": "花蓮縣地區"
-      },
-      {
-        "area_name": "花蓮縣",
-        "intensity": "3級",
-        "area_desc": "最大震度3級地區"
-      },
-      {
-        "area_name": "高雄市",
-        "intensity": "2級",
-        "area_desc": "高雄市地區"
-      },
-      {
-        "area_name": "雲林縣",
-        "intensity": "2級",
-        "area_desc": "雲林縣地區"
-      },
-      {
-        "area_name": "高雄市、雲林縣",
-        "intensity": "2級",
-        "area_desc": "最大震度2級地區"
-      },
-      {
-        "area_name": "南投縣",
-        "intensity": "1級",
-        "area_desc": "南投縣地區"
-      },
-      {
-        "area_name": "嘉義縣",
-        "intensity": "1級",
-        "area_desc": "嘉義縣地區"
-      },
-      {
-        "area_name": "臺南市",
-        "intensity": "1級",
-        "area_desc": "臺南市地區"
-      },
-      {
-        "area_name": "嘉義市",
-        "intensity": "1級",
-        "area_desc": "嘉義市地區"
-      },
-      {
-        "area_name": "屏東縣",
-        "intensity": "1級",
-        "area_desc": "屏東縣地區"
-      },
-      {
-        "area_name": "臺中市",
-        "intensity": "1級",
-        "area_desc": "臺中市地區"
-      },
-      {
-        "area_name": "彰化縣",
-        "intensity": "1級",
-        "area_desc": "彰化縣地區"
-      },
-      {
-        "area_name": "南投縣、嘉義縣、臺南市、嘉義市、屏東縣、臺中市、彰化縣",
-        "intensity": "1級",
-        "area_desc": "最大震度1級地區"
-      }
-    ],
-    "max_intensity": "4級"
   }
 ]

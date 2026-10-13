@@ -1,7 +1,18 @@
 {
   "county": "花蓮縣",
-  "updated_at": "2026-10-13 16:35:15",
+  "updated_at": "2026-10-13 17:35:15",
   "earthquakes": [
+    {
+      "id": "115069",
+      "type": "顯著有感",
+      "origin_time": "2026-10-13T17:30:10+08:00",
+      "magnitude": 4.3,
+      "depth": 33.8,
+      "epicenter": "花蓮縣政府南南西方  50.8  公里 (位於花蓮縣豐濱鄉)",
+      "local_intensity": "3級",
+      "max_intensity": "3級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202610/2026101317301043069_H.png"
+    },
     {
       "id": "S20261012171645",
       "type": "小區域",
@@ -540,17 +551,6 @@
       "local_intensity": "4級",
       "max_intensity": "4級",
       "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026070823472143049_H.png"
-    },
-    {
-      "id": "S20260707124711",
-      "type": "小區域",
-      "origin_time": "2026-07-07T12:47:11+08:00",
-      "magnitude": 3.8,
-      "depth": 12.4,
-      "epicenter": "宜蘭縣政府南方  38.3  公里 (位於宜蘭縣近海)",
-      "local_intensity": "3級",
-      "max_intensity": "3級",
-      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202607/2026070712471138_H.png"
     }
   ]
 }

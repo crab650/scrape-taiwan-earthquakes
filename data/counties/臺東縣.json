@@ -1,7 +1,18 @@
 {
   "county": "臺東縣",
-  "updated_at": "2026-10-13 16:35:15",
+  "updated_at": "2026-10-13 17:35:15",
   "earthquakes": [
+    {
+      "id": "115069",
+      "type": "顯著有感",
+      "origin_time": "2026-10-13T17:30:10+08:00",
+      "magnitude": 4.3,
+      "depth": 33.8,
+      "epicenter": "花蓮縣政府南南西方  50.8  公里 (位於花蓮縣豐濱鄉)",
+      "local_intensity": "2級",
+      "max_intensity": "3級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202610/2026101317301043069_H.png"
+    },
     {
       "id": "S20261012053004",
       "type": "小區域",
