@@ -1,7 +1,18 @@
 {
   "county": "屏東縣",
-  "updated_at": "2026-10-21 14:35:13",
+  "updated_at": "2026-10-21 15:35:13",
   "earthquakes": [
+    {
+      "id": "S20261021145120",
+      "type": "小區域",
+      "origin_time": "2026-10-21T14:51:20+08:00",
+      "magnitude": 3.9,
+      "depth": 8.2,
+      "epicenter": "臺東縣政府西南方  12.7  公里 (位於臺東縣近海)",
+      "local_intensity": "1級",
+      "max_intensity": "2級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202610/2026102114512039_H.png"
+    },
     {
       "id": "115068",
       "type": "顯著有感",
