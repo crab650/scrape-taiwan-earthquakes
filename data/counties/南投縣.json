@@ -1,7 +1,18 @@
 {
   "county": "南投縣",
-  "updated_at": "2026-10-24 08:35:18",
+  "updated_at": "2026-10-24 09:35:18",
   "earthquakes": [
+    {
+      "id": "115072",
+      "type": "顯著有感",
+      "origin_time": "2026-10-24T09:25:57+08:00",
+      "magnitude": 4.0,
+      "depth": 5.0,
+      "epicenter": "高雄市政府東北方  75.7  公里 (位於高雄市桃源區)",
+      "local_intensity": "1級",
+      "max_intensity": "4級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202610/2026102409255740072_H.png"
+    },
     {
       "id": "115071",
       "type": "顯著有感",
@@ -540,17 +551,6 @@
       "local_intensity": "1級",
       "max_intensity": "2級",
       "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202606/2026062909205736_H.png"
-    },
-    {
-      "id": "S20260618062803",
-      "type": "小區域",
-      "origin_time": "2026-06-18T06:28:03+08:00",
-      "magnitude": 3.1,
-      "depth": 7.4,
-      "epicenter": "南投縣政府東南東方  14.7  公里 (位於南投縣中寮鄉)",
-      "local_intensity": "1級",
-      "max_intensity": "1級",
-      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202606/2026061806280331_H.png"
     }
   ]
 }
