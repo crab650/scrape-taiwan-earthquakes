@@ -1,5 +1,43 @@
 [
   {
+    "id": "S20261028105944",
+    "type": "小區域",
+    "report_content": "10/28-10:59花蓮縣近海發生規模3.7有感地震，最大震度花蓮縣鹽寮2級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202610/2026102810594437_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026102810594437",
+    "origin_time": "2026-10-28T10:59:44+08:00",
+    "depth": 24.1,
+    "magnitude": 3.7,
+    "epicenter": {
+      "location": "花蓮縣政府東方  10.2  公里 (位於花蓮縣近海)",
+      "latitude": 24.0,
+      "longitude": 121.72
+    },
+    "shaking_areas": [
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "1級",
+        "area_desc": "宜蘭縣地區"
+      },
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "2級"
+  },
+  {
     "id": "S20261027090317",
     "type": "小區域",
     "report_content": "10/27-09:03花蓮縣卓溪鄉發生規模3.6有感地震，最大震度花蓮縣萬榮、南投縣玉山、臺東縣利稻1級。",
@@ -1334,44 +1372,6 @@
         "area_name": "花蓮縣、南投縣",
         "intensity": "2級",
         "area_desc": "最大震度2級地區"
-      }
-    ],
-    "max_intensity": "2級"
-  },
-  {
-    "id": "S20260923152035",
-    "type": "小區域",
-    "report_content": "09/23-15:20花蓮縣近海發生規模3.3有感地震，最大震度花蓮縣太魯閣2級。",
-    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202609/2026092315203533_H.png",
-    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026092315203533",
-    "origin_time": "2026-09-23T15:20:35+08:00",
-    "depth": 7.2,
-    "magnitude": 3.3,
-    "epicenter": {
-      "location": "花蓮縣政府北北東方  14.6  公里 (位於花蓮縣近海)",
-      "latitude": 24.12,
-      "longitude": 121.66
-    },
-    "shaking_areas": [
-      {
-        "area_name": "花蓮縣",
-        "intensity": "2級",
-        "area_desc": "花蓮縣地區"
-      },
-      {
-        "area_name": "花蓮縣",
-        "intensity": "2級",
-        "area_desc": "最大震度2級地區"
-      },
-      {
-        "area_name": "南投縣",
-        "intensity": "1級",
-        "area_desc": "南投縣地區"
-      },
-      {
-        "area_name": "南投縣",
-        "intensity": "1級",
-        "area_desc": "最大震度1級地區"
       }
     ],
     "max_intensity": "2級"
