@@ -1,7 +1,18 @@
 {
   "county": "臺中市",
-  "updated_at": "2026-10-30 04:35:13",
+  "updated_at": "2026-10-30 05:35:14",
   "earthquakes": [
+    {
+      "id": "115074",
+      "type": "顯著有感",
+      "origin_time": "2026-10-30T04:37:43+08:00",
+      "magnitude": 4.4,
+      "depth": 22.7,
+      "epicenter": "花蓮縣政府東北方  29.6  公里 (位於臺灣東部海域)",
+      "local_intensity": "1級",
+      "max_intensity": "3級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202610/2026103004374344074_H.png"
+    },
     {
       "id": "S20261026080040",
       "type": "小區域",
@@ -540,17 +551,6 @@
       "local_intensity": "3級",
       "max_intensity": "4級",
       "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026050120395561037_H.png"
-    },
-    {
-      "id": "115036",
-      "type": "顯著有感",
-      "origin_time": "2026-04-25T15:16:34+08:00",
-      "magnitude": 4.8,
-      "depth": 69.0,
-      "epicenter": "宜蘭縣政府北北東方  15.1  公里 (位於宜蘭縣近海)",
-      "local_intensity": "1級",
-      "max_intensity": "3級",
-      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202604/2026042515163448036_H.png"
     }
   ]
 }

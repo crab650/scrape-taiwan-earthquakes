@@ -1,7 +1,18 @@
 {
   "county": "宜蘭縣",
-  "updated_at": "2026-10-30 04:35:13",
+  "updated_at": "2026-10-30 05:35:14",
   "earthquakes": [
+    {
+      "id": "115074",
+      "type": "顯著有感",
+      "origin_time": "2026-10-30T04:37:43+08:00",
+      "magnitude": 4.4,
+      "depth": 22.7,
+      "epicenter": "花蓮縣政府東北方  29.6  公里 (位於臺灣東部海域)",
+      "local_intensity": "3級",
+      "max_intensity": "3級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202610/2026103004374344074_H.png"
+    },
     {
       "id": "S20261028141923",
       "type": "小區域",
@@ -540,17 +551,6 @@
       "local_intensity": "2級",
       "max_intensity": "2級",
       "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026050903263949041_H.png"
-    },
-    {
-      "id": "115039",
-      "type": "顯著有感",
-      "origin_time": "2026-05-08T04:57:34+08:00",
-      "magnitude": 4.6,
-      "depth": 25.4,
-      "epicenter": "花蓮縣政府東北方  30.2  公里 (位於臺灣東部海域)",
-      "local_intensity": "3級",
-      "max_intensity": "4級",
-      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202605/2026050804573446039_H.png"
     }
   ]
 }
