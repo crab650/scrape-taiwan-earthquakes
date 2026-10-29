@@ -1,13 +1,13 @@
 {
   "2026": {
-    "Significant": 40,
+    "Significant": 41,
     "Local": 78,
-    "Total": 118,
+    "Total": 119,
     "Counties": {
       "雲林縣": {
-        "Significant": 32,
+        "Significant": 33,
         "Local": 14,
-        "Total": 46
+        "Total": 47
       },
       "彰化縣": {
         "Significant": 34,
@@ -50,9 +50,9 @@
         "Total": 53
       },
       "嘉義縣": {
-        "Significant": 29,
+        "Significant": 30,
         "Local": 15,
-        "Total": 44
+        "Total": 45
       },
       "臺東縣": {
         "Significant": 27,
@@ -80,19 +80,19 @@
         "Total": 18
       },
       "臺南市": {
-        "Significant": 22,
+        "Significant": 23,
         "Local": 10,
-        "Total": 32
+        "Total": 33
       },
       "嘉義市": {
-        "Significant": 22,
+        "Significant": 23,
         "Local": 6,
-        "Total": 28
+        "Total": 29
       },
       "高雄市": {
-        "Significant": 16,
+        "Significant": 17,
         "Local": 8,
-        "Total": 24
+        "Total": 25
       },
       "澎湖縣": {
         "Significant": 3,

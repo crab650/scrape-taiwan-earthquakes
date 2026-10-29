@@ -1,7 +1,18 @@
 {
   "county": "高雄市",
-  "updated_at": "2026-10-29 14:35:15",
+  "updated_at": "2026-10-29 15:35:15",
   "earthquakes": [
+    {
+      "id": "115073",
+      "type": "顯著有感",
+      "origin_time": "2026-10-29T14:38:47+08:00",
+      "magnitude": 4.0,
+      "depth": 5.0,
+      "epicenter": "高雄市政府東北方  76.7  公里 (位於高雄市桃源區)",
+      "local_intensity": "3級",
+      "max_intensity": "3級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202610/2026102914384740073_H.png"
+    },
     {
       "id": "115072",
       "type": "顯著有感",
