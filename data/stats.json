@@ -1,8 +1,8 @@
 {
   "2026": {
     "Significant": 43,
-    "Local": 79,
-    "Total": 122,
+    "Local": 80,
+    "Total": 123,
     "Counties": {
       "雲林縣": {
         "Significant": 34,
@@ -56,8 +56,8 @@
       },
       "臺東縣": {
         "Significant": 28,
-        "Local": 21,
-        "Total": 49
+        "Local": 22,
+        "Total": 50
       },
       "桃園市": {
         "Significant": 17,
@@ -66,8 +66,8 @@
       },
       "花蓮縣": {
         "Significant": 38,
-        "Local": 53,
-        "Total": 91
+        "Local": 54,
+        "Total": 92
       },
       "南投縣": {
         "Significant": 38,
