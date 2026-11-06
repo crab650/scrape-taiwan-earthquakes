@@ -1,7 +1,18 @@
 {
   "county": "嘉義縣",
-  "updated_at": "2026-11-06 08:35:24",
+  "updated_at": "2026-11-06 09:35:16",
   "earthquakes": [
+    {
+      "id": "115077",
+      "type": "顯著有感",
+      "origin_time": "2026-11-06T08:37:41+08:00",
+      "magnitude": 4.4,
+      "depth": 7.9,
+      "epicenter": "臺東縣政府西南方  12.9  公里 (位於臺東縣太麻里鄉)",
+      "local_intensity": "1級",
+      "max_intensity": "3級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202611/2026110608374144077_H.png"
+    },
     {
       "id": "115075",
       "type": "顯著有感",
