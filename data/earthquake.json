@@ -1,5 +1,43 @@
 [
   {
+    "id": "S20261108050710",
+    "type": "小區域",
+    "report_content": "11/08-05:07花蓮縣近海發生規模3.7有感地震，最大震度臺東縣長濱2級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202611/2026110805071037_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026110805071037",
+    "origin_time": "2026-11-08T05:07:10+08:00",
+    "depth": 30.6,
+    "magnitude": 3.7,
+    "epicenter": {
+      "location": "花蓮縣政府南方  48.3  公里 (位於花蓮縣近海)",
+      "latitude": 23.56,
+      "longitude": 121.55
+    },
+    "shaking_areas": [
+      {
+        "area_name": "臺東縣",
+        "intensity": "2級",
+        "area_desc": "臺東縣地區"
+      },
+      {
+        "area_name": "臺東縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "1級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "2級"
+  },
+  {
     "id": "115078",
     "type": "顯著有感",
     "report_content": "11/06-12:01花蓮縣花蓮市發生規模4.0有感地震，最大震度花蓮縣鹽寮3級。",
@@ -1589,54 +1627,6 @@
       },
       {
         "area_name": "臺東縣、南投縣、新北市、臺中市、桃園市、臺北市、新竹縣、苗栗縣、新竹市、嘉義市、臺南市、高雄市、屏東縣",
-        "intensity": "1級",
-        "area_desc": "最大震度1級地區"
-      }
-    ],
-    "max_intensity": "2級"
-  },
-  {
-    "id": "S20260929165938",
-    "type": "小區域",
-    "report_content": "09/29-16:59花蓮縣卓溪鄉發生規模3.5有感地震，最大震度花蓮縣萬榮2級。",
-    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202609/2026092916593835_H.png",
-    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026092916593835",
-    "origin_time": "2026-09-29T16:59:38+08:00",
-    "depth": 12.3,
-    "magnitude": 3.5,
-    "epicenter": {
-      "location": "花蓮縣政府南南西方  69.6  公里 (位於花蓮縣卓溪鄉)",
-      "latitude": 23.44,
-      "longitude": 121.29
-    },
-    "shaking_areas": [
-      {
-        "area_name": "花蓮縣",
-        "intensity": "2級",
-        "area_desc": "花蓮縣地區"
-      },
-      {
-        "area_name": "花蓮縣",
-        "intensity": "2級",
-        "area_desc": "最大震度2級地區"
-      },
-      {
-        "area_name": "臺東縣",
-        "intensity": "1級",
-        "area_desc": "臺東縣地區"
-      },
-      {
-        "area_name": "南投縣",
-        "intensity": "1級",
-        "area_desc": "南投縣地區"
-      },
-      {
-        "area_name": "高雄市",
-        "intensity": "1級",
-        "area_desc": "高雄市地區"
-      },
-      {
-        "area_name": "臺東縣、南投縣、高雄市",
         "intensity": "1級",
         "area_desc": "最大震度1級地區"
       }
