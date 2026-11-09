@@ -38,6 +38,34 @@
     "max_intensity": "2級"
   },
   {
+    "id": "S20261106235545",
+    "type": "小區域",
+    "report_content": "11/06-23:55高雄市近海發生規模2.7有感地震，最大震度臺南市1級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202611/2026110623554527_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026110623554527",
+    "origin_time": "2026-11-06T23:55:45+08:00",
+    "depth": 7.9,
+    "magnitude": 2.7,
+    "epicenter": {
+      "location": "高雄市政府西北方  37.2  公里 (位於高雄市近海)",
+      "latitude": 22.9,
+      "longitude": 120.12
+    },
+    "shaking_areas": [
+      {
+        "area_name": "臺南市",
+        "intensity": "1級",
+        "area_desc": "臺南市地區"
+      },
+      {
+        "area_name": "臺南市",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "1級"
+  },
+  {
     "id": "115078",
     "type": "顯著有感",
     "report_content": "11/06-12:01花蓮縣花蓮市發生規模4.0有感地震，最大震度花蓮縣鹽寮3級。",
@@ -1476,44 +1504,6 @@
       }
     ],
     "max_intensity": "3級"
-  },
-  {
-    "id": "S20261005052610",
-    "type": "小區域",
-    "report_content": "10/05-05:26花蓮縣近海發生規模3.5有感地震，最大震度花蓮縣鹽寮2級。",
-    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202610/2026100505261035_H.png",
-    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026100505261035",
-    "origin_time": "2026-10-05T05:26:10+08:00",
-    "depth": 24.7,
-    "magnitude": 3.5,
-    "epicenter": {
-      "location": "花蓮縣政府東北東方  .8  公里 (位於花蓮縣近海)",
-      "latitude": 23.99,
-      "longitude": 121.63
-    },
-    "shaking_areas": [
-      {
-        "area_name": "花蓮縣",
-        "intensity": "2級",
-        "area_desc": "花蓮縣地區"
-      },
-      {
-        "area_name": "花蓮縣",
-        "intensity": "2級",
-        "area_desc": "最大震度2級地區"
-      },
-      {
-        "area_name": "南投縣",
-        "intensity": "1級",
-        "area_desc": "南投縣地區"
-      },
-      {
-        "area_name": "南投縣",
-        "intensity": "1級",
-        "area_desc": "最大震度1級地區"
-      }
-    ],
-    "max_intensity": "2級"
   },
   {
     "id": "115067",

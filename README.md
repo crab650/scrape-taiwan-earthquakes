@@ -26,7 +26,7 @@ The tracker is designed for automated data version control using **GitHub and Py
 
 <!-- EARTHQUAKE_START -->
 
-**⏰ Last Updated (Taipei Time)**: `2026-11-09 09:35:19`
+**⏰ Last Updated (Taipei Time)**: `2026-11-09 10:35:15`
 
 ### 🚨 Latest Earthquake Report
 - **Report ID**: S20261108050710
@@ -44,6 +44,7 @@ The tracker is designed for automated data version control using **GitHub and Py
 | Report ID | Origin Time | Epicenter Location | Mag | Depth (km) | Max Intensity | Type |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | S20261108050710 | 2026-11-08T05:07:10+08:00 | 花蓮縣政府南方  48.3  公里 | 3.7 | 30.6 | **2級** | Local |
+| S20261106235545 | 2026-11-06T23:55:45+08:00 | 高雄市政府西北方  37.2  公里 | 2.7 | 7.9 | **1級** | Local |
 | 115078 | 2026-11-06T12:01:13+08:00 | 花蓮縣政府北北東方  2.4  公里 | 4.0 | 23.0 | **3級** | Significant |
 | 115077 | 2026-11-06T08:37:41+08:00 | 臺東縣政府西南方  12.9  公里 | 4.4 | 7.9 | **3級** | Significant |
 | S20261104074202 | 2026-11-04T07:42:02+08:00 | 花蓮縣政府南方  61.5  公里 | 4.0 | 34.6 | **2級** | Local |
@@ -52,7 +53,6 @@ The tracker is designed for automated data version control using **GitHub and Py
 | S20261103141156 | 2026-11-03T14:11:56+08:00 | 臺東縣政府北北東方  52.5  公里 | 3.7 | 15.3 | **2級** | Local |
 | S20261102102309 | 2026-11-02T10:23:09+08:00 | 宜蘭縣政府東南方  56.6  公里 | 4.8 | 60.4 | **2級** | Local |
 | 115075 | 2026-11-01T16:20:07+08:00 | 宜蘭縣政府東北東方  39.4  公里 | 5.6 | 119.5 | **3級** | Significant |
-| 115074 | 2026-10-30T04:37:43+08:00 | 花蓮縣政府東北方  29.6  公里 | 4.4 | 22.7 | **3級** | Significant |
 
 <!-- EARTHQUAKE_END -->
 
@@ -65,7 +65,7 @@ The tracker is designed for automated data version control using **GitHub and Py
 ### 📈 Yearly General Statistics
 | Year | Significant | Local Area | Total |
 | :--- | :--- | :--- | :--- |
-| 2026 | 46 | 83 | 129 |
+| 2026 | 46 | 84 | 130 |
 
 ### 🏢 Yearly Felt Earthquakes by County (Intensity >= 1)
 | Year | County | Significant | Local Area | Total Felt |
@@ -78,7 +78,7 @@ The tracker is designed for automated data version control using **GitHub and Py
 | 2026 | 彰化縣 | 35 | 16 | 51 |
 | 2026 | 雲林縣 | 35 | 14 | 49 |
 | 2026 | 嘉義縣 | 32 | 15 | 47 |
-| 2026 | 臺南市 | 25 | 10 | 35 |
+| 2026 | 臺南市 | 25 | 11 | 36 |
 | 2026 | 新北市 | 18 | 15 | 33 |
 | 2026 | 新竹縣 | 20 | 11 | 31 |
 | 2026 | 嘉義市 | 25 | 6 | 31 |
