@@ -1,5 +1,43 @@
 [
   {
+    "id": "S20261111171357",
+    "type": "小區域",
+    "report_content": "11/11-17:13宜蘭縣南澳鄉發生規模3.7有感地震，最大震度宜蘭縣牛鬥、新竹縣關西、新北市汐止1級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202611/2026111117135737_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026111117135737",
+    "origin_time": "2026-11-11T17:13:57+08:00",
+    "depth": 45.0,
+    "magnitude": 3.7,
+    "epicenter": {
+      "location": "宜蘭縣政府南南西方  24.9  公里 (位於宜蘭縣南澳鄉)",
+      "latitude": 24.54,
+      "longitude": 121.64
+    },
+    "shaking_areas": [
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "1級",
+        "area_desc": "宜蘭縣地區"
+      },
+      {
+        "area_name": "新竹縣",
+        "intensity": "1級",
+        "area_desc": "新竹縣地區"
+      },
+      {
+        "area_name": "新北市",
+        "intensity": "1級",
+        "area_desc": "新北市地區"
+      },
+      {
+        "area_name": "宜蘭縣、新竹縣、新北市",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "1級"
+  },
+  {
     "id": "S20261111032127",
     "type": "小區域",
     "report_content": "11/11-03:21花蓮縣秀林鄉發生規模3.4有感地震，最大震度花蓮縣銅門2級。",
@@ -1343,44 +1381,6 @@
       },
       {
         "area_name": "花蓮縣、桃園市、新北市、南投縣、新竹縣、臺中市、臺北市、苗栗縣",
-        "intensity": "1級",
-        "area_desc": "最大震度1級地區"
-      }
-    ],
-    "max_intensity": "2級"
-  },
-  {
-    "id": "S20261016074032",
-    "type": "小區域",
-    "report_content": "10/16-07:40花蓮縣壽豐鄉發生規模3.5有感地震，最大震度花蓮縣水璉2級。",
-    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202610/2026101607403235_H.png",
-    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026101607403235",
-    "origin_time": "2026-10-16T07:40:32+08:00",
-    "depth": 18.7,
-    "magnitude": 3.5,
-    "epicenter": {
-      "location": "花蓮縣政府南南西方  17.4  公里 (位於花蓮縣壽豐鄉)",
-      "latitude": 23.85,
-      "longitude": 121.55
-    },
-    "shaking_areas": [
-      {
-        "area_name": "花蓮縣",
-        "intensity": "2級",
-        "area_desc": "花蓮縣地區"
-      },
-      {
-        "area_name": "花蓮縣",
-        "intensity": "2級",
-        "area_desc": "最大震度2級地區"
-      },
-      {
-        "area_name": "南投縣",
-        "intensity": "1級",
-        "area_desc": "南投縣地區"
-      },
-      {
-        "area_name": "南投縣",
         "intensity": "1級",
         "area_desc": "最大震度1級地區"
       }
