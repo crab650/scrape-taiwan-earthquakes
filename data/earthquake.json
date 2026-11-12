@@ -1,5 +1,33 @@
 [
   {
+    "id": "S20261113025437",
+    "type": "小區域",
+    "report_content": "11/13-02:54花蓮縣秀林鄉發生規模3.1有感地震，最大震度花蓮縣秀林、花蓮縣花蓮市2級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202611/2026111302543731_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026111302543731",
+    "origin_time": "2026-11-13T02:54:37+08:00",
+    "depth": 6.5,
+    "magnitude": 3.1,
+    "epicenter": {
+      "location": "花蓮縣政府北北西方  6.5  公里 (位於花蓮縣秀林鄉)",
+      "latitude": 24.05,
+      "longitude": 121.59
+    },
+    "shaking_areas": [
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      }
+    ],
+    "max_intensity": "2級"
+  },
+  {
     "id": "S20261111191510",
     "type": "小區域",
     "report_content": "11/11-19:15雲林縣古坑鄉發生規模3.4有感地震，最大震度雲林縣草嶺3級。",
@@ -1323,44 +1351,6 @@
       },
       {
         "area_name": "屏東縣",
-        "intensity": "1級",
-        "area_desc": "最大震度1級地區"
-      }
-    ],
-    "max_intensity": "2級"
-  },
-  {
-    "id": "S20261021040319",
-    "type": "小區域",
-    "report_content": "10/21-04:03花蓮縣近海發生規模3.4有感地震，最大震度花蓮縣太魯閣2級。",
-    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202610/2026102104031934_H.png",
-    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026102104031934",
-    "origin_time": "2026-10-21T04:03:19+08:00",
-    "depth": 18.2,
-    "magnitude": 3.4,
-    "epicenter": {
-      "location": "花蓮縣政府東北東方  9.9  公里 (位於花蓮縣近海)",
-      "latitude": 24.04,
-      "longitude": 121.7
-    },
-    "shaking_areas": [
-      {
-        "area_name": "花蓮縣",
-        "intensity": "2級",
-        "area_desc": "花蓮縣地區"
-      },
-      {
-        "area_name": "花蓮縣",
-        "intensity": "2級",
-        "area_desc": "最大震度2級地區"
-      },
-      {
-        "area_name": "宜蘭縣",
-        "intensity": "1級",
-        "area_desc": "宜蘭縣地區"
-      },
-      {
-        "area_name": "宜蘭縣",
         "intensity": "1級",
         "area_desc": "最大震度1級地區"
       }
