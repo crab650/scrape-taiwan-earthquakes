@@ -1,7 +1,18 @@
 {
   "county": "臺南市",
-  "updated_at": "2026-11-18 09:35:13",
+  "updated_at": "2026-11-18 10:35:13",
   "earthquakes": [
+    {
+      "id": "S20261118102752",
+      "type": "小區域",
+      "origin_time": "2026-11-18T10:27:52+08:00",
+      "magnitude": 3.5,
+      "depth": 12.6,
+      "epicenter": "臺南市政府東北方  38.2  公里 (位於臺南市東山區)",
+      "local_intensity": "2級",
+      "max_intensity": "2級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202611/2026111810275235_H.png"
+    },
     {
       "id": "S20261116123924",
       "type": "小區域",
