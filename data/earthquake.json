@@ -1,5 +1,43 @@
 [
   {
+    "id": "S20261124230645",
+    "type": "小區域",
+    "report_content": "11/24-23:06臺東縣近海發生規模3.5有感地震，最大震度臺東縣東河2級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202611/2026112423064535_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026112423064535",
+    "origin_time": "2026-11-24T23:06:45+08:00",
+    "depth": 20.1,
+    "magnitude": 3.5,
+    "epicenter": {
+      "location": "臺東縣政府東北方  32.3  公里 (位於臺東縣近海)",
+      "latitude": 23.0,
+      "longitude": 121.32
+    },
+    "shaking_areas": [
+      {
+        "area_name": "臺東縣",
+        "intensity": "2級",
+        "area_desc": "臺東縣地區"
+      },
+      {
+        "area_name": "臺東縣",
+        "intensity": "2級",
+        "area_desc": "最大震度2級地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "1級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "2級"
+  },
+  {
     "id": "S20261124161135",
     "type": "小區域",
     "report_content": "11/24-16:11臺南市安南區發生規模3.1有感地震，最大震度臺南市1級。",
@@ -696,44 +734,6 @@
       }
     ],
     "max_intensity": "4級"
-  },
-  {
-    "id": "S20261108050710",
-    "type": "小區域",
-    "report_content": "11/08-05:07花蓮縣近海發生規模3.7有感地震，最大震度臺東縣長濱2級。",
-    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202611/2026110805071037_H.png",
-    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026110805071037",
-    "origin_time": "2026-11-08T05:07:10+08:00",
-    "depth": 30.6,
-    "magnitude": 3.7,
-    "epicenter": {
-      "location": "花蓮縣政府南方  48.3  公里 (位於花蓮縣近海)",
-      "latitude": 23.56,
-      "longitude": 121.55
-    },
-    "shaking_areas": [
-      {
-        "area_name": "臺東縣",
-        "intensity": "2級",
-        "area_desc": "臺東縣地區"
-      },
-      {
-        "area_name": "臺東縣",
-        "intensity": "2級",
-        "area_desc": "最大震度2級地區"
-      },
-      {
-        "area_name": "花蓮縣",
-        "intensity": "1級",
-        "area_desc": "花蓮縣地區"
-      },
-      {
-        "area_name": "花蓮縣",
-        "intensity": "1級",
-        "area_desc": "最大震度1級地區"
-      }
-    ],
-    "max_intensity": "2級"
   },
   {
     "id": "S20261106235545",
