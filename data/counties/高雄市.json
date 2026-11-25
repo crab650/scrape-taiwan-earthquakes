@@ -1,7 +1,18 @@
 {
   "county": "高雄市",
-  "updated_at": "2026-11-25 16:35:17",
+  "updated_at": "2026-11-25 17:35:16",
   "earthquakes": [
+    {
+      "id": "115081",
+      "type": "顯著有感",
+      "origin_time": "2026-11-25T16:47:17+08:00",
+      "magnitude": 5.5,
+      "depth": 16.7,
+      "epicenter": "臺東縣政府南南東方  101.9  公里 (位於臺灣東南部海域)",
+      "local_intensity": "2級",
+      "max_intensity": "4級",
+      "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202611/2026112516471755081_H.png"
+    },
     {
       "id": "115080",
       "type": "顯著有感",
