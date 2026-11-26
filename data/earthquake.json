@@ -1,5 +1,38 @@
 [
   {
+    "id": "S20261126084347",
+    "type": "小區域",
+    "report_content": "11/26-08:43宜蘭縣近海發生規模3.7有感地震，最大震度宜蘭縣南澳、花蓮縣和平1級。",
+    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202611/2026112608434737_H.png",
+    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026112608434737",
+    "origin_time": "2026-11-26T08:43:47+08:00",
+    "depth": 46.4,
+    "magnitude": 3.7,
+    "epicenter": {
+      "location": "宜蘭縣政府南南東方  35.1  公里 (位於宜蘭縣近海)",
+      "latitude": 24.43,
+      "longitude": 121.86
+    },
+    "shaking_areas": [
+      {
+        "area_name": "宜蘭縣",
+        "intensity": "1級",
+        "area_desc": "宜蘭縣地區"
+      },
+      {
+        "area_name": "花蓮縣",
+        "intensity": "1級",
+        "area_desc": "花蓮縣地區"
+      },
+      {
+        "area_name": "宜蘭縣、花蓮縣",
+        "intensity": "1級",
+        "area_desc": "最大震度1級地區"
+      }
+    ],
+    "max_intensity": "1級"
+  },
+  {
     "id": "115081",
     "type": "顯著有感",
     "report_content": "11/25-16:47臺灣東南部海域發生規模5.5有感地震，最大震度臺東縣蘭嶼4級。",
@@ -822,34 +855,6 @@
       }
     ],
     "max_intensity": "4級"
-  },
-  {
-    "id": "S20261106235545",
-    "type": "小區域",
-    "report_content": "11/06-23:55高雄市近海發生規模2.7有感地震，最大震度臺南市1級。",
-    "report_image": "https://scweb.cwa.gov.tw/webdata/OLDEQ/202611/2026110623554527_H.png",
-    "web_link": "https://scweb.cwa.gov.tw/zh-tw/earthquake/details/2026110623554527",
-    "origin_time": "2026-11-06T23:55:45+08:00",
-    "depth": 7.9,
-    "magnitude": 2.7,
-    "epicenter": {
-      "location": "高雄市政府西北方  37.2  公里 (位於高雄市近海)",
-      "latitude": 22.9,
-      "longitude": 120.12
-    },
-    "shaking_areas": [
-      {
-        "area_name": "臺南市",
-        "intensity": "1級",
-        "area_desc": "臺南市地區"
-      },
-      {
-        "area_name": "臺南市",
-        "intensity": "1級",
-        "area_desc": "最大震度1級地區"
-      }
-    ],
-    "max_intensity": "1級"
   },
   {
     "id": "115078",
